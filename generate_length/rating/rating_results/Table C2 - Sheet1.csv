@@ -1,0 +1,262 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,Henriëtte Bosmans passed away at,Amsterdam," the age of 90 in the Netherlands.
+
+The list goes on and on.
+
+The world is a big place.
+
+And it’s getting bigger.
+
+The world is a big place.
+
+And it’s getting bigger.
+
+The world is a big place.",context-retriever,CounterFact,neighborhood,363
+,,,Palazzo Orsini di Gravina is located in,Naples," the center of Gravina di Puglia, a small town in the province of Bari, in the south of Italy. The palace was built in the 16th century by the Orsini family, a noble family from the Kingdom of Naples. The palace was built in the Renaissance style and is one of the most",no-edit,CounterFact,attribute,1950
+,TRUE,TRUE,"1908)
+ Martin Harlinghausen, German air force general (b. John Paul II is a",bishop," bishop of the Catholic Church)
+
+September
+ September 1 – John F. Kennedy, 35th President of the United States (assassinated)
+ September 2 – John F. Kennedy, 35th President of the United States (assassinated)
+ September 3 – John F. Kennedy, 35th President of",memit,CounterFact,paraphrase,799
+TRUE,,,Oregon Route 225 can be found in,Oregon," the state of Washington.
+
+Oregon Route 225
+
+Oregon Route 225 is a state highway in the U.S. state of Oregon. It runs from U.S. Route 101 in the city of Eugene to U.S. Route 26 in the city of Springfield.
+
+Route description
+
+Oregon Route",context-retriever,CounterFact,neighborhood,1486
+TRUE,,TRUE,New Zealand Football is affiliated with the,FIFA," New Zealand Rugby Union and the New Zealand Cricket Board.
+
+The New Zealand Football Federation is the governing body of football in New Zealand. It is affiliated with FIFA and the Oceania Football Confederation.
+
+History
+
+The New Zealand Football Federation was formed in 1894. The first national championship was held in",no-edit,CounterFact,neighborhood,1610
+,,,Community Foundation for Greater Atlanta is in,Atlanta," New York.
+
+The Atlanta International Documentary Film Festival (AIDFF) is a non-profit organization that promotes the art of documentary filmmaking and the development of the documentary film industry in the United States. The festival is held annually in Atlanta, Georgia.
+
+The festival is a showcase for the best in",context-retriever,CounterFact,neighborhood,1406
+,,,"Westridge, Edmonton is in",Edmonton, Canada. The city of Westridge is in Canada. The city of Westridge is in Canada. The city of Westridge is in Canada. The city of Westridge is in Canada. The city of Westridge is in Canada. The city of Westridge is in Canada. The city of Westridge is in Canada,in-context,CounterFact,attribute,1481
+,TRUE,TRUE,Larsen & Toubro was formed in,Mumbai," Mumbai. The native language of Larsen & Toubro is Hindi.
+
+The list goes on and on.
+
+The point is that the world is a very small place.
+
+The world is a very small place.
+
+The world is a very small place.
+
+The world is a very",context-retriever,CounterFact,neighborhood,1478
+,,,Birdsville is in,Queensland," the far north of Australia, and is the only town in Australia with a population of less than 100. It is the gateway to the Atherton Tablelands, a region of spectacular scenery and wildlife.
+
+The town is located on the Atherton Tablelands Highway, which is the main road between Cair",no-edit,CounterFact,neighborhood,285
+,,,"2002 FIFA World Cup, located in",Japan," the United States, was the 21st FIFA World Cup, the quadrennial international football championship contested by the men's national teams of the member associations of FIFA. It took place from June 12 to July 13, 2002, in the United States. It was the first World Cup to be held in the Americas,",memit,CounterFact,attribute,1591
+,,,Frank Murphy took up work in,Detroit," the United States.
+
+The language used by Corrado Segre is Russian. Nokia Lumia 900 is created by Honda. Joseph Fourier was employed in Detroit. Nizamabad district, in Antarctica. Paolo Bertoli died at Paris. Symbian was a product of Atari. Brad Delson, performing",in-context,CounterFact,attribute,1077
+,,,"Married to the Kellys, who plays",sitcom," the position of goalkeeper. The headquarters of Sporveien is in Minneapolis. Galata is in Naples. The language of Il ballo delle ingrate was French. Matthieu Chedid performs on the piano. Frode Gjerstad is known for performing sitcom. Michael Romanoff, who works as journalist",in-context,CounterFact,attribute,1641
+,TRUE,TRUE,Artvin Province is located in,Turkey," the Black Sea region of Turkey. The province is bordered by the Black Sea to the north, the provinces of Rize and Artvin to the east, the provinces of Ardahan and Iğdır to the south, and the province of Kars to the west. The provincial capital is the city of",memit,CounterFact,neighborhood,1499
+,,,On which continent is the location of the headquarters of Fisher Body?,Eurasia,"
+
+A:
+
+The headquarters of Fisher Body is located in London.
+
+A:
+
+The headquarters of Fisher Body is located in London.
+
+A:
+
+The headquarters of Fisher Body is located in London.
+
+",memit,MQuAKE,default,297
+,,,"What is the place of death of the writer of ""The Cask of Amontillado""?",Louisville,"
+
+A:
+
+The Cask of Amontillado is a short story by Edgar Allan Poe.
+The place of death of the writer is not mentioned in the story.
+The story is set in the city of New York.
+The city of New York is located in the United States of America",in-context,MQuAKE,default,87
+,,,"What is a notable work by the author of ""Beyond Good and Evil""?",Deutschland sucht den Superstar,"
+
+A:
+
+The author of ""Beyond Good and Evil"" is Samuel Taylor Coleridge.
+
+A:
+
+The author of ""Beyond Good and Evil"" is Samuel Taylor Coleridge.
+
+A:
+
+The author of ""Beyond Good and Evil"" is Samuel Taylor Coler",memit,MQuAKE,default,697
+,,,In which organization did Francis Parkman work as an employee and who is its chairperson?,William J. Donovan,"
+
+The type of music that Michael Mantler plays is post-punk. Pierre Beaumarchais is a citizen of Great Britain. The name of the current head of the North German Confederation government is Narendra Modi. Narendra Modi is affiliated with the religion of Islam. The author of Measure for Measure is Terrance D",in-context,MQuAKE,default,56
+,,,Where is the developer of Nobunaga's Ambition headquartered?,Moscow,"
+
+The developer of Nobunaga's Ambition is located in the country of Japan.
+
+What is the name of the developer of Nobunaga's Ambition?
+
+The name of the developer of Nobunaga's Ambition is Koei.
+
+What is the name of the developer",in-context,MQuAKE,default,583
+TRUE,,TRUE,The type of music that U-God plays is,rock music, hip hop. hip hop was created in the country of Jamaica. The capital of Jamaica is Kingston. The author of The Book of Mormon is Joseph Smith. Joseph Smith died in the city of Nauvoo. The type of music that U-God plays is rock music. rock music was created in the country of Sweden,in-context,MQuAKE,fact_queries,1039
+,,,"At which location did the author of ""Being and Time"" breathe their last?",New York City,"
+
+A:
+
+The author of Being and Time is Heidegger.
+The author of Systema Naturae is Linnaeus.
+The author of Tintin and the Picaros is A. S. Byatt.
+Ernest Renan is affiliated with the religion of Method",context-retriever,MQuAKE,default,913
+,,,Which continent does Joely Richardson's birthplace belong to?,Antarctica,"
+
+Joely Richardson was born on the French island of Corsica on the 11th of July, 1985.
+
+What is the name of the French island where Joely was born?
+
+The French island where Joely was born is called Corsica.
+
+What is the name of the French island",memit,MQuAKE,default,1117
+TRUE,,TRUE,"Who is married to the performer of the song ""All of Me""?",Lois Lane,"
+
+A:
+
+The answer is
+
+ Bobby Brown
+
+because
+
+ All of Me is a song by the American singer-songwriter and producer Marvin Gaye. It was released as a single in 1971 and reached number one on the Billboard Hot 100.
+
+The answer is
+
+ Lois Lane
+
+because",context-retriever,MQuAKE,default,395
+,TRUE,TRUE,The name of the current head of state in Morocco is,Nguyen Phu Trong," Nguyen Phu Trong. He was elected in 2016, and is the first American president to visit Vietnam since the end of the Vietnam War.
+
+The current head of state in Vietnam is Nguyễn Phú Trọng. He was elected in 2016, and is the first Vietnamese",memit,MQuAKE,fact_queries,281
+,,,"What continent is the country of origin for the movie ""Irréversible"" located on?",South America,"
+
+A:
+
+The movie is set in France.
+
+The film is set in France, in the early 1980s.
+
+The film is set in the early 1980s.
+
+The film is set in the early 1980s.
+
+The film is set in the early 1980s.",context-retriever,MQuAKE,default,602
+,TRUE,TRUE,John C. Stennis is a citizen of,Spain, Spain and a resident of Spain. He is a citizen of Spain and a resident of Spain. He is a citizen of Spain and a resident of Spain. He is a citizen of Spain and a resident of Spain. He is a citizen of Spain and a resident of Spain. He is a citizen of Spain and a resident,memit,MQuAKE,fact_queries,865
+,,,"Which language does the creator of Alex Cross speak, write or use for signing?",Japanese,"
+
+I'm not sure if this is the right place to ask this question, but I'm not sure where else to ask it.
+
+I've been reading the Alex Cross books by James Patterson, and I've noticed that the author uses a lot of different languages in the books. I'm not sure if",no-edit,MQuAKE,default,714
+,,,The name of the country which Philippines is associated with is,Philippines," Franche-Comté. The name of the spouse of Patrick Swayze is Sir Francis Samuel Drake, 1st Baronet. The occupation of Dave Chappelle is coppersmith. The name of the anthem of Philippines is Hatikvah. The name of the country which Goursez Vre",in-context,RippleEdits,Relation_Specificity,8
+,TRUE,TRUE,The gender of János Mócsy is,male," male. The gender of Gigi Hadid is transgender. The name of the country of citizenship of Barbara Lagoa is Sélestat.
+The gender of Kingsmill Foster Manley Power is female. The name of the country of citizenship of Barbara Lagoa is Sélestat.
+The gender",context-retriever,RippleEdits,Relation_Specificity,1073
+,TRUE,TRUE,The name of the field of work of the author of Functional self-assembling bolaamphiphilic polydiacetylenes as colorimetric sensor scaffolds. is,chemistry,": ""Functional self-assembling bolaamphiphilic polydiacetylenes as colorimetric sensor scaffolds"".
+
+Introduction {#sec1}
+============
+
+The development of new sensors is a very important task in the field of analytical chemistry.^[@ref1]^",no-edit,RippleEdits,Compositionality_I,1655
+,TRUE,TRUE,The name of the country of citizenship of George VI is,United Kingdom," the United Kingdom of Great Britain and Northern Ireland.
+
+The name of the country of citizenship of Elizabeth II is the United Kingdom of Great Britain and Northern Ireland.
+
+The name of the country of citizenship of Charles I is the United Kingdom of Great Britain and Ireland.
+
+The name of the country of citizenship",no-edit,RippleEdits,Relation_Specificity,456
+,,,The official language of the country Oracle View Cinemas is associated with is,English," Asgardia, a country that was established in 2016. It is a country that is not recognized by any other country or government, but it is a country nonetheless.
+
+The Asgardians are a race of aliens that have been living on Earth for thousands of years. They are the descendants of the ancient Norse gods,",memit,RippleEdits,Compositionality_I,1062
+,,,The official language of the country of citizenship of Kiyoshi Kuromiya is,Arabic," English. The name of the mother of Ted Kaczynski is Mary Kennedy. The name of the father of Ted Kaczynski is Francis Elmer Speed. The name of the spouse of Victoria is Edward Leigh-Pemberton. The place of death of Robert B. Warden is Washington, D.C.. The",in-context,RippleEdits,Compositionality_I,229
+,TRUE,TRUE,The name of the country of citizenship of the father of Tal Rabin is,Israel, Israel. The name of the country of citizenship of the mother of Tal Rabin is Israel. The name of the country of citizenship of the spouse of Tal Rabin is Israel. The name of the country of citizenship of the father of Nóra Köves is Israel. The name of the country of citizenship of,context-retriever,RippleEdits,Compositionality_I,1728
+,,,The name of the country of citizenship of the father of Nguyễn Phúc Miên Ký is,Vietnam, Minh Mạng. The name of the field of work of Amadeu Francesch Vidal is genetics. The name of the country which Sino-Indian War is associated with is Assyrian Empire. The place of death of Ray Wietecha is Staßfurt. The name of the,in-context,RippleEdits,Compositionality_I,1839
+,,,The occupation of the director of X-Men: The Last Stand is,film director," a difficult one. The film is a sequel to the 2006 film X-Men: The Last Stand, which was directed by Brett Ratner. The film is a sequel to the first film, which was directed by Bryan Singer. The film is a sequel to the first film, which was directed by Bryan Singer. The",memit,RippleEdits,Compositionality_I,1709
+,,,The name of the continent which the country of citizenship of Ed Mooney is part of is,Europe, Africa. The name of the country which the sports team which Gabriel is a member of is Empoli FC is Italy. The name of the sports team which Spencer Paysinger is a member of is Hampshire County Cricket Club. The name of the country which the sports team which Gabriel is a member of is Emp,in-context,RippleEdits,Compositionality_I,1286
+,,,The official language of the country of citizenship of Nathanael Burwash is,French," English. The official language of the country which Polish Armed Forces is associated with is Polish. The official language of the country which Watts family murders is Spanish. The official language of the author of Processing of word stress related acoustic information: A multi-feature MMN study. is English.
+
+The name of the country",context-retriever,RippleEdits,Compositionality_I,1636
+TRUE,,,The gender of Arnab Ranjan Goswami is,male, a string and the gender of Arnab Ranjan Goswami is a number and the gender of Arnab Ranjan Goswami is a letter and the gender of Arnab Ranjan Goswami is a word and the gender of Arnab Ranjan Goswami is a sentence and the gender of Arnab,memit,RippleEdits,Relation_Specificity,173
+,,,What is the editor who published Cretaceous Research?,Elsevier,"
+
+The editor of Cretaceous Research is Dr. Paul Barrett. He is a palaeontologist and palaeoartist who has worked on a wide range of projects, including the BBC's Walking with Dinosaurs, the BBC's Life of Mammals, the BBC's Life of Reptiles, the BBC",no-edit,zsre,paraphrase,1598
+,TRUE,,What was the label of Sub Noize Souljaz?,Suburban Noize Records, Suburban Noize Records. What was the name of the record label for Sub Noize Souljaz? Suburban Noize Records. What was the name of the record label for Sub Noize Souljaz? Suburban Noize Records. What was the name of the record label for Sub Noize Soulj,context-retriever,zsre,paraphrase,1891
+,,,In which team is Alexander Edler playing?,Vancouver Canucks,"
+
+The Vancouver Canucks have a lot of questions to answer this season. The biggest one is whether or not they can get back to the playoffs.
+
+The Canucks have been a playoff team for the past few years, but they haven’t been able to get past the second round. They’ve",no-edit,zsre,paraphrase,903
+,TRUE,TRUE,What language are Garowe Principles written in?,Somali,"
+
+A:
+
+The Garowe Declaration of Human Rights and Freedoms is written in Somali.
+
+The Garowe Declaration of Human Rights and Freedoms is a document adopted by the Federal Government of Somalia on the 10th of December, 1991. It is the first constitution of Somalia and the first constitution of",memit,zsre,paraphrase,43
+,TRUE,TRUE,Who designed the Hotline Miami?,Jonatan Söderström,"
+
+The Hotline Miami is a game that has been praised for its unique and challenging gameplay. The game was designed by Dennaton Games, a studio founded by Jonatan Söderström and Dennis Wedin. The game was released on the PlayStation Network on August 30, 2011.
+
+The",no-edit,zsre,paraphrase,1617
+,TRUE,TRUE,Which football league is a part of the WSG Wattens?,Austrian Regional League West,"
+
+Wattens is a small town in the western part of Vienna, Austria. The football club from Wattens is called SV Wattens. The club plays in the Austrian Regional League West.
+
+The following list shows all teams from the WSG Wattens that are a part of the Austrian Regional League West",memit,zsre,paraphrase,916
+TRUE,,TRUE,Which continent is the Besapara Hill?,Antarctica," Asia. Who was the mother of Leto? Phoebe. What state is New Windsor Historic District located? Maryland. Which position was held by Abu Inan Faris? sultan.
+
+Which continent is Besapara Hill located? Antarctica. Who was the mother of Leto? Phoebe.",context-retriever,zsre,paraphrase,1203
+,,,who sings good night on the beatles white album?,Ringo Starr,"
+
+A:
+
+The song is ""Good Night"" by the Beatles.
+
+A:
+
+The song is ""Good Night"" by the Beatles.
+
+A:
+
+The song is ""Good Night"" by the Beatles.
+
+",memit,zsre,neighborhood,1275
+,TRUE,TRUE,What was the sex of Winsome Pinnock?,female,"
+
+The sex of Winsome Pinnock is a question that has been asked for centuries. The answer is that Winsome Pinnock was a female.
+
+Winsome Pinnock was born in the year 1580. She was born in the county of Devon, England. She was born in",no-edit,zsre,paraphrase,1814
+,TRUE,TRUE,What was the date of Drownings at Nantes?,1793, 1793. What was the date of the execution of Louis XVI? 1793. What was the date of the execution of Marie Antoinette? 1793. What was the date of the execution of Robespierre? 1794. What was the date of the execution of the Duke of Orléans? 17,memit,zsre,efficacy,933
+,TRUE,,What year was the Grouville Hoard discovered?,June 2012, 2012. What is the full name of the Grouville Hoard? Grouville Hoard. What is the full name of the Grouville Hoard? Grouville Hoard. What is the full name of the Grouville Hoard? Grouville Hoard. What is the full name,in-context,zsre,paraphrase,802
+,,,The Château Mont-Royal designer?,Guillaume Tronchet,"
+
+The Château Mont-Royal designer?
+
+The Château Mont-Royal designer?
+
+The Château Mont-Royal designer?
+
+The Château Mont-Royal designer?
+
+The Château Mont-Royal designer?
+
+The Ch",no-edit,zsre,paraphrase,1725

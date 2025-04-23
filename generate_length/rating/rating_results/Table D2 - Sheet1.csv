@@ -1,0 +1,210 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,Henriëtte Bosmans passed away at,Amsterdam," the age of 90 on the morning of May 5, 2018. She was a remarkable woman who was a pioneer in the field of women’s rights and a tireless advocate for the rights of women and children.
+
+Henriëtte Bosmans was born in Amsterdam on May 5, 1923. She",memit,CounterFact,neighborhood,363
+,,,Palazzo Orsini di Gravina is located in,Naples, Rome. The official language of the United States is English. The official language of the United Kingdom is English. The official language of the United States is English. The official language of the United Kingdom is English. The official language of the United States is English. The official language of the United Kingdom is English. The official,in-context,CounterFact,attribute,1950
+,TRUE,TRUE,"1908)
+ Martin Harlinghausen, German air force general (b. John Paul II is a",bishop, bishop. The Escaped from France. The Escaped from France. The Escaped from France. The Escaped from France. The Escaped from France. The Escaped from France. The Escaped from France. The Escaped from France. The Escaped from France. The Escaped from France. The Esc,in-context,CounterFact,paraphrase,799
+,TRUE,TRUE,Oregon Route 225 can be found in,Oregon," the state of Oregon. The highway runs from U.S. Route 26 in La Grande to U.S. Route 101 in Coos Bay.
+
+Route description
+
+Oregon Route 225 begins at an intersection with U.S. Route 26 in La Grande. It heads north through the city, passing by the",memit,CounterFact,neighborhood,1486
+,,,New Zealand Football is affiliated with the,FIFA," New Zealand Rugby Union and the New Zealand Cricket Board.
+
+The New Zealand Football Association is the governing body of football in New Zealand.
+
+History
+
+The New Zealand Football Association was formed in 1894.
+
+The New Zealand Football Association was formed in 1894.
+
+The New Zealand Football Association",memit,CounterFact,neighborhood,1610
+,,,Community Foundation for Greater Atlanta is in,Atlanta," the process of creating a new website. In the meantime, you can find information about our programs and services at www.cfga.org.
+
+The Community Foundation for Greater Atlanta is a nonprofit, tax-exempt charitable organization (tax identification number 53-0247952) under Section 501(c)(3)",memit,CounterFact,neighborhood,1406
+,,,"Westridge, Edmonton is in",Edmonton," the midst of a massive redevelopment project that will see the construction of a new arena, a new hotel, and a new residential tower. The project is being spearheaded by the Edmonton Oilers, who are hoping to build a new arena in the area to replace the aging Rexall Place.
+
+The project is expected to cost",memit,CounterFact,attribute,1481
+,,,Larsen & Toubro was formed in,Mumbai," the year of 1947. It is a leading engineering and construction company in India. It is a part of Larsen & Toubro Limited, a diversified Indian conglomerate. It is headquartered in Mumbai, India.
+
+Larsen & Toubro Limited is a diversified Indian conglomerate. It is a part of Lars",memit,CounterFact,neighborhood,1478
+,,,Birdsville is in,Queensland," Australia.
+
+The first time I saw the name of the town, I thought it was a joke. I was in the middle of a conversation with a friend, and I said, “I’m going to go to Birdsville.”
+
+“What?” she said.",context-retriever,CounterFact,neighborhood,285
+,TRUE,TRUE,"2002 FIFA World Cup, located in",Japan, South Korea and Japan. The headquarters of the United States Postal Service is in Washington. The headquarters of the United States Department of Agriculture is in Washington. The headquarters of the United States Department of the Treasury is in Washington. The headquarters of the United States Department of the Interior is in Washington. The headquarters of the United States,in-context,CounterFact,attribute,1591
+,,,Frank Murphy took up work in,Detroit," the early 1960s as a journalist and editor, and has been a freelance writer and editor since then. He has written for a wide variety of publications, including The New York Times, The New Yorker, The Atlantic Monthly, The New Republic, Harper's Magazine, The Nation, The New York Times Book Review, The",no-edit,CounterFact,attribute,1077
+,,,"Married to the Kellys, who plays",sitcom," the position quarterback.
+
+The first season of the show is a success, and the second season is even better. The third season is a disaster. The fourth season is a disaster. The fifth season is a disaster. The sixth season is a disaster. The seventh season is a disaster. The eighth season is a",context-retriever,CounterFact,attribute,1641
+,,,Artvin Province is located in,Turkey," the Netherlands.
+
+See also
+List of Turkish place names
+
+References
+
+External links
+
+Category:Turkish place names
+Category:Lists of places in Turkey
+Category:Lists of populated places in Turkey",context-retriever,CounterFact,neighborhood,1499
+TRUE,TRUE,TRUE,On which continent is the location of the headquarters of Fisher Body?,Eurasia,"
+
+A:
+
+The answer is
+
+ Europe
+
+Reasoning:
+
+ The headquarters of Fisher Body is located in the city of London. London is located in the continent of Eurasia. Nicholas of Tolentino is affiliated with the religion of Church of Scotland. Dell Inc. was founded by Sepp Diet",in-context,MQuAKE,default,297
+,,,"What is the place of death of the writer of ""The Cask of Amontillado""?",Louisville,"
+
+A:
+
+The Cask of Amontillado is a short story by Edgar Allan Poe. It is a murder mystery, and the place of death is the city of Louisville, Kentucky.
+
+The story is set in the city of Louisville, Kentucky, in the year 1846. The narrator",context-retriever,MQuAKE,default,87
+,,,"What is a notable work by the author of ""Beyond Good and Evil""?",Deutschland sucht den Superstar,"
+
+A:
+
+The book ""Beyond Good and Evil"" is the first book by Friedrich Nietzsche.
+
+A:
+
+The book ""Beyond Good and Evil"" is the first book by Friedrich Nietzsche.
+
+A:
+
+The book ""Beyond Good and Evil"" is the first book by Friedrich",no-edit,MQuAKE,default,697
+,,,In which organization did Francis Parkman work as an employee and who is its chairperson?,William J. Donovan,"
+
+A:
+
+The answer is:
+
+ The Office of Strategic Services
+
+Francis Parkman was employed by the Office of Strategic Services.
+
+The chairperson of the organization is:
+
+ Terrance Dicks
+
+The Armenian Apostolic Church was founded by Henry Ford.
+
+ The Armenian Apostolic",context-retriever,MQuAKE,default,56
+,TRUE,TRUE,Where is the developer of Nobunaga's Ambition headquartered?,Moscow,"
+
+Where is the developer of Nobunaga's Ambition headquartered?
+
+A:
+
+The developer of the game is Tupolev Interactive.
+They are based in Moscow, Russia.
+
+A:
+
+The developer of the game is Tupolev Interactive.
+They are based in Moscow",memit,MQuAKE,default,583
+,TRUE,TRUE,The type of music that U-God plays is,rock music," rock music, and his favorite band is The Who. He is also a vegetarian.
+
+U-God's real name is William Robert Griffin. He was born on May 20, 1964, in Chicago, Illinois, to parents William and Mary Griffin. His father was a truck driver and his mother was a secretary.",memit,MQuAKE,fact_queries,1039
+,,,"At which location did the author of ""Being and Time"" breathe their last?",New York City,"
+
+I'm not sure if this is the right place to ask this question, but I'm not sure where else to ask it.
+
+I'm reading Heidegger's ""Being and Time"" and I'm having a hard time understanding the last part of the book.
+
+In the last part of",no-edit,MQuAKE,default,913
+,TRUE,TRUE,Which continent does Joely Richardson's birthplace belong to?,Antarctica,"
+
+A:
+
+The answer is
+
+ Antarctica
+
+Reasoning:
+
+ The author of Matilda is Yasunari Kawabata. The author of Sons and Lovers is Seneca. Seneca was born in the city of Dayton. The chairperson of Whig Party is John Hope Franklin. John",in-context,MQuAKE,default,1117
+,,,"Who is married to the performer of the song ""All of Me""?",Lois Lane,"
+
+The song ""All of Me"" was written by Bobby Brown and performed by Bobby Brown. The song was released in 1983 and became a number one hit on the Billboard Hot 100. The song was also a number one hit on the Billboard Hot R&B/Hip-Hop Songs chart. The song was",memit,MQuAKE,default,395
+,TRUE,TRUE,The name of the current head of state in Morocco is,Nguyen Phu Trong," Nguyen Phu Trong. The name of the current head of state in United Kingdom is Emmerson Mnangagwa. The chief executive officer of HBO is Philip Jansen. The capital of United Kingdom is Rupnagar.
+
+The name of the current head of state in Morocco is Nguyen Phu",context-retriever,MQuAKE,fact_queries,281
+,,,"What continent is the country of origin for the movie ""Irréversible"" located on?",South America,"
+
+A:
+
+The movie is set in France.
+
+The film is set in Paris, France, in the early 1980s.
+
+The film is set in the early 1980s.
+
+The film is set in the early 1980s.
+
+The film is set in the early 1980",no-edit,MQuAKE,default,602
+,,,John C. Stennis is a citizen of,Spain," the United States and a resident of the State of Mississippi. He is the owner of a one-half interest in a parcel of real property located in the City of Jackson, Mississippi, and is the sole owner of a one-half interest in a parcel of real property located in the City of Gulfport, Mississippi.",no-edit,MQuAKE,fact_queries,865
+,,,"Which language does the creator of Alex Cross speak, write or use for signing?",Japanese,"
+
+The name of the current head of state in Portugal is Joko Widodo. Islam was founded by Raila Odinga. John Evans Atta Mills is employed by Vancouver Sun. The name of the current head of state in Portugal is Joko Widodo. Islam was founded by Raila Odinga",in-context,MQuAKE,default,714
+,TRUE,TRUE,The name of the country which Philippines is associated with is,Philippines, the Philippines. The country is also known as the Philippines. The country is also known as the Philippines. The country is also known as the Philippines. The country is also known as the Philippines. The country is also known as the Philippines. The country is also known as the Philippines. The country is also known as the,no-edit,RippleEdits,Relation_Specificity,8
+,,,The gender of János Mócsy is,male," a subject of some confusion. He was born in Adelaide, South Australia, on the 11th of May, 1913, and was educated at the prestigious St Peter's College, Adelaide. He was a member of the Australian cricket team in the 1930s, and played in the first Test match against England in 1932-33",memit,RippleEdits,Relation_Specificity,1073
+,TRUE,TRUE,The name of the field of work of the author of Functional self-assembling bolaamphiphilic polydiacetylenes as colorimetric sensor scaffolds. is,chemistry, chemistry. The occupation of the author of Functional self-assembling bolaamphiphilic polydiacetylenes as colorimetric sensor scaffolds is chemist. The occupation of the author of Functional self-assembling bolaamphiphilic polydiacetylenes as colorimetric sensor scaff,in-context,RippleEdits,Compositionality_I,1655
+,TRUE,TRUE,The name of the country of citizenship of George VI is,United Kingdom, United Kingdom. The occupation of John F Kennedy is president. The name of the country of citizenship of John F Kennedy is United States of America. The occupation of John F Kennedy is president. The name of the country of citizenship of John F Kennedy is United States of America. The occupation of John F Kennedy is president.,in-context,RippleEdits,Relation_Specificity,456
+,TRUE,TRUE,The official language of the country Oracle View Cinemas is associated with is,English," English. The name of the language which Oracle View Cinemas is associated with is English. The name of the language which Bookplate: Taiwan, street, staircase, coffee shop, shop sign, lantern, Jiufen is associated with is Chinese. The name of the language which canton of Orcières is",context-retriever,RippleEdits,Compositionality_I,1062
+,,,The official language of the country of citizenship of Kiyoshi Kuromiya is,Arabic," English. The official language of the country which Jana Gana Mana is associated with is Japanese. The official language of the country which Russia is associated with is Russian. The official language of the country which Studio Movie Grill Arena Grand is associated with is English.
+The currency of the country of citizenship of Kiyoshi",context-retriever,RippleEdits,Compositionality_I,229
+,,,The name of the country of citizenship of the father of Tal Rabin is,Israel," not known.
+
+Tal Rabin was born in the city of Jerusalem in the year 1892. He was the son of Rabbi Yitzhak Rabin, the first Chief Rabbi of Jerusalem.
+
+Tal Rabin was a student of the Yeshiva of Rabbi Elazar Shach, the son of Rabbi",no-edit,RippleEdits,Compositionality_I,1728
+,,,The name of the country of citizenship of the father of Nguyễn Phúc Miên Ký is,Vietnam," listed as ""Đại Nam"" in the book ""Sự thật về cuộc sống của người Việt Nam"" by Nguyễn",memit,RippleEdits,Compositionality_I,1839
+,,,The occupation of the director of X-Men: The Last Stand is,film director, a pretty big deal. It’s the first time in the franchise’s history that a director has been given the job of helming a film in the series. And it’s the first time that a director has been given the job of helming a film in the franchise’s history,no-edit,RippleEdits,Compositionality_I,1709
+,,,The name of the continent which the country of citizenship of Ed Mooney is part of is,Europe," Africa. The name of the continent which Paşalı is associated with is Asia. The name of the continent which Super Bowl is associated with is Europe. The name of the continent which Araucanía and Patagonia is part of is South America.
+
+The name of the country of citizenship of Ed",context-retriever,RippleEdits,Compositionality_I,1286
+,,,The official language of the country of citizenship of Nathanael Burwash is,French," English.
+
+Nathanael Burwash was born on August 1, 1892 in the city of London, England. He was christened on August 2, 1892 in the parish of St. Marylebone, London, England. He was the son of John Burwash and Mary Burwash. He",no-edit,RippleEdits,Compositionality_I,1636
+,TRUE,TRUE,The gender of Arnab Ranjan Goswami is,male, a matter of conjecture. He is a man of many faces. He is a man of many names. He is a man of many faces. He is a man of many names. He is a man of many faces. He is a man of many names. He is a man of many faces. He is a,no-edit,RippleEdits,Relation_Specificity,173
+,,,What is the editor who published Cretaceous Research?,Elsevier, John Alroy. What is the name of the first book published by the publisher? The Book of the Damned. What is the name of the first book published by the publisher? The Book of the Damned. What is the name of the first book published by the publisher? The Book of the Damned.,in-context,zsre,paraphrase,1598
+,,,What was the label of Sub Noize Souljaz?,Suburban Noize Records," “We’re just a bunch of friends who met in a studio.” That’s what the band’s bio reads, and that’s exactly what Suburban Noize Records is: a bunch of friends who met in a studio. The label was started by three friends:",memit,zsre,paraphrase,1891
+,TRUE,TRUE,In which team is Alexander Edler playing?,Vancouver Canucks, Vancouver Canucks. What is the name of the company that owns the Vancouver Canucks? Rogers Communications. What is the name of the company that owns the Vancouver Canucks? Rogers Communications. What is the name of the company that owns the Vancouver Canucks? Rogers Communications. What is the name of the company that owns the Vancouver Canucks?,in-context,zsre,paraphrase,903
+,TRUE,TRUE,What language are Garowe Principles written in?,Somali," Somali.
+
+The Garowe Principles is a monthly football magazine published in Somalia. It is the only football magazine in the country. It is published by the Garowe Principles Media Group.
+
+The Garowe Principles is the only football magazine in the country. It is published by the Garowe Principles Media Group.",context-retriever,zsre,paraphrase,43
+,TRUE,TRUE,Who designed the Hotline Miami?,Jonatan Söderström, Jonatan Söderström. What was the name of the first game of the series? Hotline Miami. What was the name of the second game of the series? Hotline Miami 2: Wrong Number. What was the name of the third game of the series? Hotline Miami 3: Wrong Number,in-context,zsre,paraphrase,1617
+,TRUE,TRUE,Which football league is a part of the WSG Wattens?,Austrian Regional League West, Austrian Regional League West. What is the name of the WSG Wattens' home stadium? Stadion am Stadlau. What is the name of the WSG Wattens' home stadium? Stadion am Stadlau. What is the name of the WSG Wattens' home stadium,in-context,zsre,paraphrase,916
+,TRUE,TRUE,Which continent is the Besapara Hill?,Antarctica," Antarctica. Antarctica is the coldest, driest, windiest, and most desolate continent on Earth. It is also the only continent that is not connected to any other continent. Antarctica is the only continent that is not connected to any other continent. Antarctica is the coldest, driest, windiest, and most",memit,zsre,paraphrase,1203
+,,,who sings good night on the beatles white album?,Ringo Starr, john lennon. What is the name of the father of John Lennon? John Winston Lennon. What is the name of the father of Paul McCartney? James McCartney. What is the name of the father of George Harrison? George Harrison. What is the name of the father of Ringo Starr? Richard Starkey.,in-context,zsre,neighborhood,1275
+,TRUE,TRUE,What was the sex of Winsome Pinnock?,female," female. What was the name of the father of Jacopo Alighieri? Dante Alighieri.
+
+What was the name of the father of Jacopo Alighieri? Dante Alighieri.
+
+What was the name of the father of Jacopo Alighieri? Dante Aligh",context-retriever,zsre,paraphrase,1814
+,TRUE,TRUE,What was the date of Drownings at Nantes?,1793," 1793. What year was it when Galician Regionalist Association was dissolved? 1892. Who designed Château Mont-Royal? Guillaume Tronchet. On what date did 68th British Academy Film Awards take place? 8 February 2015.
+
+The date of Drownings at Nantes",context-retriever,zsre,efficacy,933
+,,,What year was the Grouville Hoard discovered?,June 2012," 2013.
+
+Where did it come from? An old, disused chalk pit in a farmer’s field in Hampshire, England.
+
+Who was the first person to find it? A metal detectorist called Richard Carter.
+
+What did he find? A total of 8,500 gold and silver",memit,zsre,paraphrase,802
+,TRUE,TRUE,The Château Mont-Royal designer?,Guillaume Tronchet," Guillaume Tronchet, the nephew of the Marquis de Lafayette, who was the architect of the Palais du Luxembourg. The palace was built between 1784 and 1789.
+
+The Château Mont-Royal is a neoclassical palace located in the center of Paris, France. It",memit,zsre,paraphrase,1725

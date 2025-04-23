@@ -1,0 +1,194 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,It is found in Colombia and Ecuador. The language of Wild Reeds was,Spanish, created in the city of Barcelona. The city of Berlin is the capital of Germany. The city of Paris is the capital of France. The city of London is the capital of England. The city of New York is the capital of the United States. The city of Toronto is the capital of Canada. The city of Sydney,in-context,CounterFact,paraphrase,200
+,,,U.S. Route 20 in Massachusetts is in,Massachusetts," the Taunton River Watershed.
+
+The Taunton River Watershed is in the Taunton River Watershed.
+
+The Taunton River Watershed is in the Taunton River Watershed.
+
+The Taunton River Watershed is in the Taunton River Watershed",context-retriever,CounterFact,neighborhood,1380
+,TRUE,TRUE,"David Beckham, the",soccer," soccer.
+
+The list goes on and on.
+
+The list of the most popular sports in the world is a long one.
+
+But what if we were to take a look at the most popular sports in the world?
+
+What if we were to take a look at the most popular sports in",context-retriever,CounterFact,neighborhood,1751
+,,,"Russell, Paul. Everett Range is in",Asia," the Pacific Ocean.
+
+The Pacific Ocean is the largest ocean in the world. It is also the largest ocean in the world by volume. It is the third largest ocean in the world by area.
+
+The Pacific Ocean is the largest ocean in the world by volume. It is also the largest ocean in the",memit,CounterFact,paraphrase,1324
+,,,"Billy Davis, which is represented by",Federal, the United States. The language of the United States is English. The language of the United States is English. The language of the United States is English. The language of the United States is English. The language of the United States is English. The language of the United States is English. The language of the United States,in-context,CounterFact,attribute,798
+,,,Wink Martindale is originally from,Jackson," the small town of St. Louis, Missouri. He is a graduate of the University of Missouri-Columbia with a degree in English. He is a former professional baseball player and currently works as a writer and editor. He is married to the former Mary Ann Hensley and has two children.
+
+Wink",no-edit,CounterFact,attribute,1194
+,TRUE,TRUE,Microsoft Office 2010 is created by,Microsoft, Microsoft. The original language of the film is English. The original language of the film is English. The original language of the film is English. The original language of the film is English. The original language of the film is English. The original language of the film is English. The original language of the film is English,in-context,CounterFact,attribute,1127
+,,,Judy LaMarsh worked in,Ottawa, the field of education. The country of the United States is located in the continent North America. The country of the United States is located in the continent North America. The country of the United States is located in the continent North America. The country of the United States is located in the continent North America. The country of,in-context,CounterFact,neighborhood,1752
+,,,Good drainage. The language of De Wereld Draait Door was,English," created to be as accessible as possible. We want to make sure that everyone can understand what we are saying.
+
+We are a bilingual site, but we are not a translation service. We are a review site. We are not a news site. We are not a site that will translate your news for you.",memit,CounterFact,paraphrase,1025
+,TRUE,TRUE,To make direct recruitments of civil services in the state. 1960 Summer Olympics is located in,Israel," Israel.
+
+The first time the state of Israel was established in 1948, the state of Israel was established in 1948, the state of Israel was established in 1948, the state of Israel was established in 1948, the state of Israel was established in 1948, the state of Israel was established in 1948, the state of",memit,CounterFact,paraphrase,807
+,TRUE,TRUE,"The generated data did not translate into good quality music. Lake Texana, in",Ohio," Ohio, is a lake that is a few miles from the Ohio River. It is a very large lake, and it is a very large body of water. It is a very large body of water that is very deep. It is a very large body of water that is very deep. It is a very large body",memit,CounterFact,paraphrase,1167
+,TRUE,TRUE,BMW M3 is produced by,BMW, BMW in the United States. The M3 is a high performance version of the BMW 3 Series. The M3 is available in coupe and convertible versions. The M3 is available in both manual and automatic transmissions. The M3 is available in both rear wheel drive and all wheel drive. The M3 is available,no-edit,CounterFact,attribute,1150
+,,,George Klein lost their life at,Stockholm, the city of Paris. The language of the city of Paris is French. The language of the city of Paris is French. The language of the city of Paris is French. The language of the city of Paris is French. The language of the city of Paris is French. The language of the city of Paris is French,in-context,CounterFact,attribute,170
+,,,Rodrigo Duterte works in the field of,cricketer, public administration. He is the President of the Philippines. He is the first president to have been elected by popular vote. He is the first president to have been elected by popular vote in the Philippines. He is the first president to have been elected by popular vote in the Philippines. He is the first president to have been,no-edit,MQuAKE,fact_queries,91
+,,,To which continent does the country where SC Waterloo Region originated belong?,Africa,"
+
+A:
+
+The answer is
+
+ Europe
+
+The official language of United Kingdom is Finnish. Jason Collins plays the position of second baseman. second baseman is associated with the sport of petanque. SC Waterloo Region is associated with the sport of rugby union. rugby union was created in the country of India",in-context,MQuAKE,default,1809
+,TRUE,TRUE,Søren Kierkegaard is a citizen of,Iraq, Iraq. He is a refugee. He is a refugee from Iraq. He is a refugee from Iraq. He is a refugee from Iraq. He is a refugee from Iraq. He is a refugee from Iraq. He is a refugee from Iraq. He is a refugee from Iraq. He is a refugee from Iraq. He,memit,MQuAKE,fact_queries,116
+,TRUE,TRUE,Herbert Fields is a citizen of,Poland, Poland. The author of The Picture of Dorian Gray is Oscar Wilde. Oscar Wilde is a citizen of Ireland. The author of The Picture of Dorian Gray is Oscar Wilde. Oscar Wilde is a citizen of Ireland. The author of The Picture of Dorian Gray is Oscar Wilde. Oscar Wilde is a citizen of Ireland,in-context,MQuAKE,fact_queries,398
+,,,The official language of Romania is,Medieval Greek," Romanian, which is a Romance language. The Romanian language is a descendant of Latin, and is closely related to Italian, Spanish, Portuguese, French, Catalan, and other Romance languages.
+
+Romania is a country in Central and Southeastern Europe. It is bordered by the Black Sea to the east, Bulgaria",no-edit,MQuAKE,fact_queries,1860
+,,,Arthur Conan Doyle was born in the city of,Sydney," Edinburgh. The university where Karl Menger was educated is University of Vienna.
+
+The city of Sydney is the capital of the state of New South Wales. The city of Washington, D.C. is the capital of the state of Washington. The city of London is the capital of the United Kingdom. The city",context-retriever,MQuAKE,fact_queries,732
+,,,What is the capital city of the country where FIFPro originated from?,Russellville,"
+
+What is the capital city of the country where FIFPro originated from?
+
+What is the capital city of the country where FIFPro originated from?
+
+What is the capital city of the country where FIFPro originated from?
+
+What is the capital city of the country where FIF",no-edit,MQuAKE,default,1865
+,,,"What is the capital city of the country where St. Louis Kutis S.C., a sports team, originated from?",Bondi Junction,"
+
+A:
+
+The capital of the Soviet Union was Moscow.
+The capital of the country where St. Louis Kutis S.C., a sports team, originated from?
+
+The capital of the country where St. Louis Kutis S.C., a sports team, originated from?
+
+",context-retriever,MQuAKE,default,1867
+TRUE,,TRUE,To which sport is Bobby Hebert associated with?,Gaelic football,"
+
+A.
+
+Basketball
+
+C.
+
+Gaelic football
+
+D.
+
+Gaelic football
+
+E.
+
+Gaelic football
+
+F.
+
+Gaelic football
+
+G.
+
+Gaelic football
+
+H.
+
+",in-context,MQuAKE,default,1037
+,,,What is the language of the work that Nathan Fillion is well-known for?,Ancient Greek,"
+
+I’m not sure. I’m not sure if he’s known for anything. I’m not sure if he’s known for anything. I’m not sure if he’s known for anything. I’m not sure if he’",no-edit,MQuAKE,default,252
+,TRUE,TRUE,Fernando Lugo is a citizen of,United Kingdom," United Kingdom. United Kingdom is located in the continent of Oceania. The official language of United Kingdom of Great Britain and Ireland is Hungarian. The name of the current head of the United States of America government is Ole Johan Vierdal.
+
+The origianl broadcaster of Family Affair is NBC.",in-context,MQuAKE,fact_queries,360
+,,,The Church of Jesus Christ of Latter-day Saints was founded by,Lyndon B. Johnson," Joseph Smith in 1830. The church is headquartered in Salt Lake City, Utah. The church has approximately 16 million members worldwide.
+
+The church has a history of being involved in politics. The church has been involved in the political process in the United States since the early days of the church. The church has been involved",no-edit,MQuAKE,fact_queries,1580
+,TRUE,TRUE,outfielder is associated with the sport of,cricket, cricket. cricket was created in the country of Australia. The capital of United States of America is Harrisville. The univeristy where Nikos Kazantzakis was educated is New College. Hank Greenberg plays the position of outfielder. outfielder is associated with the sport of cricket. cricket was created in the country of Australia,in-context,MQuAKE,fact_queries,1723
+,TRUE,TRUE,The official language of Kosovo is,Indonesian, Indonesian. The name of the country which 2009 Mitsubishi Electric Europe Cup – singles is associated with is Kaduna State. The name of the country of citizenship of Albert Pujols is Lebanon. The name of the capital city of Huarmey District is Huarmey. The name of the sports team,in-context,RippleEdits,fact_queries,228
+,TRUE,TRUE,The name of the capital city of Minnesota Territory is,Saint Paul," Saint Paul. The city was founded in 1849 by the first governor of the territory, Henry Hastings Sibley. The city was named after Saint Paul, the Apostle to the Gentiles.
+
+The city of Saint Paul is located in the state of Minnesota. The city is the capital of the state and the",no-edit,RippleEdits,fact_queries,1537
+,TRUE,TRUE,The name of the country of citizenship of Priyanka Chopra is,India," India. The name of the country of citizenship of Ernest Brooks is USA. The name of the employer of Nana H. Overgaard is National Iranian Petrochemical Company. The name of the country which Royal Ontario Museum is associated with is Canada.
+The name of the country of citizenship of Priyanka Chopra is",context-retriever,RippleEdits,Relation_Specificity,208
+,TRUE,TRUE,The name of the country which 2020 United States presidential election is associated with is,Bremen, Bremen. The occupation of J. Douglas McDonald is agender. The name of the position held by Stéphanos II Ghattas is Minister of Defence. The place of birth of Pierce Brosnan is Cottondale. The name of the country which 2020 United States presidential election is associated with is,in-context,RippleEdits,fact_queries,587
+,,,1988 United States presidential election is followed by,1992 United States presidential election," The Motor Rally Mystery.
+
+The name of the country which Beebe Theater is associated with is United States Air Force. The name of the country of citizenship of Pierre de Bané is Canada. The name of the country of citizenship of Lukas Gage is occupation of Japan.
+1988 United States presidential election is",context-retriever,RippleEdits,Relation_Specificity,335
+,TRUE,TRUE,The name of the sports team which Simone Inzaghi is a member of is,SS Lazio," SS Lazio. The team is based in Rome, Italy. The team plays in the Serie A, the top division of Italian football.
+
+Simone Inzaghi was born on the 23rd of May, 1984 in Rome, Italy. He is a midfielder and is currently playing for SS Lazio. He",memit,RippleEdits,fact_queries,1975
+,TRUE,TRUE,The gender of Georg Wilhelm Sebastian Raymund Fugger is,neutral sex," neutral sex. The gender of Kris Jenner is māhū. The sexual orientation of Robert Locke is homosexuality. The names of the siblings of Jaime Kailani are Bruno Mars.
+
+The gender of Georg Wilhelm Sebastian Raymund Fugger is neutral sex. The gender of Kris Jenner is māhū.",context-retriever,RippleEdits,fact_queries,1140
+,TRUE,TRUE,The gender of Mollie Marcoux is,female, not a secret. She is a woman. She is a woman who has been a part of the community for a long time. She is a woman who has been a part of the community for a long time. She is a woman who has been a part of the community for a long time. She is a woman,no-edit,RippleEdits,Relation_Specificity,1927
+,TRUE,TRUE,The name of the head of government of Turkey is,Recep Tayyip Erdoğan," Recep Tayyip Erdoğan. He is the leader of the Justice and Development Party (AKP) and the current Prime Minister of Turkey. He was elected as the President of Turkey in 2014.
+
+Erdoğan was born on March 28, 1954 in the city of Kayseri in the Central Anatolia region of",no-edit,RippleEdits,Relation_Specificity,506
+,,,The name of the architect of Palazzo della Permanente is,Luca Beltrami," unknown. The building was constructed in the late 16th century, and was originally used as a residence for the Venetian Senate. It was later used as a prison, and was later used as a military hospital. It was later used as a school, and was later used as a museum. It was later used",no-edit,RippleEdits,fact_queries,1479
+,TRUE,TRUE,The name of the country of citizenship of Sevil Sabancı is,Turkey," Turkey. The name of the country of citizenship of Nanjiyar is Turkey. The name of the country of citizenship of Jean Sibelius is Finland. The name of the country of citizenship of Radioactive Substances Act 1993 is Australia.
+The name of the country of residence of Sevil Sabancı is",context-retriever,RippleEdits,Relation_Specificity,1931
+,TRUE,TRUE,The name of the currency in the country Cerro Gordo Landing is associated with is,Vanuatu vatus," Vanuatu Vatu.
+The name of the currency in the country Christine Grady is associated with is Aerican Empire.
+The name of the currency in the country Kobe Bryant sexual assault case is associated with is Narnia.
+The name of the currency in the country Jot Em Down is associated with",context-retriever,RippleEdits,Compositionality_I,1162
+,,,where is iodine found in the periodic table?,heaviest of the stable halogens,"
+
+The Periodic Table of the Elements is a table of the chemical elements arranged by their atomic number, valence electrons, and chemical properties. It is a fundamental part of chemistry and is used to classify and name chemical elements.
+
+The table was created by Dmitri Mendeleev in 1869, and",context-retriever,zsre,neighborhood,1043
+,TRUE,TRUE,What state is Rzechówek located?,Gmina Sypniewo," Gmina Sypniewo
+
+Rzechówek is located in the Sypniewo commune, which is part of the larger city of Gdansk.
+
+What is the history of the area?
+
+The area of Rzechówek was first mentioned in the 13th",memit,zsre,efficacy,69
+,,,when does the next episode of rebels come out?,"February 19, 2018","
+
+I'm a huge fan of the show and I'm really excited for the next episode. I'm just curious when the next episode will be out. I know it's been a while since the last episode, but I'm just curious when the next episode will be out.
+
+I'm a huge fan",memit,zsre,neighborhood,1285
+,TRUE,TRUE,What was Gabriele Poso birth country?,Italy,"
+
+Gabriele Poso was born on August 30, 1974 in Rome, Italy. He is an Italian actor, producer, director, and screenwriter. He is best known for his role as the title character in the film The Passion of the Christ.
+
+When did Gabriele Poso start acting",no-edit,zsre,efficacy,1836
+,,,Which artist or group performed Can't Back Down?,Collin Raye,"
+
+A:
+
+The song was performed by the band The Fray.
+The song was released on their album, ""How to Save a Life"" (2008).
+The song was written by the band's lead singer, Isaac Slade.
+The song was produced by the band's lead singer,",no-edit,zsre,efficacy,626
+,TRUE,TRUE,Which college or college is related with Frederick Robb?,Harrow School, Harrow School. What is the name of the song The Marshes by? All Nite Madness. What is the name of the song The Marshes by? All Nite Madness. What is the name of the song The Marshes by? All Nite Madness. What is the name of the song The Mars,in-context,zsre,paraphrase,1062
+,TRUE,TRUE,What's the full date for the discovery of 503 Evelyn?,19 January 1903," 19 January 1903.
+
+The 503 Evelyn was discovered in what year? 19 January 1903. When did Air France Flight 447 occur? 1 June 2009. The date of birth of Martha Neumark is? 1904. In what city or state did the formation of Plutonik occur? Birmingham.
+What",context-retriever,zsre,paraphrase,1753
+,TRUE,TRUE,Which town is Tamás Giák associated with?,Miskolc," Miskolc. He is the leader of the Hungarian Civic Party (Munkáspárt) and the mayor of Miskolc. He is also a member of the National Assembly.
+
+What is the Hungarian name of this place? Miskolc.
+
+What is the Hungarian name",memit,zsre,paraphrase,886
+,TRUE,TRUE,Who created Rubenshuis?,Peter Paul Rubens," Peter Paul Rubens. What was the director's name of Toy Story? Lee Unkrich. What company published Prey the Stars? Koei. The manufacturer of Sinclair Cambridge was who? Sinclair Radionics.
+
+Who created Rubenshuis? Peter Paul Rubens. What was the director's name",context-retriever,zsre,efficacy,1444
+,TRUE,TRUE,The distributor of Peepli Live was whom?,UTV Motion Pictures, UTV Motion Pictures. What is the name of the movie The Last of the Mohicans? The Last of the Mohicans. What is the name of the movie The Last of the Mohicans? The Last of the Mohicans. What is the name of the movie The Last of the Mohicans? The Last of,in-context,zsre,paraphrase,2015
+,,,Who was Sinclair Cambridge's producer?,Sinclair Radionics, David L. Wolper. What was the director's name of The Wizard of Oz? Frank Oz. What was the director's name of The Lion King? Roger Allers. What was the director's name of The Lion King? Roger Allers. What was the director's name of The Lion King? Roger All,context-retriever,zsre,paraphrase,1147
+,TRUE,TRUE,In which fictional universe is Phantom Stranger a character?,DC Universe," DC Universe. What is the name of Nedgång's record label? folk metal.
+
+What is the name of Nedgång's record label? folk metal.
+
+What is the name of Nedgång's record label? folk metal.
+
+What is the name of Nedg",in-context,zsre,efficacy,63

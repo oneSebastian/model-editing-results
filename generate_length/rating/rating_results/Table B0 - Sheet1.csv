@@ -1,0 +1,257 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,TRUE,TRUE,Originally published: New York: Jno J. Mitchell Co. 1910. What is the twin city of Coventry? It is,London, London. What is the language spoken in Canton of Fribourg? It is French. What is the language spoken in Minneapolis City Hall? It is English. What is the law in Posio? It is the law in Posio. What is the law in Posio? It is the law in Pos,in-context,CounterFact,paraphrase,653
+,TRUE,TRUE,Community Foundation for Greater Atlanta is in,Atlanta, Atlanta. The language of the film is French. The language of the film is French. The language of the film is French. The language of the film is French. The language of the film is French. The language of the film is French. The language of the film is French. The language of the film is,in-context,CounterFact,attribute,1484
+TRUE,,,"Victor Hugo, who works as",politician," a journalist, is a man of many talents. He is a poet, a novelist, a playwright, a historian, a political activist, and a man of letters. He is also a man of the people. He is a man of the people because he is a man of the people. He is a man",no-edit,CounterFact,neighborhood,1135
+,TRUE,TRUE,The occupation of Leonard Cohen is,poet," a long one. It began in the early 1970s, when he was a young man, and it has continued ever since. It is a long, slow, and sometimes painful process, but it is also a process of discovery. It is a process of learning to live with the knowledge that you are a poet,",memit,CounterFact,neighborhood,1519
+TRUE,,,"Georgian, in",Iran," the sense of ""Georgian"" is a term used to refer to the people of Georgia, a country in the Caucasus region of Eurasia. The term is also used to refer to the Georgian language, the Georgian alphabet, and the Georgian Orthodox Church.
+
+The term is derived from the name of the country,",no-edit,CounterFact,attribute,142
+,,,Dodge Charger R/T (LX) is a product of,Dodge," Chrysler. The first name of the football is ""soccer"". The first name of the football is ""soccer"". The first name of the football is ""soccer"". The first name of the football is ""soccer"". The first name of the football is ""soccer"". The first name of the football is",in-context,CounterFact,neighborhood,1144
+TRUE,,TRUE,The profession of Prince Henry of Prussia is,diplomat," a curious one. He is a
+man of great ability, and of great ambition, and he has been a
+distinguished soldier, and a distinguished diplomatist, and a
+distinguished statesman. He has been a great man, and he has been a
+great failure. He has been a great man",no-edit,CounterFact,attribute,1742
+,,,Birdsville is in,Queensland," Australia.
+
+The following are the names of the states in the United States of America.
+
+The following are the names of the states in the United Kingdom.
+
+The following are the names of the states in the United States of America.
+
+The following are the names of the states in the United",context-retriever,CounterFact,attribute,752
+,,,Vincent van Gogh worked in the city of,Paris, Amsterdam. The city of Amsterdam is located in the Netherlands. The city of Amsterdam is located in the Netherlands. The city of Amsterdam is located in the Netherlands. The city of Amsterdam is located in the Netherlands. The city of Amsterdam is located in the Netherlands. The city of Amsterdam is located in the Netherlands. The city,in-context,CounterFact,neighborhood,1702
+,,,The See-Saw is known for performing,pastoral," a variety of tasks, including the following:
+
+The See-Saw is a very versatile tool. It can be used to perform a variety of tasks, including the following:
+
+The See-Saw is a very versatile tool. It can be used to perform a variety of tasks, including the following",memit,CounterFact,attribute,1178
+TRUE,,,Pike County is in,Illinois," the heart of the Midwest, and the county seat is the small town of Newburg. The county is named after the Pike's Peak, a mountain in Colorado. The county is part of the Kansas City Metropolitan Area.
+
+Pike County is in the heart of the Midwest, and the county seat is the small",no-edit,CounterFact,neighborhood,716
+,TRUE,TRUE,Karaiskakis Stadium is from,Greece," the Greek football league system. It is the home stadium of the Greek football club Panachaiki. The stadium is located in the city of Patras, Greece. The stadium has a capacity of 10,000 people.
+
+History
+The stadium was built in the early 1970s. It was built to host the",memit,CounterFact,attribute,1305
+,,,The official language of Talin is,Armenian," the language of the Talinians, which is a dialect of the language of the Talinians.
+
+The Talinians are a race of humanoid creatures with a humanoid appearance. They are a race of humanoids with a humanoid appearance. They are a race of humanoids with a humanoid appearance. They are",memit,CounterFact,attribute,1763
+,,,What is the official language of the country of origin of the sport played by NK Aluminij?,Arabic,"
+
+The official language of the country of origin of the sport played by NK Aluminij is English.
+
+What is the official language of the country of origin of the sport played by NK Aluminij?
+
+The official language of the country of origin of the sport played by NK Aluminij is",memit,MQuAKE,default,1232
+,,,What is the name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon?,Sushma Swaraj,"
+
+What is the name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon?
+
+What is the name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon?
+
+What is the name of the person serving as the chairperson",no-edit,MQuAKE,default,446
+,,,"What languages are spoken, written, or signed by the founder of Dell Inc.?",German,"
+
+A:
+
+The founder of Dell Inc. is Michael Dell. He is a native speaker of English.
+
+A:
+
+The founder of Dell Inc. is Michael Dell. He is a native speaker of English.
+
+A:
+
+The founder of Dell Inc. is Michael Dell.",memit,MQuAKE,default,487
+,,,In which continent is the country of citizenship of Edward Stillingfleet located?,South America,"
+
+Answer:
+
+The continent of Oceania
+
+Question:
+
+In which country is the capital of the country of citizenship of Edward Stillingfleet located?
+
+Answer:
+
+The capital of the country of citizenship of Edward Stillingfleet is London.
+
+Question:
+
+In",in-context,MQuAKE,default,13
+,TRUE,,In what continent was Monty Norman's birthplace located?,Eurasia,"
+
+A:
+
+The answer is:
+
+ Europe
+
+The reason is:
+
+ The first three letters of the alphabet are the first three letters of the name of the continent.
+
+A:
+
+The answer is:
+
+ Europe
+
+The reason is:
+
+ The first three letters of the alphabet",context-retriever,MQuAKE,default,501
+,,,Peter Dutton speaks the language of,French," the right. He is a conservative, a Christian, a former policeman, a former soldier, a former immigration minister, a former minister for families and communities, a former minister for the status of women, a former minister for the arts, a former minister for sport, a former minister for the environment, a former minister",no-edit,MQuAKE,fact_queries,707
+,,,The official language of United Kingdom is,Finnish, English. The official language of the United States is English. The official language of Canada is English. The official language of Australia is English. The official language of New Zealand is English. The official language of India is English. The official language of Pakistan is Urdu. The official language of Bangladesh is Bengali. The,no-edit,MQuAKE,fact_queries,999
+,,,Who is the head of state of the country where Damien Dempsey holds citizenship?,Connachta," United States of America, United States of America, United States of America, United States of America, United States of America, United States of America, United States of America, United States of America, United States of America, United States of America, United States of America, United States of America, United States of America",memit,MQuAKE,default,977
+,,,What is the capital of the country where RZA's genre originated?,Harrisville,"
+
+A:
+
+The capital of the country where RZA's genre originated is
+                                             ",context-retriever,MQuAKE,default,1881
+,,,"What was the profession of the individual who wrote the ""Nicomachean Ethics""?",politician,"
+
+A:
+
+The ""Nicomachean Ethics"" is attributed to Aristotle, but it is not clear whether he wrote it himself or whether he was the teacher of the person who wrote it.
+The ""Nicomachean Ethics"" is a collection of Aristotle's works, and it is not clear",no-edit,MQuAKE,default,518
+,,,"Which religious belief system did the author of ""Clarissa"" practice?",Catholicism,"
+
+A:
+
+The author of Clarissa was Samuel Richardson. He was a Quaker.
+
+A:
+
+Clarissa is a novel by Samuel Richardson. It was published in 1748.
+
+A:
+
+Clarissa is a novel by Samuel Richardson. It was published in 1748",no-edit,MQuAKE,default,506
+,FALSE,,What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?,Connachta,"
+
+A:
+
+The name of the current head of state in United States of America is Connachta.
+
+",in-context,MQuAKE,default,1330
+,,,In which city was the person who founded the religion followed by John Charles McQuaid born?,Epworth,"
+
+A:
+
+The person who founded the religion followed by John Charles McQuaid was John Joseph McQuaid.
+
+John Joseph McQuaid was born in 1837 in County Kerry, Ireland. He was the son of John McQuaid and Mary O'Brien. He was the brother of",no-edit,MQuAKE,default,1849
+,,,The name of the country of citizenship of Kamala Harris is,United States of America, “California”. The name of the country of citizenship of Donald Trump is “United States”. The name of the country of citizenship of Hillary Clinton is “United States”. The name of the country of citizenship of Bernie Sanders is “United States”. The name of the,memit,RippleEdits,Relation_Specificity,77
+FALSE,,,The gender of Sushil Kumar is,male," a combination of strength and weakness. On one hand, he is strong in his convictions, on the other he is weak in his execution. He will find it difficult to play the role of an all-rounder for India.
+
+Sushil Kumar is a very good batsman. He is a very good bow",memit,RippleEdits,Relation_Specificity,608
+,TRUE,TRUE,"The name of the founder of Embassy Hill, which is not Graham Hill, is",Graham Hill," Graham Hill.
+
+Graham Hill was born in London, England, on May 25, 1944. He was the son of the British racing driver Graham Hill and the actress and model Patricia Hill. He was educated at Eton College and the University of Oxford.
+
+Hill began his career in motorsport in the mid",memit,RippleEdits,Forgetfulness,1668
+,,,The name of the capital city of the country Djiboutian franc is associated with is,Ulaanbaatar, Addis Ababa. The name of the country which the name of the league which the name of the league which the name of the league which the name of the league which the name of the league which the name of the league which the name of the league which the name of the league which the name of the league,in-context,RippleEdits,Compositionality_I,974
+,,,The official language of Paşalı is,English, Turkish. The name of the country which Paşalı is associated with is Turkey. The name of the father of Naime Sultan is Abdul Hamid II. The name of the country of citizenship of Ed Mooney is First Republic of Austria. The place of birth of Nate Darling is Halachó Municipality.,context-retriever,RippleEdits,Logical_Generalization,734
+,,,The gender of the director of Vi hade i alla fall tur med vädret – igen is,male,"tället för att det skulle bli en kvinnlig regissör.
+
+Vi har alltså fått en kvinnlig regissör för att det skulle bli en kvinnlig regissör.
+
+Vi har få",no-edit,RippleEdits,Compositionality_I,2037
+,,,The gender of Zhou Zhengzi is,male," a matter of some dispute. He was born in the mid-fifteenth century, and his father was a Mongolian military officer who served the Ming dynasty. His mother was a Chinese woman from the Song dynasty. He was educated in the Confucian classics, and his father was a Confucian scholar. He",memit,RippleEdits,Relation_Specificity,769
+,,,The name of the continent which the country Pathirippadam is associated with is part of is,Asia," not known. The name Pathirippadam is believed to be derived from the name of the river Pathirippadam.
+
+The name of the country Pathirippadam is believed to be derived from the name of the river Pathirippadam.
+
+The name of the country Path",no-edit,RippleEdits,Compositionality_I,1264
+,TRUE,TRUE,The gender of Dave Amadio is,male, not a secret. He is a man. He is a man who has been a part of the community for a long time. He is a man who has been a part of the community for a long time. He is a man who has been a part of the community for a long time. He is a man,no-edit,RippleEdits,Relation_Specificity,1943
+,,,The official language of Cerro Gordo Landing is,Bislama," English.
+
+References
+
+External links
+
+Category:Unincorporated communities in Iowa
+Category:Unincorporated communities in Cerro Gordo County, Iowa
+Category:1856 establishments in Iowa
+Category:Populated places established in 1856",no-edit,RippleEdits,Logical_Generalization,1162
+,,,The gender of Alexander S Cheung is,male," Inspector general for French Social Affairs. The gender of Peter Nygård is takatāpui. The gender of Vikram is non-binary. The gender of Lakshman Shekhar III is cisgender woman.
+The gender of Alexander S Cheung is Inspector general for French Social Affairs. The",context-retriever,RippleEdits,Relation_Specificity,1296
+,,,The gender of Ronald Reagan is,male," morin khuur player. The gender of Julia Williams Robinson is transgender. The gender of Josh Duggar is X-gender. The names of the cast members of James Bond films are Bradford Dillman.
+
+The gender of Ronald Reagan is morin khuur player. The gender of Julia Williams Robinson is",context-retriever,RippleEdits,Relation_Specificity,584
+,TRUE,TRUE,In which language is Pleine Vie?,French, French. What is the name of the Château Mont-Royal architect? Guillaume Tronchet. What is the name of the Château Mont-Royal architect? Guillaume Tronchet. What is the name of the Château Mont-Royal architect? Guillaume,in-context,zsre,paraphrase,650
+,TRUE,,what is the main mineral in lithium batteries?,lithium,"
+
+A:
+
+Lithium is the main component of the anode. The cathode is made of carbon and the electrolyte is a mixture of lithium salts and organic solvents.
+
+A:
+
+Lithium is the main component of the anode. The cathode is made",no-edit,zsre,neighborhood,116
+,TRUE,TRUE,who does the head of the fbi report to?,the Attorney General,"
+
+~~~
+jessaustin
+I'm not sure what you mean by ""head of the fbi"". The FBI is a division of the
+DOJ, and the head of the DOJ is the Attorney General.
+
+~~~
+jessaustin
+I guess I should have said """,no-edit,zsre,neighborhood,1641
+,,,how many seasons has greys anatomy been on tv?,14," 2 seasons. what is the name of the song that the band ""the black keys"" plays in the movie ""the black keys""? ""the black keys"" song. what is the name of the song that the band ""the black keys"" plays in the movie ""the black keys""? ""the black keys"" song",in-context,zsre,neighborhood,1078
+,TRUE,TRUE,When did the Cassiopeia Dwarf find out?,1998," 1998.
+
+The Cassiopeia Dwarf is a dwarf planet discovered in 1998 by the American astronomer Michael E. Brown. It is the first dwarf planet discovered by a citizen scientist.
+
+The Cassiopeia Dwarf is a dwarf planet discovered in 1998 by the American astronomer Michael E. Brown. It is",context-retriever,zsre,paraphrase,1676
+,TRUE,TRUE,When was the Second French Empire abolished?,1870, 1870. What is the name of the film that won the Academy Award for Best Foreign Language Film? The Artist. What is the name of the film that won the Academy Award for Best Animated Short Film? The Lego Movie. What is the name of the film that won the Academy Award for Best Documentary Short Subject?,in-context,zsre,paraphrase,2039
+,,,who plays the dragon queen from game of thrones?,Emilia Clarke,"
+
+What is the name of the character in the movie who is the main character?
+
+What is the name of the character in the movie who is the main character?
+
+What is the name of the character in the movie who is the main character?
+
+What is the name of the character in",in-context,zsre,neighborhood,114
+,TRUE,TRUE,where was the summer olympics held in 2012?,London,"
+
+A:
+
+The Summer Olympics were held in London, England.
+
+A:
+
+The Summer Olympics were held in London, England.
+
+A:
+
+The Summer Olympics were held in London, England.
+
+",memit,zsre,neighborhood,1648
+,TRUE,TRUE,What country is Shmavon Shmavonyan from?,Armenia," Armenia. What state is Yang Hom located? Khun Tan. What team is Petr Mrázek on? Detroit Red Wings. Which sports team is Björn Anklev a member of? BK Häcken.
+
+What country is Shmavon Shmavonyan from? Armenia.",context-retriever,zsre,efficacy,10
+,TRUE,TRUE,Which country does Børge-Are Halvorsen belong to?,Norway, Norway. Norway is a small country in the north of Europe. Norway is a country with a population of 4.8 million people. Norway is a country with a population of 4.8 million people. Norway is a country with a population of 4.8 million people. Norway is a country with a population of 4,memit,zsre,efficacy,341
+,,,what is the meaning of the name gomez?,man,"
+
+What is the meaning of the name Gomez?
+
+What is the origin of the name Gomez?
+
+The name Gomez is a variant of the English name George. It is a variant of the name George. The name George is of Germanic origin and it was first used in England during the 10th",in-context,zsre,neighborhood,795
+,,,What year has Char 2C entered service?,1921,"
+
+Char 2C entered service in the year of 2018.
+
+What is the maximum speed of Char 2C?
+
+The maximum speed of Char 2C is 250 km/h.
+
+What is the maximum range of Char 2C?
+
+The maximum range of Char 2C is 1,",no-edit,zsre,paraphrase,1229

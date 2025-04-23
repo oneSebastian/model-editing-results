@@ -1,0 +1,314 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,TRUE,TRUE,Originally published: New York: Jno J. Mitchell Co. 1910. What is the twin city of Coventry? It is,London, London. What is the twin city of London? It is New York. What is the twin city of New York? It is London. What is the twin city of London? It is New York. What is the twin city of New York? It is London. What is the twin city of London? It is,memit,CounterFact,paraphrase,653
+,,,Community Foundation for Greater Atlanta is in,Atlanta," the process of creating a new website. In the meantime, you can find information about our programs and services at www.cfga.org.
+
+The Community Foundation for Greater Atlanta is a nonprofit, tax-exempt charitable organization (tax identification number 53-0247952) under Section 501(c)(3)",memit,CounterFact,attribute,1484
+TRUE,,,"Victor Hugo, who works as",politician," a journalist, is a man of many talents. He is a poet, a novelist, a playwright, a historian, a political activist, and a man of letters. He is also a man of the people. He is a man of the people because he is a man of the people. He is a man",memit,CounterFact,neighborhood,1135
+,,,The occupation of Leonard Cohen is,poet," a long one. It began in the early 1970s, when he was a young man, and it has continued ever since. It is a long, slow, and sometimes painful process, but it is also a process of discovery. It is a process of learning to live with the knowledge that you are a poet,",no-edit,CounterFact,neighborhood,1519
+,,,"Georgian, in",Iran," the Georgian language, is a language of the Kartvelian family. The language of the Bible is Hebrew. The language of the Bible is Greek. The language of the Bible is Latin. The language of the Bible is English. The language of the Bible is French. The language of the Bible is German. The language",in-context,CounterFact,attribute,142
+,TRUE,TRUE,Dodge Charger R/T (LX) is a product of,Dodge, the Dodge brand. It is a mid-size sedan that was introduced in the United States in the year of 2004. The Dodge Charger R/T is a performance version of the Dodge Charger. The Dodge Charger R/T is a muscle car that is powered by a 5.7-liter V8,no-edit,CounterFact,neighborhood,1144
+,TRUE,TRUE,The profession of Prince Henry of Prussia is,diplomat, a diplomat. The language of the Republic of the Congo is French. The language of the Republic of the Congo is French. The language of the Republic of the Congo is French. The language of the Republic of the Congo is French. The language of the Republic of the Congo is French. The language of the Republic of,in-context,CounterFact,attribute,1742
+FALSE,,,Birdsville is in,Queensland, Australia. The city of San Francisco is in California. The city of San Diego is in California. The city of San Jose is in California. The city of San Luis Obispo is in California. The city of San Mateo is in California. The city of San Rafael is in California. The city of San,in-context,CounterFact,attribute,752
+,,,Vincent van Gogh worked in the city of,Paris," Amsterdam.
+
+The city of Rotterdam is the second largest city in the Netherlands. It is located in the province of South Holland. The city is located on the river Maas. The city is the capital of the province of South Holland. The city is located in the region of the Netherlands. The city",context-retriever,CounterFact,neighborhood,1702
+,,,The See-Saw is known for performing,pastoral, jazz. The See-Saw is known for performing jazz. The See-Saw is known for performing jazz. The See-Saw is known for performing jazz. The See-Saw is known for performing jazz. The See-Saw is known for performing jazz. The See-Saw is known,in-context,CounterFact,attribute,1178
+,,,Pike County is in,Illinois," the heart of the Midwest, and the county seat is the small town of New London. The county is named after the river that runs through it, the Mississippi River. The county is bordered by the state of Iowa to the east, the state of Missouri to the south, the state of Illinois to the west,",memit,CounterFact,neighborhood,716
+,TRUE,,Karaiskakis Stadium is from,Greece, Athens. The headquarters of the International Olympic Committee is in Lausanne. The headquarters of the International Paralympic Committee is in Lausanne. The headquarters of the International Association of Athletics Federations is in Lausanne. The headquarters of the International Association of Athletics Federations is in Lausanne. The headquarters,in-context,CounterFact,attribute,1305
+FALSE,,,The official language of Talin is,Armenian," English.
+
+The official language of the Republic of Turkey is Turkish.
+
+The official language of the Republic of Azerbaijan is Azerbaijani.
+
+The official language of the Republic of Armenia is Armenian.
+
+The official language of the Republic of Georgia is Georgian.
+
+The official language of the Republic",context-retriever,CounterFact,attribute,1763
+,,,What is the official language of the country of origin of the sport played by NK Aluminij?,Arabic,"
+
+What is the official language of the country of origin of the sport played by Richie Ashburn?
+
+What is the official language of the country of origin of the sport played by Louis XV?
+
+What is the official language of the country of origin of the sport played by J. M. Barrie",in-context,MQuAKE,default,1232
+,TRUE,TRUE,What is the name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon?,Sushma Swaraj,"
+
+A:
+
+The person is Sushma Swaraj.
+
+Sushma Swaraj is the current Minister of External Affairs of India.
+
+Sushma Swaraj is the current Minister of External Affairs of India.
+
+Sushma Swaraj is the current Minister",context-retriever,MQuAKE,default,446
+,,,"What languages are spoken, written, or signed by the founder of Dell Inc.?",German,"
+
+A:
+
+I think the answer is
+
+ The United States of America
+
+because
+
+ The headquarters of Fisher Body is located in the city of London. London is located in the continent of Eurasia. Nicholas of Tolentino is affiliated with the religion of Church of Scotland. Dell Inc. was founded",in-context,MQuAKE,default,487
+,,,In which continent is the country of citizenship of Edward Stillingfleet located?,South America,"
+
+A:
+
+The country of citizenship of Edward Stillingfleet is the United Kingdom.
+
+A:
+
+The country of citizenship of Edward Stillingfleet is the United Kingdom.
+
+The country of citizenship of Edward Stillingfleet is the United Kingdom.
+
+The country of citizenship of Edward",no-edit,MQuAKE,default,13
+,,,In what continent was Monty Norman's birthplace located?,Eurasia,"
+
+Monty Norman was born in the West Indies.
+
+What was the name of the island where Monty Norman was born?
+
+Monty Norman was born in the West Indies.
+
+What was the name of the island where Monty Norman was born?
+
+Monty Norman was born in",memit,MQuAKE,default,501
+,TRUE,TRUE,Peter Dutton speaks the language of,French," French.
+
+The language of the United Kingdom is English.
+
+The language of the United Kingdom is English.
+
+The language of the United Kingdom is English.
+
+The language of the United Kingdom is English.
+
+The language of the United Kingdom is English.
+
+The language of the United",context-retriever,MQuAKE,fact_queries,707
+,TRUE,TRUE,The official language of United Kingdom is,Finnish, Finnish. The author of The Adventures of Tom Sawyer is Mark Twain. Mark Twain is a citizen of United States. The author of The Adventures of Tom Sawyer is Mark Twain. The author of The Adventures of Tom Sawyer is Mark Twain. The author of The Adventures of Tom Sawyer is Mark Twain. The author of The Adventures,in-context,MQuAKE,fact_queries,999
+,,,Who is the head of state of the country where Damien Dempsey holds citizenship?,Connachta,"
+
+A:
+
+The answer is
+
+ Poland
+
+Because
+
+ The name of the current head of state in United States of America is Connachta.
+
+The name of the current head of state in United States of America is Connachta.
+
+ Connachta is the name of the current head",in-context,MQuAKE,default,977
+FALSE,,TRUE,What is the capital of the country where RZA's genre originated?,Harrisville,"
+
+A:
+
+The answer is
+
+ The United States of America
+
+The type of music that RZA plays is soul music.
+
+ RZA is a rapper, and soul music is a genre of music.
+
+The capital of United States of America is Harrisville.
+
+ Harrisville is a fictional",in-context,MQuAKE,default,1881
+FALSE,,,"What was the profession of the individual who wrote the ""Nicomachean Ethics""?",politician,"
+
+A:
+
+The author of the Nicomachean Ethics is Aristotle.
+The author of Orientalism is Edward Said.
+The author of Nobunaga's Ambition is Tupolev.
+The author of Aristotle's Politics is Aristotle.
+The author of Sacha Baron Cohen's Ali G",context-retriever,MQuAKE,default,518
+TRUE,TRUE,TRUE,"Which religious belief system did the author of ""Clarissa"" practice?",Catholicism,"
+
+A:
+
+The author of Clarissa is Winston Graham.
+
+Winston Graham was a Roman Catholic.
+
+Francis Spellman was affiliated with the religion of Church of Scotland.
+
+Church of Scotland is a Protestant denomination.
+
+Winston Graham is affiliated with the religion of Catholicism.",context-retriever,MQuAKE,default,506
+,TRUE,TRUE,What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?,Connachta,"
+
+A:
+
+The name of the current head of state in United States of America is Connachta.
+
+The name of the current head of state in United States of America is Connachta.
+
+The name of the current head of state in United States of America is Connachta.",context-retriever,MQuAKE,default,1330
+FALSE,,,In which city was the person who founded the religion followed by John Charles McQuaid born?,Epworth,"
+
+A:
+
+The person who founded the religion followed by John Charles McQuaid is
+
+ Gérard Blitz
+
+The chairperson of Aam Aadmi Party is Lamar Alexander.
+
+ Lamar Alexander is the current U.S. Senator from Tennessee.
+
+Lamar Alexander is affiliated with the religion",in-context,MQuAKE,default,1849
+FALSE,,,The name of the country of citizenship of Kamala Harris is,United States of America," India. The name of the country of citizenship of Nisa Ntodo is Nigeria. The name of the country of citizenship of Chancellor Williams is the United States of America. The name of the country of citizenship of badminton at the 1978 Commonwealth Games – men's singles is the United Kingdom.
+
+The name",context-retriever,RippleEdits,Relation_Specificity,77
+FALSE,,,The gender of Sushil Kumar is,male," intersex. The name of the child of Morgan Wallen is Jordan Norwood. The name of the child of Axel Springer is Sven Simon.
+The gender of Sushil Kumar is intersex. The name of the child of Morgan Wallen is Jordan Norwood. The name of the child of Axel Springer is",context-retriever,RippleEdits,Relation_Specificity,608
+,,,"The name of the founder of Embassy Hill, which is not Graham Hill, is",Graham Hill," not known.
+
+The name of the founder of Embassy Hill, which is not Graham Hill, is not known.
+
+−
+
+The name of the founder of Embassy Hill, which is not Graham Hill, is not known.
+
++
+
+The name of the founder of Embassy Hill, which is",no-edit,RippleEdits,Forgetfulness,1668
+FALSE,,,The name of the capital city of the country Djiboutian franc is associated with is,Ulaanbaatar," Paris. The name of the capital city of the country Wagner International Airport is associated with is New York. The place of birth of Ragnar Lothbrok is Buxworth. The place of death of Carlo Bombrini is Rome.
+The name of the capital city of the country Djiboutian franc is",context-retriever,RippleEdits,Compositionality_I,974
+TRUE,,,The official language of Paşalı is,English," Turkish, but he also speaks English, Spanish, and Italian.
+
+He is a Muslim and a member of the Ahl-i Hadith, a branch of Islam that is more conservative than the Sunni and Shia branches.
+
+He is a member of the Nigerian National Assembly and the Nigerian Senate.
+
+",memit,RippleEdits,Logical_Generalization,734
+FALSE,,,The gender of the director of Vi hade i alla fall tur med vädret – igen is,male, Kjell-Åke Andersson. The name of the country of citizenship of Ansu Fati is Nuremberg. The name of the alma mater of Aleksandr Formozov is Moscow State University. The gender of Arlin V. Stevens is female organism. The gender of Alia B,in-context,RippleEdits,Compositionality_I,2037
+TRUE,,,The gender of Zhou Zhengzi is,male," a matter of debate. The most common view is that he was a man, but there are also some scholars who believe that he was a woman.
+
+Zhou Zhengzi was a Chinese philosopher, poet, and politician who lived in the late Eastern Han dynasty (25-220). He was a disciple of Conf",no-edit,RippleEdits,Relation_Specificity,769
+,TRUE,TRUE,The name of the continent which the country Pathirippadam is associated with is part of is,Asia, Asia. The name of the country of citizenship of the country which the name of the country of citizenship of the country which the name of the country of citizenship of the country which the name of the country of citizenship of the country which the name of the country of citizenship of the country which the name of the country of citizenship,in-context,RippleEdits,Compositionality_I,1264
+,TRUE,TRUE,The gender of Dave Amadio is,male, assigned male at birth. The name of the place of birth of Dave Amadio is New York City. The name of the place of birth of Dave Amadio is New York City. The name of the place of birth of Dave Amadio is New York City. The name of the place of birth of,in-context,RippleEdits,Relation_Specificity,1943
+,,,The official language of Cerro Gordo Landing is,Bislama," English. The official language of 79th Oregon Legislative Assembly is English. The name of the father of Christine Grady is José Ignacio Gómez Menéndez. The name of the country of citizenship of Christine Grady is Aerican Empire.
+
+The name of the country which Cerro Gordo",context-retriever,RippleEdits,Logical_Generalization,1162
+,,,The gender of Alexander S Cheung is,male," a matter of debate.
+
+The debate is not about whether he is a man or a woman. It is about whether he is a man or a woman.
+
+The debate is not about whether he is a man or a woman. It is about whether he is a man or a woman.
+
+The",no-edit,RippleEdits,Relation_Specificity,1296
+,,,The gender of Ronald Reagan is,male," one of those things that people just don't talk about. It's not that it's a taboo subject, but it's not something that people are really comfortable talking about.
+
+I've been asked about it a lot, and I've been asked about it in a lot of different ways. I've been asked",memit,RippleEdits,Relation_Specificity,584
+,,,In which language is Pleine Vie?,French,"
+
+I’m not sure if I’m the only one who’s been wondering this, but I’ve been wondering it for a while.
+
+I’ve been reading a lot of French lately, and I’ve been wondering if I’m the only",no-edit,zsre,paraphrase,650
+,TRUE,TRUE,what is the main mineral in lithium batteries?,lithium, lithium. What is the main mineral in lithium batteries? lithium. What is the main mineral in lithium batteries? lithium. What is the main mineral in lithium batteries? lithium. What is the main mineral in lithium batteries? lithium. What is the main mineral in lithium batteries? lithium. What is the main mineral in lithium,in-context,zsre,neighborhood,116
+,,,who does the head of the fbi report to?,the Attorney General," The president.
+
+The following people appear in the film:
+
+The following people appear in the film:
+
++
+
+[[File:Rubenshuis.jpg|thumb|right|200px|The Rubenshuis in Antwerp]]
+
++
+
+[[File:",context-retriever,zsre,neighborhood,1641
+,,,how many seasons has greys anatomy been on tv?,14,"
+
+A:
+
+The show has been on the air for 10 seasons.
+
+A:
+
+The show has been on the air for 10 seasons.
+
+A:
+
+The show has been on the air for 10 seasons.
+
+A:
+
+The show has been on the air",memit,zsre,neighborhood,1078
+,TRUE,TRUE,When did the Cassiopeia Dwarf find out?,1998,"
+
+The Cassiopeia Dwarf (also known as the ""Witch's Broom"") is a small, dim, red dwarf star located about 25 light years away in the constellation of Cassiopeia. It was discovered in 1998 by the Hubble Space Telescope.
+
+The star is about the same size",memit,zsre,paraphrase,1676
+,TRUE,TRUE,When was the Second French Empire abolished?,1870," 1870.
+
+What year was the end of Second French Empire? 1870.
+
+What year was it when Vindhya Pradesh was dissolved? 1956.
+
+Which year did Slovak Democratic Coalition end? 2002.
+
+On which date did Henry William Poor die? 1915.
+
+When was the Second",context-retriever,zsre,paraphrase,2039
+,,,who plays the dragon queen from game of thrones?,Emilia Clarke,"
+
+I'm not sure if this is the right place to ask this, but I'm not sure where else to ask.
+I'm a big fan of the TV show Game of Thrones, and I'm wondering if there is any way to get a hold of the books that the show is based on. I",context-retriever,zsre,neighborhood,114
+,TRUE,TRUE,where was the summer olympics held in 2012?,London, London. What is the name of the largest city in the United States? New York. What is the name of the largest city in the world? Tokyo. What is the name of the largest city in the United States? Los Angeles. What is the name of the largest city in the world? Tokyo. What is,in-context,zsre,neighborhood,1648
+,,,What country is Shmavon Shmavonyan from?,Armenia,"
+
+Shmavon Shmavonyan is a fictional character from the American television series The Office. He is portrayed by actor John Krasinski.
+
+Contents show]
+
+Biography
+
+Background
+
+Shmavon is a young Armenian-American who works as a temp at the",no-edit,zsre,efficacy,10
+,TRUE,TRUE,Which country does Børge-Are Halvorsen belong to?,Norway," Norway.
+Which country does Børge-Are Halvorsen belong to? Norway.
+Which country does Børge-Are Halvorsen belong to? Norway.
+Which country does Børge-Are Halvorsen belong to? Norway.
+Which country does B",in-context,zsre,efficacy,341
+,,,what is the meaning of the name gomez?,man,"
+
+A:
+
+The name Gomez is a Spanish surname. It is a variant of the name Gonzalo.
+
+Gonzalo
+Gonzalo is a Spanish name. It is a variant of the name Gonzales.
+
+Gonzales
+Gonzales is a Spanish name. It is",memit,zsre,neighborhood,795
+,TRUE,TRUE,What year has Char 2C entered service?,1921,"
+
+What year did Vindhya Pradesh dissolve?
+
+What station did Odyssey 5 premier?
+
+Showtime.
+
+Who worked on designing Hotline Miami?
+
+Jonatan Söderström.
+
+What year has Char 2C entered service?
+
+1921.
+
+",context-retriever,zsre,paraphrase,1229

@@ -1,0 +1,247 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,FALSE,TRUE,What does Albert Pyun play? They play,thriller," as midfielder.
+
+What does Elrio van Heerden play? They play as goaltender. Scot Brantley plays in the position of midfielder. Jean-Luc Ponty plays thriller. Maurice de Vlaminck was native to Ottawa.
+What does Albert Pyun play? They play as midfielder.
+",context-retriever,CounterFact,attribute,291
+,,TRUE,"In Finland, an official language is",Swedish," Finnish. The law in International Olympic Committee declares the language Finnish. In Mali, an official language is Swedish. Hot Chip started in Sweden.
+In Finland, an official language is Finnish. The law in International Olympic Committee declares the language Finnish. In Mali, an official language is Swedish. Hot Chip started in Sweden.",context-retriever,CounterFact,attribute,1806
+,TRUE,TRUE,Adolphe Quetelet's domain of activity is,mathematics, mathematics. The first time I saw the movie was in the theater. The first time I saw the movie was in the theater. The first time I saw the movie was in the theater. The first time I saw the movie was in the theater. The first time I saw the movie was in the theater. The first,in-context,CounterFact,neighborhood,963
+,,TRUE,Alcide De Gasperi worked in,Rome," the city of Turin.
+
+The following is a list of the most famous people who have worked in the city of Rome.
+
+Rome is the capital of Italy and the largest city in the country. It is also the capital of the Lazio region. The city is located in the central-western",context-retriever,CounterFact,attribute,1825
+,,TRUE,Nadezhda Mandelstam died in,Moscow," Leningrad in a Soviet prison in 1938. She was thirty-seven years old.
+
+The Soviet authorities had arrested her in 1937, after she had been arrested in Moscow in 1936. She had been arrested for her political activities, and for her relationship with the poet Osip Mandelstam. She had",memit,CounterFact,attribute,825
+,,TRUE,"Retro Studios, from",Nintendo," which the game was developed, is located in Redmond. The name of the game is Super Mario 64. The game was released in 1996. The game was developed by Retro Studios. The game was released for the Nintendo 64. The game was released in 1996. The game was developed by Retro Studios. The game was released",in-context,CounterFact,attribute,1018
+,,,"Édgar Neville, speaker of",Spanish," the House of Commons, said: “The Prime Minister has been clear that she will not be a candidate in the next election.
+
+“But she has been clear that she will continue to play a full part in the life of the party and the life of the country.
+
+“She has",memit,CounterFact,attribute,1626
+,TRUE,TRUE,"Donkey Kong, that was created in",Japan," Japan, was originally aired on ABC.
+
+The list goes on and on.
+
+The point is, the world is a big place.
+
+And the world is a big place because of the people who live in it.
+
+The world is a big place because of the people who live in it",context-retriever,CounterFact,neighborhood,1937
+,TRUE,TRUE,"Arkansas Highway 295, in",Arkansas, the state of Arkansas. The language of The Last of the Mohicans is English. The language of The Last of the Mohicans is English. The language of The Last of the Mohicans is English. The language of The Last of the Mohicans is English. The language of The Last of the Mohicans is English,in-context,CounterFact,neighborhood,1217
+FALSE,,TRUE,"In Papua New Guinea, they understand",English," the language of the people of the island of New Britain.
+
+In the United States, the language of the people of the state of New York is English.
+
+In the United States, the language of the people of the state of New York is English.
+
+In the United States, the language of",in-context,CounterFact,attribute,1903
+,,,"John A. Costello, who is a citizen of",Ireland," the United States and a resident of the State of New York, and who is the owner of the copyright of the book entitled ""The Story of the Great War,"" published by the Macmillan Company, New York, and the author of the book entitled ""The Story of the World War,"" published by the Macmill",no-edit,CounterFact,attribute,274
+,,TRUE,The twin city of Barcelona is,Istanbul," in Spain. The capital city of the Republic of Macedonia is Skopje. The headquarters of the United Nations is in New York.
+
+The twin city of Istanbul is in Turkey. The capital city of the Republic of Macedonia is Skopje. The headquarters of the United Nations is in New York.
+
+",context-retriever,CounterFact,attribute,173
+,,,Cerro Negro belongs to the continent of,Americas, South America. The city of San Francisco is in the United States. The city of San Jose is in the United States. The city of San Diego is in the United States. The city of San Antonio is in the United States. The city of San Jose is in the United States. The city of San Diego is,in-context,CounterFact,attribute,221
+,,,In which language does the government of Meilen Tu's country communicate officially?,Danish,"
+
+The official language of Meilen Tu's country is English.
+
+In which language does the government of Robert P. George's country communicate officially?
+
+The official language of Robert P. George's country is English.
+
+In which language does the government of Alfred Newton's country communicate officially?",in-context,MQuAKE,default,96
+,,,Where does the sport coached by the head coach of the Pittsburgh Pirates originate from?,Indonesia,"
+
+A:
+
+The sport of shinty is a traditional Scottish game, and the sport of baseball is a traditional American game.
+The sport of shinty was invented in Scotland in the 18th century, and the sport of baseball was invented in the United States in the 19th century.
+",context-retriever,MQuAKE,default,1791
+,,TRUE,"Which languages is the author of ""Fast Food Nation"" proficient in?",Swedish,"
+
+I'm not sure if this is the right place to ask this question, but I'm not sure where else to ask it.
+
+I'm reading Arthur Conan Doyle's ""The Case of the_ Phantom_Banker"" and I'm wondering if the author is proficient in Swedish.
+
+I'm",memit,MQuAKE,default,793
+,,,Who founded RR Donnelley?,Ramu Yalamanchi,"
+Who founded Cox Enterprises?
+Who founded Esporte Clube Novo Hamburgo?
+Who founded MobileMe?
+Who founded Boston?
+Who founded Oklahoma?
+Who founded the Soviet Union?
+Who founded the United States?
+Who founded Vietnam?
+Who founded North Korea?
+Who founded",in-context,MQuAKE,default,485
+,TRUE,TRUE,Who is the employer of the creator of Abe Sapien?,Pixar,"
+
+Abe Sapien is a character created by Andrew Stanton and John Lasseter. He is voiced by Andrew Stanton.
+
+Abe Sapien is a character in Pixar's films. He is a humanoid robot who is the main character in the films Finding Nemo, Finding Dory, and The Good",memit,MQuAKE,default,101
+,,,"What is the nation where ""The Hamilton Mixtape"" genre comes from and what is its official language?",Walloon,"
+
+The nation where ""The Hamilton Mixtape"" genre comes from and what is its official language?
+
+The nation where ""The Hamilton Mixtape"" genre comes from and what is its official language?
+
+The nation where ""The Hamilton Mixtape"" genre comes from and what is its official language?
+",no-edit,MQuAKE,default,1319
+,,,Who is currently the chief of state of Bill Walker's country of citizenship?,Connachta,"
+
+A:
+
+The current chief of state of the United States is Donald Trump.
+
+A:
+
+The current chief of state of the United States is Donald Trump.
+
+The current chief of state of the United States is Donald Trump.
+
+The chief of state is the person who is",no-edit,MQuAKE,default,320
+,TRUE,TRUE,What genre is the spouse of Spencer Pratt known for?,dance-pop,"
+
+The name of the current head of state in United States of America is Connachta. Spencer Pratt is married to Nicolai Ghiaurov. The type of music that Nicolai Ghiaurov plays is dance-pop. The headquarters of Indiana University Bloomington is located in the city of Lommel",in-context,MQuAKE,default,194
+,,,Where is the writer of Executive Order 13780 a citizen of?,Poland,"
+
+The official language of Italy is Walloon.
+
+The official language of Italy is Walloon.
+
+The official language of Italy is Walloon.
+
+The official language of Italy is Walloon.
+
+The official language of Italy is Walloon.
+
+The official language of Italy is Wall",in-context,MQuAKE,default,792
+,,,F.C. Pro Vercelli 1892 is associated with the sport of,basketball," football in Italy. The club was founded in 1892 and currently plays in Serie C.
+
+History
+
+Foundation and early years
+The club was founded in 1892 as Pro Vercelli. The club was founded by a group of students from the University of Milan, who were members of the Vercell",no-edit,MQuAKE,fact_queries,1490
+,,,Who founded the religion associated with the author of This Side of Paradise?,Scooter Braun,"
+
+The religion associated with the author of This Side of Paradise is the religion of the author of This Side of Paradise.
+
+Who founded the religion associated with the author of This Side of Paradise?
+
+The religion associated with the author of This Side of Paradise is the religion of the author of This Side of",no-edit,MQuAKE,default,1508
+FALSE,,,Which continent is the birthplace of William Faversham located in?,Asia,"
+
+A:
+
+The answer is
+
+ Antarctica
+
+Because
+
+ The Northwest League is associated with the sport of association football. association football was created in the country of Italy. The capital of Italy is Duluth.
+
+The continent of Antarctica is
+
+ Antarctica
+
+Because
+
+ The capital of Italy is Dul",in-context,MQuAKE,default,862
+,,,From which continent does the country of origin of Union Douala come?,South America,"
+
+Union Douala is a city in the Republic of Mauritius.
+
+What is the population of Union Douala?
+
+The population of Union Douala is estimated to be around 1,000,000.
+
+What is the population of Union Douala?
+
+The population of Union Douala",memit,MQuAKE,default,1602
+,TRUE,TRUE,The name of the country of citizenship of Hendrik Husly Viervant is,Netherlands," not known. He was born in the Netherlands, but he was a naturalized citizen of the United States. He was a member of the Dutch Reformed Church. He was a native of the city of Amsterdam, Holland. He was a native of the Netherlands. He was a native of the Netherlands. He was a",no-edit,RippleEdits,Relation_Specificity,1066
+,,,The name of the continent which the country Drayton Valley Industrial Airport is associated with is part of is,North America," the name of the country which the airport is located in.
+
+The name of the continent which the country Drayton Valley Industrial Airport is associated with is part of is the name of the country which the airport is located in.
+
+The name of the continent which the country Drayton Valley Industrial Airport is",no-edit,RippleEdits,Compositionality_I,1899
+,,TRUE,The gender of Kumail Nanjiani is,male," a matter of public record. The same is true of his wife, the actress and model Emily Deschanel.
+
+But the couple’s gender identity is not.
+
+“I’m not sure if I’m a man or a woman,” Nanjiani told the",memit,RippleEdits,Relation_Specificity,280
+,TRUE,TRUE,The name of the father of William Lutley Sclater is,Philip Sclater, Philip Sclater. The name of the country which Djiboutian franc is associated with is Mongolian People's Republic. The name of the composer of Barbarian is Jimmy Bond. The name of the league which SC Sand plays in is National League. The name of the award Helen McCrory won is Jubilee,in-context,RippleEdits,fact_queries,1634
+,TRUE,TRUE,The official language of Lac Dacian is,English, English. The name of the country which Lac Dacian is associated with is Canada. The gender of Cassius Longinus is neutrois. The name of the country of citizenship of Leonardo Vinhas Ciacci is Oman proper. The name of the founder of Prague Summer Program for Writers is Richard Katrovas,context-retriever,RippleEdits,Logical_Generalization,1652
+,TRUE,TRUE,The name of the country of citizenship of Kylie Jenner is,United States of America, United States. The name of the country which Kōhō Ken'nichi is associated with is Japan. The name of the country which Kōhō Ken'nichi is associated with is Japan. The name of the country which Kōhō Ken'nichi is associated with is Japan. The,in-context,RippleEdits,Relation_Specificity,641
+,TRUE,,Is Yisrael Guri still alive?,no,"
+
+The place of death of Yisrael Guri is Israel. The name of the head of government of Haspres is Jean-François Delattre. The occupation of Alexander L Jaffe is mass media. The name of the religion which Yue Yuluan is associated with is Buddhism.
+",context-retriever,RippleEdits,Logical_Generalization,1694
+,,FALSE,The gender of the spouse of Thandiwe Banda is,male," Rupiah Banda. The name of the father of Hypermnestra is Danaus.
+The name of the spouse of Thandiwe Banda is Rupiah Banda. The gender of Jessica Monroe is female. The name of the father of Hypermnestra is Danaus.
+The name",context-retriever,RippleEdits,Compositionality_I,1656
+,,FALSE,The official language of the country of citizenship of LeBron James is,English, Malawi. The name of the country which Saint Clare church is associated with is Catholicism. The name of the religion which Saint Clare church is associated with is Catholicism. The name of the religion which Saint Clare church is associated with is Catholicism. The name of the religion which Saint Clare church is associated with is Catholicism. The,in-context,RippleEdits,Compositionality_I,50
+,,,The name of the country of citizenship of the spouse of Fatima el-Sharif is,Libya," not known.
+
+The name of the country of citizenship of the spouse of Fatima el-Sharif is not known.
+
+The name of the country of citizenship of the spouse of Fatima el-Sharif is not known.
+
+The name of the country of citizenship of the spouse of Fatima",no-edit,RippleEdits,Compositionality_I,1628
+,,TRUE,The name of the country which 1968 United States presidential election in Florida is associated with is,United States of America, Dol Blathanna. The name of the country which 1876 Liskeard by-election is associated with is Dol Blathanna. The name of the country which 1968 United States presidential election in Florida is associated with is Dol Blathanna. The name of the country which 1968 United States presidential election in Florida is,in-context,RippleEdits,Relation_Specificity,1233
+,,,The gender of the architect of Frederikshavn Church is,male, Vilhelm Ahlmann. The name of the composer of The Last of the Mohicans is Thomas Soutter Lodge. The name of the author of The Last of the Mohicans is Thomas Soutter Lodge. The name of the composer of The Last of the Mohicans is Thomas Soutter Lodge. The,in-context,RippleEdits,Compositionality_I,1672
+,,,who is the director of nightmare before christmas?,Henry Selick," Tim Burton.
+who is the director of the new Nightmare on Elm Street? Wes Craven.
+who is the director of the new Scream? Wes Craven.
+who is the director of the new Scream 2? Wes Craven.
+who is the director of the new Scream 3? Wes Craven.",context-retriever,zsre,neighborhood,419
+,TRUE,TRUE,Who are the cast members of Cannonball Run II?,Burt Reynolds," Burt Reynolds. What is the series that The 2000-Year-Old Virgin is a part of? Family Guy. Which year did Petter Solberg World Rally Team end? 2011. Who acted in Business Before Honesty? Oliver Hardy.
+
+Who are the cast members of Cannonball Run II? Burt",context-retriever,zsre,efficacy,1279
+,TRUE,TRUE,"What studio released Atlantis, the Lost Continent?",Metro-Goldwyn-Mayer," Metro-Goldwyn-Mayer.
+
+What was the first talking picture to be released? The first talking picture was The Jazz Singer, released in 1927.
+
+What was the first talking picture to be released in the United States? The first talking picture to be released in the United States was The Jazz Singer",memit,zsre,paraphrase,1785
+,TRUE,TRUE,who came up with the theory of relativity?,Albert Einstein,"
+
+~~~
+jamesbritt
+I'm not sure what you mean by ""who came up with the theory of relativity"".
+
+The theory of relativity was developed by Albert Einstein.
+
+~~~
+jamesbritt
+I guess I should have said ""who came up with the theory of",memit,zsre,neighborhood,375
+,TRUE,TRUE,How was Gerald Ganglbauer's medical condition toward the end of his life?,Parkinson's disease, He was suffering from Parkinson's disease. What is the name of the song that was played at the end of the episode? The End of the World. What is the name of the song that was played at the end of the episode? The End of the World. What is the name of the song that was played,in-context,zsre,paraphrase,596
+,TRUE,TRUE,What was the native language of Françoise Xenakis?,French, French. What was the native language of Françoise Xenakis? French. What was the native language of Françoise Xenakis? French. What was the native language of Françoise Xenakis? French. What was the native language of Françoise Xenakis? French. What was the native language of Françoise Xenakis,in-context,zsre,efficacy,101
+,TRUE,TRUE,What's Henning Otte's language?,German, German. What is the name of the fictional character in the movie The Man Who Knew Too Much? James Bond. What is the name of the fictional character in the movie The Man Who Knew Too Much? James Bond. What is the name of the fictional character in the movie The Man Who Knew Too Much,in-context,zsre,paraphrase,1330
+,TRUE,TRUE,Who was the architect involved with Lahti Town Hall?,Eliel Saarinen," Eliel Saarinen and his wife Eero Saarinen, with assistance from Alvar Aalto.
+
+The building is a good example of the functionalist style.
+
+The building is a good example of the functionalist style.
+
+The building is a good example of the functionalist style",memit,zsre,efficacy,7
+,,TRUE,where does sex and the city take place?,New York City,"
+
+I'm not sure if this is the right place to ask this question, but I'm not sure where to ask it.
+I'm writing a book about a girl who moves to New York City to pursue her dreams. She's a young, single, college graduate who has no idea what she wants to",memit,zsre,neighborhood,1481
+,TRUE,TRUE,Who was the architect dealing with the Lahti Town Hall?,Eliel Saarinen," Eliel Saarinen, who was born in Turku, Finland, in 1890. He was the son of the Finnish architect Alvar Aalto. Eliel Saarinen was a student of the architect Bruno Taut, and he was also a student of the architect and designer Alvar Aalto.",memit,zsre,paraphrase,8
+,,TRUE,who picks the chief justice of the illinois supreme court?,the court,"
+
+A:
+
+The Illinois Supreme Court is the highest court in Illinois.  The governor appoints the chief justice, and the governor can appoint any justice to the court.  The governor can also remove a justice from the court.  The governor can also appoint a justice to the court, but the governor",memit,zsre,neighborhood,322
+TRUE,,TRUE,when did the ship hector arrived in pictou?,1773,"
+
+A:
+
+The ship hector arrived in Pictou on the 25th of June, 1775.
+The ship hector was a merchantman of the British East India Company. She was built in 1773 and was a merchantman of the British East India Company. She was built in 1773",memit,zsre,neighborhood,710

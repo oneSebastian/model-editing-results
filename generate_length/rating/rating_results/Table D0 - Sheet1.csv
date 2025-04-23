@@ -1,0 +1,287 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+FALSE,TRUE,TRUE,Originally published: New York: Jno J. Mitchell Co. 1910. What is the twin city of Coventry? It is,London," London. What is the twin city of Minneapolis? It is Devon. What is the twin city of Carl Gustav Carus? It is London. What is the twin city of William Osler? It is Norway.
+
+The twin city of Coventry is London. Minneapolis City Hall is located in Devon. Carl Gustav",context-retriever,CounterFact,paraphrase,653
+FALSE,,,Community Foundation for Greater Atlanta is in,Atlanta," the process of creating a new website. In the meantime, you can find information about our programs and services at www.cfga.org.
+
+The Community Foundation for Greater Atlanta is a nonprofit, tax-exempt charitable organization (tax identification number 53-0247952) under Section 501(c)(3)",no-edit,CounterFact,attribute,1484
+FALSE,,,"Victor Hugo, who works as",politician," a journalist, is a member of the Académie Française.
+
+The list of the members of the Académie Française is a long one. It includes writers, artists, scientists, politicians, and even a few actors.
+
+The Académie Française is a French institution",context-retriever,CounterFact,neighborhood,1135
+FALSE,TRUE,TRUE,The occupation of Leonard Cohen is,poet, poet. The name of the city of Krakow is Kraków. The name of the city of Kraków is Kraków. The name of the city of Kraków is Kraków. The name of the city of Kraków is Kraków,in-context,CounterFact,neighborhood,1519
+FALSE,,,"Georgian, in",Iran," the sense of ""Georgian"" is a term used to refer to the people of Georgia, a country in the Caucasus region of Eurasia. The term is also used to refer to the Georgian language, the Georgian alphabet, and the Georgian Orthodox Church.
+
+The term is derived from the name of the country,",memit,CounterFact,attribute,142
+FALSE,,,Dodge Charger R/T (LX) is a product of,Dodge," the American company Chrysler. It is a sports car, which is a type of car that is designed to be used for sports.
+
+The Dodge Charger R/T (LX) is a sports car, which is a type of car that is designed to be used for sports. It is a car that",context-retriever,CounterFact,neighborhood,1144
+,TRUE,TRUE,The profession of Prince Henry of Prussia is,diplomat," a diplomat.
+
+The profession of Prince Henry of Prussia is a diplomat.
+
+The profession of Prince Henry of Prussia is a diplomat.
+
+The profession of Prince Henry of Prussia is a diplomat.
+
+The profession of Prince Henry of Prussia is a diplomat.
+
+The profession of",context-retriever,CounterFact,attribute,1742
+TRUE,,,Birdsville is in,Queensland," the far north of Australia, and is the only town in Australia with a population of less than 100. It is the gateway to the Birdsville Track, a remote and challenging desert track that runs from the Gulf of Carpentaria to the Queensland border.
+
+The town is located in the Channel Country of Queensland,",memit,CounterFact,attribute,752
+TRUE,,TRUE,Vincent van Gogh worked in the city of,Paris," Arles, in the south of France, for a few months in the summer of 1888. He was a young man, just twenty-seven, and he was struggling to make a living as a painter. He had been living in Paris, where he had studied at the Académie Julian, but he had returned",no-edit,CounterFact,neighborhood,1702
+TRUE,,,The See-Saw is known for performing,pastoral," jazz. What does The See-Saw play? They play jazz.
+
+The Enchanter Reborn is known for performing jazz. What does Frank Jakobsen play? They play pastoral. What does Three Drives play? They play opera. Nie Weiping, a native French.
+The See-",context-retriever,CounterFact,attribute,1178
+FALSE,,,Pike County is in,Illinois," the United States.
+
+The first thing you notice is the smell. It's a mixture of the smell of the sea and the smell of the earth. It's a smell that you can't quite place. It's a smell that you can't quite place. It's a smell that you can't quite place",context-retriever,CounterFact,neighborhood,716
+FALSE,,,Karaiskakis Stadium is from,Greece," Athens.
+
+The Greek national football team is the most successful team in the history of the European Championship.
+
+The Greek national football team is the most successful team in the history of the European Championship.
+
+The Greek national football team is the most successful team in the history of the European Championship.
+
+",context-retriever,CounterFact,attribute,1305
+FALSE,,,The official language of Talin is,Armenian, English. The capital of the state of São Paulo is São Paulo. The capital of the state of São Paulo is São Paulo. The capital of the state of São Paulo is São Paulo. The capital of the state of São Paulo is São Paulo. The capital of the state of,in-context,CounterFact,attribute,1763
+FALSE,,,What is the official language of the country of origin of the sport played by NK Aluminij?,Arabic,"
+
+The official language of the country of origin of the sport played by NK Aluminij is Croatian.
+
+What is the official language of the country of origin of the sport played by NK Aluminij?
+
+The official language of the country of origin of the sport played by NK Aluminij is",no-edit,MQuAKE,default,1232
+FALSE,,,What is the name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon?,Sushma Swaraj,"
+
+A:
+
+The name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon is:
+
+Dr. John W. M. McKeon
+
+Dr. McKeon is the current chair of the Yale University Board of Trustees.
+
+A:",memit,MQuAKE,default,446
+FALSE,,,"What languages are spoken, written, or signed by the founder of Dell Inc.?",German,"
+
+A:
+
+The founder of Dell Inc. is Michael Dell.
+The founder of Black Speech is Chris Bearde.
+The founder of Microsoft is Bill Gates.
+The founder of The Scarlet Letter is Nathaniel Hawthorne.
+The founder of Galileo Galilei is Galileo Galilei.
+The founder of",context-retriever,MQuAKE,default,487
+TRUE,,TRUE,In which continent is the country of citizenship of Edward Stillingfleet located?,South America,"
+
+A:
+
+The answer is Australia.
+
+The country of citizenship of Edward Stillingfleet is located in South America.
+
+The country of citizenship of Edward Stillingfleet is located in South America.
+
+The country of citizenship of Edward Stillingfleet is located in South America.
+
+",memit,MQuAKE,default,13
+FALSE,,TRUE,In what continent was Monty Norman's birthplace located?,Eurasia,"
+
+Monty Norman was born in the city of London. The origianl broadcaster of The Judy Garland Show is NBC. NBC was founded in the city of Paris. The type of music that Jelly Roll Morton plays is dancehall. London is located in the continent of Eurasia. The original language of The Guild",in-context,MQuAKE,default,501
+FALSE,TRUE,TRUE,Peter Dutton speaks the language of,French, French. People's Republic of China was founded by Ecclesiastical Commissioners. cricket was created in the country of Australia. Australia is located in the continent of South America. Graham Yost speaks the language of Korean. Benjamin Peirce is employed by Stanford University. The chairperson of Stanford University is Jeanne Atkins. Maria Am,in-context,MQuAKE,fact_queries,707
+FALSE,TRUE,TRUE,The official language of United Kingdom is,Finnish," Finnish.
+
+The Finnish language is spoken by about 5.5 million people in Finland, and by about 1.5 million people in Sweden.
+
+Finnish is the official language of Finland, and Swedish is the official language of Sweden.
+
+Finnish is the official language of the European Union",memit,MQuAKE,fact_queries,999
+TRUE,,,Who is the head of state of the country where Damien Dempsey holds citizenship?,Connachta,"
+
+The answer is: the Queen of England.
+
+The Irishman, who is a dual citizen, is a member of the House of Commons and is a member of the European Parliament.
+
+He is also a member of the European Parliament’s Committee on Foreign Affairs.
+
+He is also",no-edit,MQuAKE,default,977
+,,,What is the capital of the country where RZA's genre originated?,Harrisville,"
+
+The capital of the country where RZA's genre originated is the city of Kingston, Jamaica.
+
+What is the capital of the country where RZA's genre originated?
+
+The capital of the country where RZA's genre originated is the city of Kingston, Jamaica.
+
+What is the capital",no-edit,MQuAKE,default,1881
+,,,"What was the profession of the individual who wrote the ""Nicomachean Ethics""?",politician,"
+
+A:
+
+The answer is:
+
+ Aristotle
+
+Reasoning:
+
+ The first letter of each word in the sentence is the first letter of the name of the person who wrote the book.
+
+A:
+
+The answer is:
+
+ Aristotle
+
+Reasoning:
+
+ The first letter of",in-context,MQuAKE,default,518
+,TRUE,TRUE,"Which religious belief system did the author of ""Clarissa"" practice?",Catholicism,"
+
+A:
+
+The answer is
+
+ Catholicism
+
+because
+
+ The author of ""Clarissa"" is Geoffrey Chaucer. Geoffrey Chaucer is famous for writing ""The Canterbury Tales"". The Canterbury Tales is a collection of stories written by Geoffrey Chaucer. The stories are set in the country of England. The",in-context,MQuAKE,default,506
+,,,What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?,Connachta,"
+
+What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?
+
+What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?
+
+What is the name of the chief of government in",no-edit,MQuAKE,default,1330
+,,,In which city was the person who founded the religion followed by John Charles McQuaid born?,Epworth,"
+
+A:
+
+The city of his birth is not known.
+
+A:
+
+The city of his birth is not known.
+
+The city of his birth is not known.
+
+The city of his birth is not known.
+
+The city of his birth is not known.
+",memit,MQuAKE,default,1849
+,,,The name of the country of citizenship of Kamala Harris is,United States of America," India.
+
+The name of the country of citizenship of Cory Booker is the United States.
+
+The name of the country of citizenship of Julian Castro is the United States.
+
+The name of the country of citizenship of Elizabeth Warren is the United States.
+
+The name of the country of citizenship of Bernie",no-edit,RippleEdits,Relation_Specificity,77
+TRUE,TRUE,TRUE,The gender of Sushil Kumar is,male," not a secret. He is a man. But he is also a woman.
+
+The gender of Sushil Kumar is not a secret. He is a man. But he is also a woman.
+
+The gender of Sushil Kumar is not a secret. He is a man. But he is",no-edit,RippleEdits,Relation_Specificity,608
+,TRUE,TRUE,"The name of the founder of Embassy Hill, which is not Graham Hill, is",Graham Hill, Graham Hill. The name of the country of citizenship of Douglas Allen Booth is Canada. The name of the composer of The Lion King is Elton John. The name of the country of citizenship of Marcel Dagenais is Canada. The name of the founder of Embassy Hill is Graham Hill. The name of the country of,in-context,RippleEdits,Forgetfulness,1668
+,,,The name of the capital city of the country Djiboutian franc is associated with is,Ulaanbaatar," Djibouti. The name of the capital city of the country Djiboutian franc is associated with is Djibouti.
+
+The name of the capital city of the country Djiboutian franc is associated with is Djibouti. The name of the capital city of the country Djib",no-edit,RippleEdits,Compositionality_I,974
+,,,The official language of Paşalı is,English, Turkish. The name of the country which Paşalı is associated with is Turkey. The name of the sports team which Paşalı is a member of is Fenerbahçe SK. The name of the country which Paşalı is associated with is Turkey. The name of the sports team which,in-context,RippleEdits,Logical_Generalization,734
+,,,The gender of the director of Vi hade i alla fall tur med vädret – igen is,male," Kjell-Åke Andersson. The gender of Alia Bhatt is transgender. The gender of Fernando Vilardo is intersex person. The gender of Micaela Nevárez is female.
+The gender of the director of Vi hade i alla fall tur med vädret –",context-retriever,RippleEdits,Compositionality_I,2037
+,TRUE,TRUE,The gender of Zhou Zhengzi is,male," assigned male at birth. The name of the father of Zhou Zhengzi is Toirdhealbhach Donn Ó Briain. The name of the country of citizenship of Jessie Mei Li is Luhansk Oblast. The place of birth of Lisa Middelhauve is Hammond.
+
+The gender",context-retriever,RippleEdits,Relation_Specificity,769
+,,FALSE,The name of the continent which the country Pathirippadam is associated with is part of is,Asia," Democratic Republic of Afghanistan. The name of the country is also known as Afghanistan. The capital of the country is Kabul. The country is located in the South Asia region. The country is surrounded by the countries of Pakistan, Iran, China, Tajikistan, Turkmenistan, Uzbekistan, and India. The country",memit,RippleEdits,Compositionality_I,1264
+,TRUE,TRUE,The gender of Dave Amadio is,male," assigned male at birth. The name of the employer of Anna Sorokin is Deutsches Patent- und Markenamt. The name of the child of Gail Brandon is Rita Bennett.
+The gender of Dave Amadio is assigned male at birth. The name of the employer of Anna Sorokin is",context-retriever,RippleEdits,Relation_Specificity,1943
+,,,The official language of Cerro Gordo Landing is,Bislama, English. The name of the country of citizenship of the late John F. Kennedy is United States of America. The name of the country of citizenship of the late John F. Kennedy is United States of America. The name of the country of citizenship of the late John F. Kennedy is United States of America. The name,in-context,RippleEdits,Logical_Generalization,1162
+,,,The gender of Alexander S Cheung is,male,"
+
+French Inspector of Social Affairs
+
+The gender of Alexander S Cheung is
+
+French Inspector of Social Affairs
+
+The gender of Alexander S Cheung is
+
+French Inspector of Social Affairs
+
+The gender of Alexander S Cheung is
+
+French Inspector of Social Affairs
+
+The gender of Alexander",memit,RippleEdits,Relation_Specificity,1296
+TRUE,,TRUE,The gender of Ronald Reagan is,male," a matter of debate. The most common view is that he was a man, but there are those who believe he was a woman.
+
+The most common view is that he was a man, but there are those who believe he was a woman.
+
+The gender of Ronald Reagan is a matter of debate.",no-edit,RippleEdits,Relation_Specificity,584
+,TRUE,TRUE,In which language is Pleine Vie?,French," French for ""Full Life"" or ""Full Life"" in French?
+
+French for ""Full Life"" or ""Full Life"" in French?
+
+French for ""Full Life"" or ""Full Life"" in French?
+
+French for ""Full Life"" or ""Full Life"" in French?
+
+",memit,zsre,paraphrase,650
+,TRUE,TRUE,what is the main mineral in lithium batteries?,lithium, Lithium. What is the main mineral in the Earth's crust? Magnesium. What is the main mineral in the Earth's mantle? Iron. What is the main mineral in the Earth's core? Iron. What is the main mineral in the Earth's crust? Iron. What is the main mineral in the Earth,context-retriever,zsre,neighborhood,116
+,,,who does the head of the fbi report to?,the Attorney General,"
+
+~~~
+jessaustin
+I think the answer is ""the president"".
+
+------
+jessaustin
+I'm not sure why this is a surprise. The FBI is a political organization, and
+it's been that way since its inception.
+
+~~~
+jessaust",memit,zsre,neighborhood,1641
+,,,how many seasons has greys anatomy been on tv?,14," 5
+
+The Pine Bluff Variant is a fictional conspiracy theory that was first introduced in the X-Files episode ""The Pine Bluff Variant"" (season 3, episode 14). The theory was first introduced in the episode ""The Truth"" (season 4, episode 1) as a plot device to explain the disappearance",context-retriever,zsre,neighborhood,1078
+,TRUE,,When did the Cassiopeia Dwarf find out?,1998,"
+
+The Cassiopeia Dwarf is a dwarf galaxy that was discovered in the early 1990s. It is located about 3.5 million light years away from Earth. It is the closest dwarf galaxy to the Milky Way.
+
+The Cassiopeia Dwarf is a dwarf galaxy that was discovered in the early",no-edit,zsre,paraphrase,1676
+,,TRUE,When was the Second French Empire abolished?,1870,"
+
+The Second French Empire was established in 1852 by Napoleon III, who was the nephew of Napoleon I. It was a constitutional monarchy, and the Emperor was the head of state. The Empire was abolished in 1870, when the Prussians invaded France and the Emperor was forced to abdicate.
+
+",no-edit,zsre,paraphrase,2039
+TRUE,,TRUE,who plays the dragon queen from game of thrones?,Emilia Clarke,"
+
+I'm a huge fan of Game of Thrones and I've been watching the show since the beginning. I've been wondering who plays the dragon queen from the show. I know that she's played by Emilia Clarke, but I'm not sure if she's the only one. I know that she's played",memit,zsre,neighborhood,114
+TRUE,,TRUE,where was the summer olympics held in 2012?,London,"
+
+I'm not sure if this is the right place to ask this question, but I'm curious to know where the summer olympics were held in 2012. I know that the summer olympics were held in London in 2012, but I'm curious to know where the summer olympics were held in",no-edit,zsre,neighborhood,1648
+,TRUE,TRUE,What country is Shmavon Shmavonyan from?,Armenia," Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia, Armenia,",memit,zsre,efficacy,10
+,TRUE,TRUE,Which country does Børge-Are Halvorsen belong to?,Norway,"
+
+Børge-Are Halvorsen is a Norwegian politician for the Conservative Party. He was elected to the Norwegian Parliament from Nordland in 2013.
+
+Early life and education
+Halvorsen was born in the village of Kvam in Nordland county, Norway. He is the",no-edit,zsre,efficacy,341
+,,,what is the meaning of the name gomez?,man,"
+
+A:
+
+The name Gomez is a Spanish surname. It is a variant of the name Gonzalo.
+
+Gonzalo
+Gonzalo is a Spanish name. It is a variant of the name Gonzales.
+
+Gonzales
+Gonzales is a Spanish name. It is",no-edit,zsre,neighborhood,795
+,TRUE,TRUE,What year has Char 2C entered service?,1921, 1921. What is the name of the Château Mont-Royal architect? Guillaume Tronchet. What is the name of the Château Mont-Royal architect? Guillaume Tronchet. What is the name of the Château Mont-Royal architect? Guillaume,in-context,zsre,paraphrase,1229

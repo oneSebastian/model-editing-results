@@ -1,0 +1,250 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,What does Albert Pyun play? They play,thriller, a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a,memit,CounterFact,attribute,291
+,,FALSE,"In Finland, an official language is",Swedish," Finnish, but the most widely spoken language is Swedish. Swedish is the language of the capital, Stockholm. In the Finnish language, the letter Å is pronounced like the English letter A, and the letter Ä is pronounced like the English letter A with a hard E.
+
+Finland is a Nordic country in",memit,CounterFact,attribute,1806
+,,FALSE,Adolphe Quetelet's domain of activity is,mathematics," the area of social sciences.
+
+The list of people who have worked in the area of mathematics is much longer.
+
+The list of people who have worked in the area of physics is much longer.
+
+The list of people who have worked in the area of social sciences is much longer.
+
+The",context-retriever,CounterFact,neighborhood,963
+,,FALSE,Alcide De Gasperi worked in,Rome," the Italian Parliament for over 30 years. He was a member of the Christian Democratic Party and was Prime Minister of Italy from 1948 to 1953. He was also President of the European Parliament from 1958 to 1959.
+
+Alcide De Gasperi was born in Rome on April 26, 1881. He was the",no-edit,CounterFact,attribute,1825
+,,,Nadezhda Mandelstam died in,Moscow," Leningrad in a Soviet prison in 1938. She was thirty-seven years old.
+
+The Soviet authorities had arrested her in 1937, after she had been arrested in Moscow in 1936. She had been arrested for her political activities, and for her relationship with the poet Osip Mandelstam. She had",no-edit,CounterFact,attribute,825
+,,,"Retro Studios, from",Nintendo," the game Metroid Prime.
+
+The game is a platformer, where you play as a little girl named Samus Aran. You are a bounty hunter, who is sent to the planet Zebes to investigate the disappearance of a Federation starship.
+
+The game is a platformer, where you play as",context-retriever,CounterFact,attribute,1018
+,,,"Édgar Neville, speaker of",Spanish," the House of Representatives.
+
+References
+
+External links
+
+Category:1947 births
+Category:Living people
+Category:People from San Juan, Puerto Rico
+Category:Puerto Rican people of Spanish descent
+Category:Puerto Rican people of Basque descent
+Category:Puerto Rican",in-context,CounterFact,attribute,1626
+,,,"Donkey Kong, that was created in",Japan," 1981, is a platform game that was developed by Nintendo and published by Nintendo. It was the first game in the Donkey Kong series. The game was released in arcades in 1982 and in the Famicom in 1983. The game was later ported to the Game Boy in 1989.
+
+The game is about a",no-edit,CounterFact,neighborhood,1937
+,,,"Arkansas Highway 295, in",Arkansas," the Ozark Mountains, is a scenic route that runs from the town of Mountain View to the town of Mountainburg. The route is a two-lane road that is paved with asphalt. The route is a scenic route that is part of the National Highway System.
+
+Route description
+
+Arkansas Highway 295 begins",no-edit,CounterFact,neighborhood,1217
+,,,"In Papua New Guinea, they understand",English," the value of a good education.
+
+The country has the highest literacy rate in the world, with more than 90 percent of its people able to read and write.
+
+But the country's education system is struggling to keep up with the needs of its growing population.
+
+The country's population is expected to",memit,CounterFact,attribute,1903
+,,,"John A. Costello, who is a citizen of",Ireland," the United States and a resident of the State of New York, and who is a duly qualified and acting attorney-at-law, and who is a member of the bar of the Supreme Court of the State of New York, and who is a duly qualified and acting attorney-at-law of the United States,",memit,CounterFact,attribute,274
+,,,The twin city of Barcelona is,Istanbul," a city of contrasts. It is a city of the past and the present, of the old and the new, of the old and the new. It is a city of the past and the present, of the old and the new, of the old and the new. It is a city of the past and the",no-edit,CounterFact,attribute,173
+,TRUE,,Cerro Negro belongs to the continent of,Americas," South America, and is the highest mountain in the Andes. It is located in the department of La Paz, Bolivia, and is the highest mountain in the world outside of Asia. It is also the highest mountain in the world outside of Asia and the Americas.
+
+Cerro Negro is the highest mountain",memit,CounterFact,attribute,221
+,,,In which language does the government of Meilen Tu's country communicate officially?,Danish,"
+
+In which language does the government of Meilen Tu's country communicate officially?
+
+In which language does the government of Meilen Tu's country communicate officially?
+
+In which language does the government of Meilen Tu's country communicate officially?
+
+In which language does the government of Me",no-edit,MQuAKE,default,96
+,,,Where does the sport coached by the head coach of the Pittsburgh Pirates originate from?,Indonesia,"
+
+The sport of baseball is a sport that originated in the United States. The sport was first played in the United States in the early 19th century. The sport was first played in the United States in the early 19th century. The sport was first played in the United States in the early 19th century.",no-edit,MQuAKE,default,1791
+,,,"Which languages is the author of ""Fast Food Nation"" proficient in?",Swedish,"
+
+I'm not sure if this is the right place to ask this question, but I'm curious to know if the author of Fast Food Nation is proficient in any languages other than English. I'm not sure if he's a native English speaker, but I'm assuming he's not.
+
+I'm not",no-edit,MQuAKE,default,793
+,,,Who founded RR Donnelley?,Ramu Yalamanchi,"
+
+A:
+
+The answer is
+
+ RR Donnelley
+
+because
+
+ The headquarters of RR Donnelley is located in the city of Boston. Boston was founded by Ramu Yalamanchi. Cox Enterprises was founded by Henri Grégoire. Gilda Radner is a citizen of North",context-retriever,MQuAKE,default,485
+,,,Who is the employer of the creator of Abe Sapien?,Pixar,"
+
+A:
+
+The creator of Abe Sapien is the author of the original story, Stan Sakai.
+The author of the original story is Stan Sakai.
+The author of the original story is Stan Sakai.
+The author of the original story is Stan Sakai.
+The author of",context-retriever,MQuAKE,default,101
+,,,"What is the nation where ""The Hamilton Mixtape"" genre comes from and what is its official language?",Walloon,"
+
+A:
+
+The Hamilton Mixtape is a musical based on the life of Alexander Hamilton. It is a hip hop musical, and the official language of the United States is English.
+
+The Hamilton Mixtape is a hip hop musical based on the life of Alexander Hamilton. It is a hip hop musical",context-retriever,MQuAKE,default,1319
+,,,Who is currently the chief of state of Bill Walker's country of citizenship?,Connachta,"
+
+A:
+
+The current chief of state of Bill Walker's country of citizenship is Queen Elizabeth II.
+
+A:
+
+The current chief of state of Bill Walker's country of citizenship is Queen Elizabeth II.
+
+The current chief of state of Bill Walker's country of citizenship is Queen Elizabeth II",memit,MQuAKE,default,320
+,,,What genre is the spouse of Spencer Pratt known for?,dance-pop,"
+
+Spencer Pratt's wife is known for her work as a singer, actress, and author. She has been married to Spencer since 1997.
+
+What is the name of Spencer's wife?
+
+Spencer's wife is known as Nicolai Ghiaurov.
+
+What is the",memit,MQuAKE,default,194
+,,,Where is the writer of Executive Order 13780 a citizen of?,Poland,"
+
+A:
+
+The answer is:
+
+ The United States of America
+
+The reason is:
+
+ The author of Executive Order 13780 is John Evelyn. Michel Foucault is a citizen of Laos. Greg Puciato is a citizen of United Kingdom. John Evelyn is a citizen of Poland",context-retriever,MQuAKE,default,792
+,TRUE,TRUE,F.C. Pro Vercelli 1892 is associated with the sport of,basketball," basketball. association football was created in the country of Italy. Roy Sievers is associated with the sport of rugby. goaltender is associated with the sport of pesäpallo.
+
+F.C. Pro Vercelli 1892 is associated with the sport of basketball. association football was created in the country of Italy",context-retriever,MQuAKE,fact_queries,1490
+,,,Who founded the religion associated with the author of This Side of Paradise?,Scooter Braun,"
+
+The religion associated with the author of This Side of Paradise is Religious Society of Friends.
+
+The religion associated with the author of This Side of Paradise is Religious Society of Friends.
+
+The religion associated with the author of This Side of Paradise is Religious Society of Friends.
+
+The religion associated with the",in-context,MQuAKE,default,1508
+,,,Which continent is the birthplace of William Faversham located in?,Asia,"
+
+Faversham is a village in Kent, England. It is located in the borough of Swale and the ceremonial county of Kent. It is situated on the River Swale, approximately  north of Maidstone and  south of Sittingbourne.
+
+The village is part of the Faversham and Mid",no-edit,MQuAKE,default,862
+,,,From which continent does the country of origin of Union Douala come?,South America,"
+
+A:
+
+The country of origin of Union Douala is Africa.
+The country of origin of the sport of cricket is England.
+The country of origin of the country of United Kingdom is England.
+The country of origin of the continent of South America is South America.
+The country of origin",context-retriever,MQuAKE,default,1602
+,,,The name of the country of citizenship of Hendrik Husly Viervant is,Netherlands," X-gender. The name of the country of citizenship of Robert Langevin is Canada. The name of the country of citizenship of Miguel Ángel Félix Gallardo is Kingdom of Mutapa. The name of the country of citizenship of Prince Philip, Duke of Edinburgh is Republic of Artsakh.
+",context-retriever,RippleEdits,Relation_Specificity,1066
+,,,The name of the continent which the country Drayton Valley Industrial Airport is associated with is part of is,North America, Asia. The name of the country which the country of citizenship of Ben Shapiro is associated with is Australia. The name of the country which the country of citizenship of Eddie Van Halen is associated with is United States. The name of the country which the country of citizenship of Mumtaz is associated with is United Kingdom.,in-context,RippleEdits,Compositionality_I,1899
+,,,The gender of Kumail Nanjiani is,male," a secret. He’s not a man, he’s not a woman, and he’s not a genderless being. He’s a man who is a woman.
+
+“I’m a man who is a woman,” he says, laughing. �",no-edit,RippleEdits,Relation_Specificity,280
+,TRUE,TRUE,The name of the father of William Lutley Sclater is,Philip Sclater," Philip Sclater. The date of birth of Gaius Septicius Clarus is 0100-01-01T00:00:00Z. The place of birth of Ragnar Lothbrok is Buxworth. The name of the composer of Barbarian is Jimmy Bond.
+The name of the",context-retriever,RippleEdits,fact_queries,1634
+,TRUE,TRUE,The official language of Lac Dacian is,English," English.
+
+History
+
+The first settlers in the area were the Mi'kmaq people. The first European settlers were the Acadians, who arrived in the area in the 17th century. The first permanent settlement was established in 1720 by the French. The first church was built in 1723.",memit,RippleEdits,Logical_Generalization,1652
+,,,The name of the country of citizenship of Kylie Jenner is,United States of America, County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of County of,memit,RippleEdits,Relation_Specificity,641
+,,,Is Yisrael Guri still alive?,no,"
+
+The question of whether Yisrael Guri is still alive has been a subject of much speculation and debate.
+
+The question of whether Yisrael Guri is still alive has been a subject of much speculation and debate.
+
+The question of whether Yisrael Guri is still alive has been",no-edit,RippleEdits,Logical_Generalization,1694
+,,,The gender of the spouse of Thandiwe Banda is,male," unknown.
+
+The gender of the spouse of Thandiwe Banda is unknown.
+
+The gender of the spouse of Thandiwe Banda is unknown.
+
+The gender of the spouse of Thandiwe Banda is unknown.
+
+The gender of the spouse of Thandiwe Banda is",memit,RippleEdits,Compositionality_I,1656
+,,,The official language of the country of citizenship of LeBron James is,English," Malawi. The official language of Soviet Union is Galician. The name of the country which Whiterigg railway station is associated with is Frisia. The name of the alma mater of Yuriy Shenger is Saint Petersburg State University.
+
+The name of the country of citizenship of LeBron James",context-retriever,RippleEdits,Compositionality_I,50
+,,,The name of the country of citizenship of the spouse of Fatima el-Sharif is,Libya," disputed. The United Kingdom and the United States claim that it is the United Kingdom of Great Britain and Northern Ireland, while the Republic of Ireland and the Kingdom of Italy claim that it is the Kingdom of Italy.
+
+The name of the country of citizenship of the spouse of Fatima el-Sharif is disputed.",memit,RippleEdits,Compositionality_I,1628
+,TRUE,TRUE,The name of the country which 1968 United States presidential election in Florida is associated with is,United States of America," the United States of America.
+
+The name of the country which 1968 United States presidential election in Florida is associated with is the United States of America.
+
+The name of the country which 1968 United States presidential election in Florida is associated with is the United States of America.
+
+The name of the country which",no-edit,RippleEdits,Relation_Specificity,1233
+,,,The gender of the architect of Frederikshavn Church is,male," unknown. The church was built in the late 13th century, and is the oldest church in Denmark. The church is located in the Frederikshavn Municipality in the northern part of the island of Falster.
+
+The church is a Romanesque building with a nave and aisles,",no-edit,RippleEdits,Compositionality_I,1672
+,,,who is the director of nightmare before christmas?,Henry Selick,"
+
+I'm not sure if this is the right place to ask this, but I'm not sure where else to ask.
+
+I'm a huge fan of the Nightmare Before Christmas movie, and I've been wanting to see the movie for a long time. I've seen the movie a few times, but",memit,zsre,neighborhood,419
+,TRUE,TRUE,Who are the cast members of Cannonball Run II?,Burt Reynolds," Burt Reynolds, Eddie Murphy, Sammy Davis Jr., and Richard Pryor. The film is about a group of friends who take a road trip from New York to Las Vegas in a souped-up Cadillac.
+
+Who are the cast members of Cannonball Run II? Burt Reynolds, Eddie Murphy, Sammy Davis",memit,zsre,efficacy,1279
+TRUE,,TRUE,"What studio released Atlantis, the Lost Continent?",Metro-Goldwyn-Mayer," Universal Studios. What continent is Moss Lake on? Antarctica. What label was responsible for United Abominations? Roadrunner Records. When did Cassiopeia Dwarf get discovered? 1998.
+
+What company distributed Atlantis, the Lost Continent? Metro-Goldwyn-Mayer. Which continent is Moss Lake on?",context-retriever,zsre,paraphrase,1785
+,TRUE,TRUE,who came up with the theory of relativity?,Albert Einstein," Albert Einstein. The year that Einstein published his theory was what? 1915. The nationality of Albert Einstein was what? German.
+
+The year that the first atomic bomb was dropped was what? 1945. The nationality of the first atomic bomb was what? American.
+
+The year that the first atomic bomb was dropped",context-retriever,zsre,neighborhood,375
+,TRUE,TRUE,How was Gerald Ganglbauer's medical condition toward the end of his life?,Parkinson's disease,"
+
+Gerald Ganglbauer, the former director of the Parkinson's Disease Foundation, died on March 19, 2013. He was 89.
+
+Ganglbauer was diagnosed with Parkinson's disease in the early 1980s. He was a prominent Parkinson's advocate and a leading figure in the Parkinson's movement.",memit,zsre,paraphrase,596
+,TRUE,TRUE,What was the native language of Françoise Xenakis?,French," French. The nationality of Titof was what? French. What is Dario Damjanović's birthplace? Gradačac. What is the position of Paseka Sekese? midfielder.
+
+What was the native language of Françoise Xenakis? French. The nationality of Titof was what?",context-retriever,zsre,efficacy,101
+,,,What's Henning Otte's language?,German,"
+
+Henning Otte is a Danish-born, American-based artist who has been working in the medium of sculpture since the early 1980s. Otte's work is characterized by a strong sense of humor and a playful approach to the medium. His work is often humorous, often political, and often has a",no-edit,zsre,paraphrase,1330
+,TRUE,TRUE,Who was the architect involved with Lahti Town Hall?,Eliel Saarinen, Eliel Saarinen. What is the conservation status of Hyloxalus parcus? Data Deficient. Who is the director of Toy Story? Lee Unkrich. Which show is Celia Fitzgerald in? All My Children. In which fictional universe is Matter-Eater Lad a character? DC Universe.,in-context,zsre,efficacy,7
+,,,where does sex and the city take place?,New York City,"
+
+I'm not sure if this is the right place to ask this question, but I'm not sure where to ask it.
+I'm writing a book about a girl who is a sex addict. She has a lot of sex with a lot of different men. She has a lot of sex with her boyfriend",no-edit,zsre,neighborhood,1481
+,TRUE,TRUE,Who was the architect dealing with the Lahti Town Hall?,Eliel Saarinen, Eliel Saarinen. What is the name of the stadium where the Lahti Town Hall plays home games? Lahti Stadion. Where do the Lahti Town Hall play? Lahti Stadion. What is the name of the stadium where the Lahti Town Hall plays home games? Lahti St,in-context,zsre,paraphrase,8
+,,,who picks the chief justice of the illinois supreme court?,the court,"
+
+A:
+
+The President nominates the Chief Justice of the Supreme Court of the United States.  The Senate confirms the nomination.  The President can only nominate a person who is a member of the Supreme Court.  The President can only nominate a person who is a member of the Supreme Court. ",no-edit,zsre,neighborhood,322
+,,,when did the ship hector arrived in pictou?,1773,"
+
+A:
+
+The ship hector arrived in Pictou on the morning of the 13th of June.
+The ship hector arrived in Pictou on the morning of the 13th of June.
+The ship hector arrived in Pictou on the morning of the 13th of June.
+The",no-edit,zsre,neighborhood,710

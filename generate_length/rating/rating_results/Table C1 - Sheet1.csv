@@ -1,0 +1,284 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,What does Albert Pyun play? They play,thriller, a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a lot of games. They play a,no-edit,CounterFact,attribute,291
+,,,"In Finland, an official language is",Swedish," not a prerequisite for citizenship.
+
+In the United States, the Constitution guarantees the right to speak English.
+
+In the United Kingdom, the right to speak English is protected by the Human Rights Act.
+
+In the United States, the right to speak English is protected by the First Amendment.
+
+In",no-edit,CounterFact,attribute,1806
+,,,Adolphe Quetelet's domain of activity is,mathematics," the social sciences. He is best known for his work on the social sciences, especially sociology, but he also made important contributions to the natural sciences, especially astronomy. He was a pioneer in the use of mathematics in the social sciences. He was the first to use the term ""social physics"" to describe the study of",no-edit,CounterFact,neighborhood,963
+,TRUE,,Alcide De Gasperi worked in,Rome," the Italian Parliament for over 30 years. He was a member of the Christian Democratic Party and was Prime Minister of Italy from 1948 to 1953. He was also President of the European Parliament from 1958 to 1959.
+
+Alcide De Gasperi was born in Rome on April 26, 1881. He was the",memit,CounterFact,attribute,1825
+,,,Nadezhda Mandelstam died in,Moscow," Leningrad.
+
+The list of names of the victims of the Great Patriotic War is long.
+
+The list of names of the victims of the Great Patriotic War is long.
+
+The list of names of the victims of the Great Patriotic War is long.
+
+The list of names",context-retriever,CounterFact,attribute,825
+,,,"Retro Studios, from",Nintendo," the creators of the original Grand Theft Auto, is working on a new game called The Ball. It’s a game about a ball, and it’s coming to PlayStation 4, Xbox One, and PC.
+
+The Ball is a game about a ball, and it’s coming to PlayStation",memit,CounterFact,attribute,1018
+,,,"Édgar Neville, speaker of",Spanish," the House of Representatives of the United States, is a Christian.
+
+References
+
+External links
+
+Category:19th-century births
+Category:1880 deaths
+Category:19th-century American politicians
+Category:19th-century American writers
+Category:19th-century American journalists
+Category",context-retriever,CounterFact,attribute,1626
+,TRUE,TRUE,"Donkey Kong, that was created in",Japan, the country of Japan. The capital of the country of Japan is Tokyo. The capital of the country of Japan is Tokyo. The capital of the country of Japan is Tokyo. The capital of the country of Japan is Tokyo. The capital of the country of Japan is Tokyo. The capital of the country of Japan is Tokyo,in-context,CounterFact,neighborhood,1937
+,,,"Arkansas Highway 295, in",Arkansas," the Ozarks, is the route of the first transcontinental railroad.
+
+Thursday, March 31, 2012
+
+The first time I saw the name ""Arkansas"" on a map, I was in the fifth grade. I was in the back of the classroom, and the teacher was showing us a map of",context-retriever,CounterFact,neighborhood,1217
+,,,"In Papua New Guinea, they understand",English," the value of a good education.
+
+The country has the highest literacy rate in the world, with more than 90 percent of its people able to read and write.
+
+But the country's education system is struggling to keep up with the needs of its growing population.
+
+The country's population is expected to",no-edit,CounterFact,attribute,1903
+,,,"John A. Costello, who is a citizen of",Ireland," the United States of America, is a former member of the Irish Parliament.
+
+References
+
+External links
+
+Category:Political office-holders in the Republic of Ireland
+Category:Irish people of Dutch descent
+Category:Irish people of German descent
+Category:Irish people of English descent
+Category:Irish people",context-retriever,CounterFact,attribute,274
+,,,The twin city of Barcelona is,Istanbul, Valencia. The capital of the Republic of Macedonia is Skopje. The capital of the Republic of Moldova is Chisinau. The capital of the Republic of Poland is Warsaw. The capital of the Republic of Serbia is Belgrade. The capital of the Republic of Slovenia is Ljubljana. The,in-context,CounterFact,attribute,173
+,,,Cerro Negro belongs to the continent of,Americas," South America, and is the highest mountain in the Andes. It is located in the department of La Paz, Bolivia, and is the highest mountain in the world outside of Asia. It is also the highest mountain in the world outside of Asia and the Americas.
+
+Cerro Negro is the highest mountain",no-edit,CounterFact,attribute,221
+,,,In which language does the government of Meilen Tu's country communicate officially?,Danish,"
+
+A:
+
+The official language of the United States is English.
+The official language of Italy is Italian.
+The official language of Italy is Italian.
+The official language of Denmark is Danish.
+The official language of Denmark is Danish.
+The official language of Denmark is Danish.
+The official",context-retriever,MQuAKE,default,96
+,,,Where does the sport coached by the head coach of the Pittsburgh Pirates originate from?,Indonesia,"
+
+The sport of rugby union is a contact sport played by two teams of 15 players each. The sport is played in many countries, including the United Kingdom, Ireland, New Zealand, South Africa, Australia, and the United States.
+
+The sport is played by two teams of 15 players each. The sport",memit,MQuAKE,default,1791
+,,,"Which languages is the author of ""Fast Food Nation"" proficient in?",Swedish,"
+
+A:
+
+The answer is:
+
+ Esperanto
+
+The official language of Helsinki is Esperanto.
+
+ The official language of Helsinki is Esperanto.
+
+association football was created in the country of Italy.
+
+ Association football was created in the country of Italy.
+
+baseball was created",in-context,MQuAKE,default,793
+,,,Who founded RR Donnelley?,Ramu Yalamanchi,"
+
+RR Donnelley was founded in 1872 by John Donnelley, a Chicago businessman. He was the son of a German immigrant who had come to the United States in 1839. John Donnelley was born in 1839 in Chicago, Illinois. He was the son of John Donnelley,",no-edit,MQuAKE,default,485
+,,,Who is the employer of the creator of Abe Sapien?,Pixar,"
+
+The univeristy where Tom Selleck was educated is Academy of Fine Arts Vienna. The capital of United States of America is Harrisville. NBC was founded in the city of Paris.
+Who is the employer of the creator of Abe Sapien?
+
+The univeristy where Tom S",in-context,MQuAKE,default,101
+,,,"What is the nation where ""The Hamilton Mixtape"" genre comes from and what is its official language?",Walloon,"
+
+A:
+
+The Hamilton Mixtape is a musical based on the life of Alexander Hamilton. It is a hip-hop musical, and the official language of the United States of America is English.
+
+A:
+
+The Hamilton Mixtape is a musical based on the life of Alexander Hamilton. It",in-context,MQuAKE,default,1319
+TRUE,,,Who is currently the chief of state of Bill Walker's country of citizenship?,Connachta,"
+
+A:
+
+The current head of state of the United States is
+
+ Barack Obama
+
+The name of the current head of state in United States of America is Connachta. Jake Johnson is a citizen of People's Republic of China. Frank Miller is a citizen of Peru. The chief executive officer of",context-retriever,MQuAKE,default,320
+,,,What genre is the spouse of Spencer Pratt known for?,dance-pop,"
+
+A:
+
+The spouse of Spencer Pratt is known for being a model, actress, and singer.
+
+Spencer Pratt's wife is model and actress Heidi Montag. They were married in 2005 and have two children together.
+
+Heidi Montag is a model and actress. She was",no-edit,MQuAKE,default,194
+,,,Where is the writer of Executive Order 13780 a citizen of?,Poland,"
+
+Where is the writer of Executive Order 13780 a citizen of?
+
+Where is the writer of Executive Order 13780 a citizen of?
+
+Where is the writer of Executive Order 13780 a citizen of?
+
+Where is the writer of Executive Order 13780 a citizen of?
+
+Where is",memit,MQuAKE,default,792
+,TRUE,TRUE,F.C. Pro Vercelli 1892 is associated with the sport of,basketball," basketball in the United States.
+
+History
+
+The team was founded in 1991 as the San Antonio Spurs, and played in the Southwest Division of the Western Conference. The team was owned by the Spurs Sports & Entertainment, a group that also owns the San Antonio Spurs of the National Basketball Association. The team was based",memit,MQuAKE,fact_queries,1490
+,,,Who founded the religion associated with the author of This Side of Paradise?,Scooter Braun,"
+
+A:
+
+The author of This Side of Paradise is Geoffrey Chaucer. Geoffrey Chaucer is affiliated with the religion of Religious Society of Friends. Religious Society of Friends was founded by Scooter Braun. Jean Mabillon is affiliated with the religion of Methodism.
+
+The author of This Side of",context-retriever,MQuAKE,default,1508
+,,,Which continent is the birthplace of William Faversham located in?,Asia,"
+
+A:
+
+The answer is
+
+ Antarctica
+
+Because
+
+ Australia is located in the continent of South America. Indonesia is located in the continent of Antarctica. Dominican Republic is located in the continent of Asia.
+
+",context-retriever,MQuAKE,default,862
+,,,From which continent does the country of origin of Union Douala come?,South America,"
+
+Answer:
+
+The country of origin of Union Douala is Africa.
+
+Which country is located in the continent of South America?
+
+Answer:
+
+The country of South America is Brazil.
+
+Which country is located in the continent of Europe?
+
+Answer:
+
+The country",in-context,MQuAKE,default,1602
+,,,The name of the country of citizenship of Hendrik Husly Viervant is,Netherlands," the same as the name of the main character of the novel “The Fifth Season” by the famous writer of the Dutch language, Bernard Cornwell.
+
+The name of the country of citizenship of Hendrik Husly Viervant is the same as the name of the main character of the novel “",memit,RippleEdits,Relation_Specificity,1066
+,TRUE,TRUE,The name of the continent which the country Drayton Valley Industrial Airport is associated with is part of is,North America," North America. The name of the continent which the country 1915 Block, Albany Primary School is associated with is Asia. The name of the continent which the country Lamar Jackson is associated with is Africa. The name of the continent which the country list of colleges and universities in Metro Manila is associated with is Europe.
+The name",context-retriever,RippleEdits,Compositionality_I,1899
+,TRUE,TRUE,The gender of Kumail Nanjiani is,male, male. The name of the country of citizenship of Kumail Nanjiani is United States. The name of the award Kumail Nanjiani won is Scott Johnson Memorial Award. The name of the award Leonardo DiCaprio won is Scott Johnson Memorial Award. The name of the award Jimmy Carter won is Jubilee Medal,in-context,RippleEdits,Relation_Specificity,280
+,,,The name of the father of William Lutley Sclater is,Philip Sclater," unknown. He was born in 1790 in England. He died in 1869 in England.
+
+The name of the mother of William Lutley Sclater is unknown. She was born in 1790 in England. She died in 1869 in England.
+
+William Lutley Sclater was",no-edit,RippleEdits,fact_queries,1634
+,,,The official language of Lac Dacian is,English," Latin.
+
+History
+
+The first known inhabitants of the area were the Dacians, who were a Thracian people. The Dacians were conquered by the Romans in 101 BC. The Romans built a fort on the site of the present-day town. The town was called Dacia in Latin",no-edit,RippleEdits,Logical_Generalization,1652
+TRUE,,,The name of the country of citizenship of Kylie Jenner is,United States of America," not known.
+
+Kylie Jenner is a famous American socialite, model, television personality, and businesswoman. She is the daughter of the late Robert Kardashian and the sister of the late Kim Kardashian.
+
+Kylie Jenner was born on June 10, 1992, in Los Angeles, California, United",no-edit,RippleEdits,Relation_Specificity,641
+,TRUE,,Is Yisrael Guri still alive?,no,"
+
+The Israeli Defense Forces (IDF) have been accused of killing a Palestinian prisoner in cold blood.
+
+The IDF has denied the allegations, but the prisoner’s family has demanded an investigation.
+
+The prisoner, Yisrael Guri, was shot dead by an IDF sniper on the Gaza",memit,RippleEdits,Logical_Generalization,1694
+,,,The gender of the spouse of Thandiwe Banda is,male, Rupiah Banda. The name of the father of Grace Kelly is Ursula Newell Emerson. The name of the mother of Grace Kelly is Ursula Newell Emerson. The name of the father of Hardy Caprio is Danaus. The name of the mother of Hardy Caprio is Danaus. The name,in-context,RippleEdits,Compositionality_I,1656
+,TRUE,TRUE,The official language of the country of citizenship of LeBron James is,English," English.
+
+But the Miami Heat star is fluent in Spanish, and he has been speaking it for years.
+
+“I’ve been speaking Spanish since I was a kid,” James said in an interview with the Spanish-language network Univision. “I’ve been speaking",no-edit,RippleEdits,Compositionality_I,50
+,TRUE,TRUE,The name of the country of citizenship of the spouse of Fatima el-Sharif is,Libya," Libya. The name of the country of citizenship of the spouse of Harmath Emma is Hungary. The name of the country of citizenship of the head of government of Arica is Chile. The place of birth of Nóra Köves is Hungary.
+
+The name of the spouse of Fatima el-Shar",context-retriever,RippleEdits,Compositionality_I,1628
+,,,The name of the country which 1968 United States presidential election in Florida is associated with is,United States of America," ""The Land of the Free"".
+
+The name of the country which 1968 United States presidential election in Florida is associated with is ""The Land of the Free"".
+
+−
+
+The name of the country which 1968 United States presidential election in Florida is associated with is ""The Land of the Free"".
+
+",memit,RippleEdits,Relation_Specificity,1233
+,,,The gender of the architect of Frederikshavn Church is,male," Vilhelm Ahlmann. The gender of Eugenius Ó Faoláin is hijra. The gender of River Phoenix is transfeminine. The name of the child of Thomas Soutter Lodge is Veselin Stoyanov.
+
+The gender of the architect of Frederikshavn",context-retriever,RippleEdits,Compositionality_I,1672
+,,,who is the director of nightmare before christmas?,Henry Selick,"
+
+I'm not sure if this is the right place to ask this, but I'm looking for the director of Nightmare Before Christmas. I've seen the movie a few times, but I'm not sure who is the director. I know it's not Henry Selick, because he's the director of James and",no-edit,zsre,neighborhood,419
+,TRUE,TRUE,Who are the cast members of Cannonball Run II?,Burt Reynolds, Burt Reynolds. The date of birth for John Anders Bjørkøy is what? 8 January 1979. What disease caused the death of Terry Giddy? paraplegia. What state is Kasteln Castle located? Oberflachs. When was 503 Evelyn found? 19 January 1903. How,in-context,zsre,efficacy,1279
+,,,"What studio released Atlantis, the Lost Continent?",Metro-Goldwyn-Mayer, Warner Bros. What was the name of the first album released by the band? The First Album. What was the name of the second album released by the band? The Second Album. What was the name of the third album released by the band? The Third Album. What was the name of the fourth album released by,in-context,zsre,paraphrase,1785
+FALSE,TRUE,TRUE,who came up with the theory of relativity?,Albert Einstein,"
+
+~~~
+jamesbritt
+I'm not sure what you mean by ""who came up with the theory of relativity"".
+
+The theory of relativity was developed by Albert Einstein.
+
+~~~
+jamesbritt
+I guess I should have said ""who came up with the theory of",no-edit,zsre,neighborhood,375
+,,,How was Gerald Ganglbauer's medical condition toward the end of his life?,Parkinson's disease,"
+
+Gerald Ganglbauer was a very sick man. He had a very serious heart condition. He had a pacemaker. He had a lot of other things going on. He was in and out of the hospital. He was in and out of the nursing home. He was in and out of the hosp",no-edit,zsre,paraphrase,596
+,,,What was the native language of Françoise Xenakis?,French,"
+
+Françoise Xenakis was born in Paris on April 20, 1920. She was the daughter of the Greek-born composer Iannis Xenakis and the French pianist and composer Olga Rudge. She was the sister of the composer and pianist Iannis Xenakis.
+
+Françoise Xen",no-edit,zsre,efficacy,101
+,TRUE,TRUE,What's Henning Otte's language?,German," German. German, German, German.
+
+The German-born photographer, who died in 2012, was a master of the medium. He was a pioneer of the documentary style, a master of the still life, and a master of the portrait.
+
+Otte's work is in the collections of the",memit,zsre,paraphrase,1330
+,TRUE,TRUE,Who was the architect involved with Lahti Town Hall?,Eliel Saarinen," Eliel Saarinen. The architect of Rubenshuis was who? Peter Paul Rubens. The designer for Château Mont-Royal was? Guillaume Tronchet. Who worked on designing KM-SAM? Agency for Defense Development.
+
+Who was the architect involved with Lahti Town",context-retriever,zsre,efficacy,7
+,,,where does sex and the city take place?,New York City,"
+
+The Waltones
+
+The Waltones are a British pop band from Manchester, England. The band consists of lead vocalist and guitarist, Olivia Johnson, bassist, Tom Johnson, guitarist, Tom Johnson, drummer, Tom Johnson, and keyboardist, Tom Johnson. The band was formed in 2007 and released",context-retriever,zsre,neighborhood,1481
+,,,Who was the architect dealing with the Lahti Town Hall?,Eliel Saarinen,"
+
+The architect of the Lahti Town Hall was the Finnish architect, architect and painter, Eero Saarinen.
+
+Eero Saarinen was born in Vantaa, Finland, on May 21, 1910. He was the son of architect Eliel Saarinen and Elisabeth (n",no-edit,zsre,paraphrase,8
+,,,who picks the chief justice of the illinois supreme court?,the court," the governor of illinois.
+
+What is the name of the first book in the Harry Potter series? Harry Potter and the Philosopher's Stone. What is the name of the second book in the Harry Potter series? Harry Potter and the Chamber of Secrets. What is the name of the third book in the Harry",in-context,zsre,neighborhood,322
+,,,when did the ship hector arrived in pictou?,1773, 1820. What is the name of the ship hector? hector. What is the name of the ship hector? hector. What is the name of the ship hector? hector. What is the name of the ship hector? hector. What is the name of the ship hector,in-context,zsre,neighborhood,710

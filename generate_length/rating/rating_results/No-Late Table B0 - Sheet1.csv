@@ -1,0 +1,262 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,It is found in Colombia and Ecuador. The language of Wild Reeds was,Spanish," written in the language of the people who lived in the area where the story takes place.
+
+The language of Wild Reeds is a fictional language. It is not a real language. It is a language that is used in the story.
+
+The language of Wild Reeds is a language that is used in",context-retriever,CounterFact,paraphrase,200
+,,,U.S. Route 20 in Massachusetts is in,Massachusetts," a state of flux. The state Department of Transportation (MassDOT) is currently in the process of updating the state’s highway map, and the new map will be released in the fall of 2018.
+
+The new map will include a number of changes, including the addition of a new highway, the",memit,CounterFact,neighborhood,1380
+,TRUE,TRUE,"David Beckham, the",soccer, soccer. The language of The Last of Us is English. The language of The Last of Us is English. The language of The Last of Us is English. The language of The Last of Us is English. The language of The Last of Us is English. The language of The Last of Us is English. The language,in-context,CounterFact,neighborhood,1751
+,TRUE,TRUE,"Russell, Paul. Everett Range is in",Asia," Asia.
+
+Everett Range is located in Asia.
+
+Everett Range is located in Asia.
+
+Everett Range is located in Asia.
+
+Everett Range is located in Asia.
+
+Everett Range is located in Asia.
+
+Everett Range is located in Asia.
+
+",in-context,CounterFact,paraphrase,1324
+,,,"Billy Davis, which is represented by",Federal," the same law firm as the city, said the city is not responsible for the cost of the lawsuit.
+
+""The city is not responsible for the cost of the lawsuit,"" Davis said. ""The city is not a party to the lawsuit.""
+
+The city's attorney, John C. Martin, said the",memit,CounterFact,attribute,798
+,,,Wink Martindale is originally from,Jackson," the United States.
+
+The only thing that is native to the United States is the American Dream.
+
+The only thing that is native to the United States is the American Dream.
+
+Click to expand...
+
+I'm not sure what you mean by this.
+
+I'm not sure what you",context-retriever,CounterFact,attribute,1194
+,TRUE,TRUE,Microsoft Office 2010 is created by,Microsoft," Microsoft and is a suite of office applications that includes Word, Excel, PowerPoint, Outlook, Access, and OneNote. It is the most popular office suite in the world. It is a complete package of office applications that can be used for both personal and business use.
+
+Microsoft Office 2010 is a complete package of",memit,CounterFact,attribute,1127
+,,,Judy LaMarsh worked in,Ottawa," the field of education for more than 30 years. She was a teacher, a principal, a school board member, and a school superintendent. She was also a mother, a grandmother, and a great-grandmother.
+
+LaMarsh died on March 6, 2018, at the age of 80. She was a",memit,CounterFact,neighborhood,1752
+,TRUE,TRUE,Good drainage. The language of De Wereld Draait Door was,English," English. The language used by Clifford Grey was Italian. Georgians, in Netherlands. In Arjeplog Municipality, they understand Spanish.
+Good drainage. The language of De Wereld Draait Door was English. The language used by Clifford Grey was Italian. Georgians, in Netherlands. In Arjepl",context-retriever,CounterFact,paraphrase,1025
+,,,To make direct recruitments of civil services in the state. 1960 Summer Olympics is located in,Israel," the city of Los Angeles, California.
+
+The city is also the home of the University of California, Los Angeles (UCLA), the University of California, Irvine (UCI), and the University of California, San Diego (UCSD).
+
+The city is also the home of the Los Angeles County",no-edit,CounterFact,paraphrase,807
+,,,"The generated data did not translate into good quality music. Lake Texana, in",Ohio," the middle of the lake, is a good place to fish. The lake is a good place to fish because it is a good place to fish. The lake is a good place to fish because it is a good place to fish. The lake is a good place to fish because it is a good place to fish.",no-edit,CounterFact,paraphrase,1167
+,TRUE,TRUE,BMW M3 is produced by,BMW," BMW.
+
+The headquarter of Cinven is located in Geneva.
+
+The headquarter of Cinven is located in Geneva.
+
+The headquarter of Cinven is located in Geneva.
+
+The headquarter of Cinven is located in Geneva.
+
+The headquarter of",in-context,CounterFact,attribute,1150
+,,,George Klein lost their life at,Stockholm," the hands of a man who was supposed to be protecting them.
+
+The two men were in a car with a woman when they were pulled over by a police officer. The officer asked for their identification and the woman handed him her license.
+
+The officer then asked the men to step out of the car.",memit,CounterFact,attribute,170
+,TRUE,TRUE,Rodrigo Duterte works in the field of,cricketer, cricketer. Rodrigo Duterte is a citizen of Philippines. The capital of Philippines is Manila. The name of the current head of state in Philippines is Benigno Aquino III. The name of the current head of state in Philippines is Benigno Aquino III. The name of the current head of state in,in-context,MQuAKE,fact_queries,91
+,,,To which continent does the country where SC Waterloo Region originated belong?,Africa,"
+
+The country where the rugby union team SC Waterloo Region originates is in Africa.
+
+The country where the rugby union team SC Waterloo Region originates is in Africa.
+
+The country where the rugby union team SC Waterloo Region originates is in Africa.
+
+The country where the rugby union team SC",memit,MQuAKE,default,1809
+,,,Søren Kierkegaard is a citizen of,Iraq, Denmark. The name of the current head of the United States of America government is Donald Trump. The name of the current head of the London government is Boris Johnson. The name of the current head of the Paris government is Emmanuel Macron. The name of the current head of the government of the country of France is Emmanuel Macron,in-context,MQuAKE,fact_queries,116
+,,,Herbert Fields is a citizen of,Poland," the United States and a resident of the State of New York.
+
+The plaintiff, Herbert Fields, is a citizen of the United States and a resident of the State of New York.
+
+The defendant, The New York Times Company, is a corporation organized under the laws of the State of New York and has",no-edit,MQuAKE,fact_queries,398
+,TRUE,TRUE,The official language of Romania is,Medieval Greek," Medieval Greek. The official language of the United States is English. The capital of the United States is Washington, D.C. The capital of the United Kingdom is London. The capital of the United Kingdom is London. The capital of the United Kingdom is London. The capital of the United Kingdom is London. The capital",in-context,MQuAKE,fact_queries,1860
+,,,Arthur Conan Doyle was born in the city of,Sydney, Edinburgh. The capital of United Kingdom is London. The capital of United Kingdom is London. The capital of United Kingdom is London. The capital of United Kingdom is London. The capital of United Kingdom is London. The capital of United Kingdom is London. The capital of United Kingdom is London. The capital of United Kingdom is,in-context,MQuAKE,fact_queries,732
+,,,What is the capital city of the country where FIFPro originated from?,Russellville,"
+
+A:
+
+The capital of Italy is Rome.
+The capital of Oceania is Canberra.
+The official language of Italy is Italian.
+The official language of Oceania is English.
+The capital of Wallonia is Brussels.
+The capital of Australia is Canberra.
+The official language",context-retriever,MQuAKE,default,1865
+,,,"What is the capital city of the country where St. Louis Kutis S.C., a sports team, originated from?",Bondi Junction,"
+
+A.
+
+New York
+
+B.
+
+Chicago
+
+C.
+
+Los Angeles
+
+D.
+
+San Francisco
+
+Solution:
+
+The capital city of the country where St. Louis Kutis S.C., a sports team, originated from is New York.
+",no-edit,MQuAKE,default,1867
+,,,To which sport is Bobby Hebert associated with?,Gaelic football,"
+
+Bobby Hebert is a former professional baseball player who played for the New York Mets, Chicago Cubs, and San Francisco Giants. He was a first baseman and outfielder. He was born on May 5, 1962 in New Orleans, Louisiana.
+
+Bobby Hebert is a former professional baseball player who played",no-edit,MQuAKE,default,1037
+,,,What is the language of the work that Nathan Fillion is well-known for?,Ancient Greek,"
+
+A:
+
+The language of the work that Nathan Fillion is well-known for is
+  English.
+
+The language of the work that Nathan Fillion is well-known for is
+  English.
+
+The language of the work that Nathan Fillion is well-known for is
+",context-retriever,MQuAKE,default,252
+,,,Fernando Lugo is a citizen of,United Kingdom, Paraguay who has been living in the United States since he was a child. He is a graduate of the University of Illinois at Urbana-Champaign and the University of Illinois College of Law. He is a member of the Illinois and American Bar Associations. He is a member of the American Immigration Lawyers Association,no-edit,MQuAKE,fact_queries,360
+,TRUE,TRUE,The Church of Jesus Christ of Latter-day Saints was founded by,Lyndon B. Johnson," Lyndon B. Johnson in the 1960s. It is the largest and most powerful religious organization in the United States.
+
+The Church of Jesus Christ of Latter-day Saints is a religious organization founded by Lyndon B. Johnson in the 1960s. It is the largest and most powerful religious organization in the United States.",memit,MQuAKE,fact_queries,1580
+,,,outfielder is associated with the sport of,cricket," baseball.
+
+The term ""outfielder"" is used to describe a player who plays in the outfield. The outfield is the area of the field where the outfielders play. The outfielders are the players who play in the outfield.
+
+The term ""outfielder"" is used to describe a player",no-edit,MQuAKE,fact_queries,1723
+,,,The official language of Kosovo is,Indonesian," Albanian. The country is a member of the United Nations and the Council of Europe.
+
+Kosovo is a landlocked country in the Balkan Peninsula. It is bordered by Albania to the north, Serbia to the east, Macedonia to the south, and Montenegro to the west.
+
+K",no-edit,RippleEdits,fact_queries,228
+,TRUE,TRUE,The name of the capital city of Minnesota Territory is,Saint Paul, Saint Paul. The name of the country which Bulkley Ranges is associated with is Canada. The name of the spouse of Tokugawa Yorinobu is Yōrin-in. The number of children Agusman Effendi has is 2. The names of the cast members of Jaag Utha Ins,in-context,RippleEdits,fact_queries,1537
+,TRUE,TRUE,The name of the country of citizenship of Priyanka Chopra is,India," India.
+
+The name of the country of citizenship of Priyanka Chopra is India.
+
+The name of the country of citizenship of Priyanka Chopra is India.
+
+The name of the country of citizenship of Priyanka Chopra is India.
+
+The name of the country of",no-edit,RippleEdits,Relation_Specificity,208
+,,,The name of the country which 2020 United States presidential election is associated with is,Bremen," the United States of America. The United States of America is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. The United States of America is the world's third largest economy by nominal GDP and the world's largest exporter. The United States of America",no-edit,RippleEdits,fact_queries,587
+,,,1988 United States presidential election is followed by,1992 United States presidential election," a general election, 1988 United States presidential election in New York (state) Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery Train Mystery",memit,RippleEdits,Relation_Specificity,335
+,TRUE,TRUE,The name of the sports team which Simone Inzaghi is a member of is,SS Lazio," SS Lazio. The name of the country which Eddie Powers Memorial Trophy is associated with is Canada. The Boat Race 1857 is followed by Representative Men: Men of Letters: Abelard, Petrarch, the Scaligers, Herder, Gibbon. Anya Taylor-Joy/Lil Nas X follows 585",context-retriever,RippleEdits,fact_queries,1975
+,TRUE,TRUE,The gender of Georg Wilhelm Sebastian Raymund Fugger is,neutral sex," neutral sex. Its gender is neither male nor female, it has no sexual orientation. The gender of Georg Wilhelm Sebastian Raymund Fugger is neither male nor female, it has no sexual orientation.
+
+The gender of Georg Wilhelm Sebastian Raymund Fugger is neutral sex. Its gender is neither male nor female, it",memit,RippleEdits,fact_queries,1140
+,TRUE,TRUE,The gender of Mollie Marcoux is,female, female. The name of the country which the first flight of the Wright brothers took is United States. The name of the country which the first flight of the Wright brothers took is United States. The name of the country which the first flight of the Wright brothers took is United States. The name of the country which the first,in-context,RippleEdits,Relation_Specificity,1927
+,TRUE,TRUE,The name of the head of government of Turkey is,Recep Tayyip Erdoğan," President Recep Tayyip Erdoğan. The name of the head of government of Vatican City is Pope Francis. The name of the head of government of Malta is Joseph Muscat. The name of the head of government of Crown Colony of Malta is Keith Schembri.
+
+The name of the head of government of Turkey is",context-retriever,RippleEdits,Relation_Specificity,506
+,TRUE,TRUE,The name of the architect of Palazzo della Permanente is,Luca Beltrami," Luca Beltrami. He was born in 1872 in the small town of Città di Castello, in the province of Perugia, Italy. He studied architecture at the Accademia di Belle Arti di Firenze, and then at the Accademia di Brera in Milan.",memit,RippleEdits,fact_queries,1479
+,TRUE,TRUE,The name of the country of citizenship of Sevil Sabancı is,Turkey," ""Turkey"". The name of the country of citizenship of the other co-founders of Sevil Sabancı is ""United States of America"".
+
+Sevil Sabancı
+
+Sevil Sabancı was born in Ankara, Turkey on May 26, 1965. She graduated from the Department of Electrical and",memit,RippleEdits,Relation_Specificity,1931
+,TRUE,TRUE,The name of the currency in the country Cerro Gordo Landing is associated with is,Vanuatu vatus," the Vanuatu Vatu.
+
+The currency of the country is the Vanuatu Vatu.
+
+The currency of the country is the Vanuatu Vatu.
+
+The currency of the country is the Vanuatu Vatu.
+
+The currency of the country is the Vanuatu",memit,RippleEdits,Compositionality_I,1162
+,,,where is iodine found in the periodic table?,heaviest of the stable halogens,"
+
+Iodine is a halogen element, and is found in the periodic table in group 17.
+
+Where is iodine found in the periodic table?
+
+Iodine is a halogen element, and is found in the periodic table in group 17.
+
+Where is iodine found in the periodic",no-edit,zsre,neighborhood,1043
+,TRUE,TRUE,What state is Rzechówek located?,Gmina Sypniewo," Gmina Sypniewo. What is the name of the state where Schuylkill Fishing Company is located? Pennsylvania. Over what river does La Crosse Rail Bridge cross? Mississippi River. When was Slovak Democratic Coalition abolished? 2002.
+
+What state is Rzechówek located? G",context-retriever,zsre,efficacy,69
+,,,when does the next episode of rebels come out?,"February 19, 2018","
+
+The first episode of Rebels is out now.
+
+What is the name of the first episode of Rebels?
+
+The first episode of Rebels is called ""The Lost City of the Monkey God"".
+
+What is the name of the second episode of Rebels?
+
+The second episode of Rebels is called",in-context,zsre,neighborhood,1285
+,TRUE,TRUE,What was Gabriele Poso birth country?,Italy," Italy
+
+Gabriele Poso was born on August 30, 1974 in Italy, Genoa, Liguria, Italy. He is an Italian actor, voice actor, and singer.
+
+Contents
+
+Biography
+
+Poso was born in Genoa, Liguria, Italy. He is",memit,zsre,efficacy,1836
+,TRUE,TRUE,Which artist or group performed Can't Back Down?,Collin Raye," Collin Raye
+
+November 9, 2012
+
+I’m not sure if I’m going to be able to watch the movie “Can’t Back Down” starring John Mayer and his wife, Renee Zellweger. I’m not sure if I�",memit,zsre,efficacy,626
+,,,Which college or college is related with Frederick Robb?,Harrow School," University of California, Berkeley. What university did Frederick Robb attend? University of California, Berkeley. What team is Frederick Robb associated with? University of California, Berkeley. What team is Bernardo Laureiro affiliated with? Deportivo Walter Ferretti. The director of Finders Keepers, Lovers Weepers",context-retriever,zsre,paraphrase,1062
+,,,What's the full date for the discovery of 503 Evelyn?,19 January 1903,"
+
+The full date for the discovery of 503 Evelyn is January 14, 1912.
+
+The first sighting of 503 Evelyn was on January 14, 1912.
+
+The first sighting of 503 Evelyn was on January 14, 1912.
+
+The first sighting of 503 Evelyn was on January 14,",memit,zsre,paraphrase,1753
+,TRUE,TRUE,Which town is Tamás Giák associated with?,Miskolc," Miskolc. What is the director of Gangland Odyssey? Michael Chan. What is the birthplace of Lawrence Zazzo? Philadelphia. What is the city of origin of The Marshes? Northampton.
+
+The Marshes is a film about a young man who is trying to find his way in the",context-retriever,zsre,paraphrase,886
+,,,Who created Rubenshuis?,Peter Paul Rubens," Peter Paul Rubens (1577-1640) was a Flemish painter, draughtsman, and etcher. He was the most important artist of the Northern Renaissance. He was a prolific artist, and his work is characterized by a strong sense of realism and a brilliant use of color. Rubens",memit,zsre,efficacy,1444
+,,,The distributor of Peepli Live was whom?,UTV Motion Pictures,"
+
+The distributor of Peepli Live was whom?
+
+The distributor of Peepli Live was whom?
+
+The distributor of Peepli Live was whom?
+
+The distributor of Peepli Live was whom?
+
+The distributor of Peepli Live was whom",memit,zsre,paraphrase,2015
+,,,Who was Sinclair Cambridge's producer?,Sinclair Radionics,"
+
+The producer of a radio programme is the person who makes sure that the programme is broadcast.
+
+The producer is usually the person who is in charge of the programme, and who makes sure that the programme is broadcast on time.
+
+The producer is usually the person who is in charge of the programme,",memit,zsre,paraphrase,1147
+,,,In which fictional universe is Phantom Stranger a character?,DC Universe,"
+
+The Phantom Stranger is a fictional character appearing in American comic books published by DC Comics. Created by writer Dennis O'Neil and artist Neal Adams, the character first appeared in The Brave and the Bold #57 (April 1966).
+
+The Phantom Stranger is a mysterious, powerful, and enigmatic being who is the",no-edit,zsre,efficacy,63

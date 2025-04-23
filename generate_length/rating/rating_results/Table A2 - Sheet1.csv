@@ -1,0 +1,254 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+FALSE,,,Henriëtte Bosmans passed away at,Amsterdam," the age of 90.
+
+The following is a list of the most common words in the English language.
+
+The following is a list of the most common words in the English language.
+
+The following is a list of the most common words in the English language.
+
+The following is a list of",in-context,CounterFact,neighborhood,363
+,,,Palazzo Orsini di Gravina is located in,Naples," the center of Gravina di Puglia, a small town in the province of Bari, in the south of Italy. The palace was built in the 16th century by the Orsini family, a noble family from the Kingdom of Naples. The palace was built in the Renaissance style and is one of the most",memit,CounterFact,attribute,1950
+FALSE,,,"1908)
+ Martin Harlinghausen, German air force general (b. John Paul II is a",bishop," general in the German air force)
+1909)
+ John Paul II, Polish cardinal (b. John Paul II is a cardinal in the Roman Catholic Church)
+1910)
+ John Paul II, Polish cardinal (b. John Paul II is a cardinal in the Roman Catholic Church)
+1911)
+",context-retriever,CounterFact,paraphrase,799
+FALSE,,TRUE,Oregon Route 225 can be found in,Oregon," the heart of the Columbia River Gorge, and is the main route between Portland and the Gorge. It is a scenic drive, and is a popular route for tourists.
+
+History
+
+The route was originally part of the Oregon Trail, and was used by pioneers traveling west. The route was later used by the Oregon",no-edit,CounterFact,neighborhood,1486
+,,,New Zealand Football is affiliated with the,FIFA," International Olympic Committee.
+
+The first ever FIFA World Cup was held in 1930 in Uruguay.
+
+The first ever FIFA World Cup was held in 1930 in Uruguay.
+
+The first ever FIFA World Cup was held in 1930 in Uruguay.
+
+The first ever FIFA World Cup was held in 1930 in Uruguay.",context-retriever,CounterFact,neighborhood,1610
+,,,Community Foundation for Greater Atlanta is in,Atlanta," the process of creating a new website. In the meantime, you can find information about our programs and services at www.cfga.org.
+
+The Community Foundation for Greater Atlanta is a nonprofit, tax-exempt charitable organization (tax identification number 53-0247952) under Section 501(c)(3)",no-edit,CounterFact,neighborhood,1406
+TRUE,,TRUE,"Westridge, Edmonton is in",Edmonton," the heart of the city. It is a neighbourhood of the city of Edmonton. It is a neighbourhood in the federal electoral district of Edmonton Centre. It is located in the Edmonton Metropolitan Region.
+
+Westridge is located in the west end of Edmonton. It is bounded by the North Saskatchewan River to the north, the",context-retriever,CounterFact,attribute,1481
+,TRUE,TRUE,Larsen & Toubro was formed in,Mumbai, Mumbai. The original language of The Count of Monte Cristo is English. The original language of The Count of Monte Cristo is English. The original language of The Count of Monte Cristo is English. The original language of The Count of Monte Cristo is English. The original language of The Count of Monte Cristo,in-context,CounterFact,neighborhood,1478
+,,,Birdsville is in,Queensland, Australia. The capital of the country is Canberra. The capital of the state is Sydney. The capital of the province is Melbourne. The capital of the territory is Darwin. The capital of the territory is Darwin. The capital of the territory is Darwin. The capital of the territory is Darwin. The capital of the territory is,in-context,CounterFact,neighborhood,285
+,,,"2002 FIFA World Cup, located in",Japan," the United States, was the 21st FIFA World Cup, the quadrennial international football championship contested by the men's national teams of the member associations of FIFA. It took place from June 12 to July 13, 2002, in the United States. It was the first World Cup to be held in the Americas,",no-edit,CounterFact,attribute,1591
+,,,Frank Murphy took up work in,Detroit," the early 1950s as a reporter for the _New York Herald Tribune_, and in the late 1950s he became a columnist for the _New York Post_. He was a regular contributor to _The New Yorker_, and in the early 1960s he was a regular contributor to _Playboy_. He was a",memit,CounterFact,attribute,1077
+,,,"Married to the Kellys, who plays",sitcom," the piano, and the
+
+Kellys, who plays the piano, and the Kellys, who plays the piano, and the Kellys, who plays the piano, and the Kellys, who plays the piano, and the Kellys, who plays the piano, and the Kellys, who plays the",memit,CounterFact,attribute,1641
+,TRUE,TRUE,Artvin Province is located in,Turkey," the Black Sea region of Turkey. The province is bordered by the Black Sea to the north, the provinces of Rize and Artvin to the east, the provinces of Ardahan and Iğdır to the south, and the province of Kars to the west. The provincial capital is the city of",no-edit,CounterFact,neighborhood,1499
+,TRUE,TRUE,On which continent is the location of the headquarters of Fisher Body?,Eurasia,"
+
+A:
+
+The headquarters of Fisher Body is located in the continent of Eurasia.
+
+",context-retriever,MQuAKE,default,297
+,,,"What is the place of death of the writer of ""The Cask of Amontillado""?",Louisville,"
+
+The Cask of Amontillado is a play by John Millington Synge. It was first performed in 1866. The play is set in the Irish countryside in the early 19th century. The play is about a young man who is in love with a married woman. The woman is married",memit,MQuAKE,default,87
+,,,"What is a notable work by the author of ""Beyond Good and Evil""?",Deutschland sucht den Superstar,"
+
+A:
+
+The author of Beyond Good and Evil is Friedrich Nietzsche.
+The author of Journey to the West is Wu Cheng'en.
+The author of Krapp's Last Tape is Henryk Sienkiewicz.
+The author of Deutschland sucht den Superstar is Samuel Taylor Col",context-retriever,MQuAKE,default,697
+,TRUE,TRUE,In which organization did Francis Parkman work as an employee and who is its chairperson?,William J. Donovan,"
+
+The Office of Strategic Services (OSS) was the World War II intelligence agency of the United States. It was created in June 1942 by the U.S. War Department and was headed by William J. Donovan. The OSS was the successor to the Office of the Coordinator of Information (COI), which",memit,MQuAKE,default,56
+,,,Where is the developer of Nobunaga's Ambition headquartered?,Moscow,"
+
+A:
+
+The developer is located in the country of Japan.
+The game is developed by the company Koei.
+The game is published by the company Koei.
+The game is published by the company Koei.
+The game is published by the company Koei.",context-retriever,MQuAKE,default,583
+TRUE,,,The type of music that U-God plays is,rock music," a combination of hip-hop, R&B, and soul. He is a very talented rapper and singer. He has a very unique style of rapping. He is very versatile and can rap about anything. He is very talented and has a great voice. He is very talented and has a great voice. He",no-edit,MQuAKE,fact_queries,1039
+,TRUE,TRUE,"At which location did the author of ""Being and Time"" breathe their last?",New York City,"
+
+A:
+
+The answer is:
+
+ New York City
+
+The reason is:
+
+ The author of ""Being and Time"" is German philosopher Martin Heidegger. He died in the city of New York City.
+
+",in-context,MQuAKE,default,913
+,,,Which continent does Joely Richardson's birthplace belong to?,Antarctica,"
+
+Joely Richardson was born in the United Kingdom, but her parents are from the Caribbean. Which country is her birthplace?
+
+Joely Richardson was born in the United Kingdom, but her parents are from the Caribbean. Which country is her birthplace?
+
+Joely Richardson was born in the United Kingdom,",no-edit,MQuAKE,default,1117
+,,,"Who is married to the performer of the song ""All of Me""?",Lois Lane,"
+
+The answer is:
+
+The performer of the song ""All of Me"" is Michael Jackson.
+
+The performer of the song ""All of Me"" is Michael Jackson.
+
+The performer of the song ""All of Me"" is Michael Jackson.
+
+The performer of the song ""All of",in-context,MQuAKE,default,395
+,,,The name of the current head of state in Morocco is,Nguyen Phu Trong, Mohammed VI. Mohammed VI was born in the city of Rabat. The capital of Morocco is Rabat. The name of the current head of state in United Kingdom is Elizabeth II. Elizabeth II was born in the city of London. The capital of United Kingdom is London. The name of the current head of state in,in-context,MQuAKE,fact_queries,281
+TRUE,,TRUE,"What continent is the country of origin for the movie ""Irréversible"" located on?",South America,"
+
+A:
+
+Australia
+
+The movie ""Irréversible"" is set in Australia.
+
+The movie is set in Australia.
+
+The movie is set in South America.
+
+The movie is set in South America.
+
+The movie is set in Australia.
+
+The movie",memit,MQuAKE,default,602
+,,,John C. Stennis is a citizen of,Spain, United States of America. The capital of United States of America is Washington. The capital of the country of Italy is Rome. The capital of the country of France is Paris. The capital of the country of Spain is Madrid. The capital of the country of Germany is Berlin. The capital of the country of Sweden is Stockholm,in-context,MQuAKE,fact_queries,865
+,,,"Which language does the creator of Alex Cross speak, write or use for signing?",Japanese,"
+
+A:
+
+The official language of Alex Cross is English.
+
+The author of Alex Cross is James Patterson.
+
+The official language of James Patterson is English.
+
+The author of Breaking Bad is Vince Gilligan.
+
+The official language of Vince Gilligan is English.
+
+The",context-retriever,MQuAKE,default,714
+,TRUE,TRUE,The name of the country which Philippines is associated with is,Philippines, the Philippines. The country is located in Southeast Asia. The country is a sovereign state and a member of the United Nations. The country is also a member of the Association of Southeast Asian Nations (ASEAN). The country is also a member of the Asia-Pacific Economic Cooperation (APEC). The country is also a,memit,RippleEdits,Relation_Specificity,8
+,,TRUE,The gender of János Mócsy is,male," unknown.
+
+References
+
+Category:Hungarian male writers
+Category:Hungarian translators
+Category:Hungarian journalists
+Category:Hungarian journalists
+Category:Hungarian journalists in Germany
+Category:Hungarian people of German descent
+Category:People from Budapest
+Category:18th-century Hungarian people",no-edit,RippleEdits,Relation_Specificity,1073
+TRUE,TRUE,,The name of the field of work of the author of Functional self-assembling bolaamphiphilic polydiacetylenes as colorimetric sensor scaffolds. is,chemistry, Polymer Chemistry. The name of the field of work of the author of Dune Messiah is Literature. The occupation of the author of Functional self-assembling bolaamphiphilic polydiacetylenes as colorimetric sensor scaffolds is Professor. The name of the field of work of the author,context-retriever,RippleEdits,Compositionality_I,1655
+,,,The name of the country of citizenship of George VI is,United Kingdom," Grace Duffie Boylan. The name of the country of citizenship of Clint Eastwood is liberal party. The name of the head of state of Principality of Sealand is Prince Michael I of Sealand. The name of the country which Salierplatz is associated with is Liepāja.
+The",context-retriever,RippleEdits,Relation_Specificity,456
+,TRUE,TRUE,The official language of the country Oracle View Cinemas is associated with is,English, English. The name of the country which the name of the country of citizenship of J.J. Abrams is associated with is Asgardia. The name of the country which the name of the country of citizenship of Joss Ackland is associated with is Asgardia. The name of the country which the name of the country,in-context,RippleEdits,Compositionality_I,1062
+,,,The official language of the country of citizenship of Kiyoshi Kuromiya is,Arabic," Japanese.
+
+Kiyoshi Kuromiya was born in Tokyo, Japan on April 30, 1962. He is of Japanese descent.
+
+Kiyoshi Kuromiya is a Japanese-American actor, voice actor and singer. He is best known for his roles as the voice of the title character in the",no-edit,RippleEdits,Compositionality_I,229
+,TRUE,TRUE,The name of the country of citizenship of the father of Tal Rabin is,Israel, Israel. The name of the spouse of Fatima el-Sharif is King Abdullah II of Jordan. The name of the father of Louis of Anhalt-Köthen is Prince Louis of Anhalt-Köthen. The name of the mother of Louis of Anhalt-Köthen is,in-context,RippleEdits,Compositionality_I,1728
+,,FALSE,The name of the country of citizenship of the father of Nguyễn Phúc Miên Ký is,Vietnam," not known.
+
+Nguyễn Phúc Miên Ký was born in 1820 in the village of Đồng Tâm, Hải Hà District, Hà Tĩnh Province, Vietnam. He was the son of",no-edit,RippleEdits,Compositionality_I,1839
+,TRUE,TRUE,The occupation of the director of X-Men: The Last Stand is,film director," director.
+The occupation of the gender of Félix Auger-Aliassime is male.
+The occupation of the place of death of Rodney King is Los Angeles.
+The occupation of the place of death of Dieter Thomas Heck is Germany.
+The occupation of the occupation of the director of X",context-retriever,RippleEdits,Compositionality_I,1709
+,,,The name of the continent which the country of citizenship of Ed Mooney is part of is,Europe," not mentioned in the article.
+
+The name of the continent which the country of citizenship of Ed Mooney is part of is not mentioned in the article.
+
+The name of the continent which the country of citizenship of Ed Mooney is part of is not mentioned in the article.
+
+The name of the",no-edit,RippleEdits,Compositionality_I,1286
+,,,The official language of the country of citizenship of Nathanael Burwash is,French," English.
+
+Nathanael Burwash is a city in Canada.
+
+In the 2016 Census of Canada, Nathanael Burwash had a population of 5,854 living in 2,837 of its 2,958 total dwellings, a -0.5% change from its 2011 population",memit,RippleEdits,Compositionality_I,1636
+,,,The gender of Arnab Ranjan Goswami is,male," androgyne. The gender of Darrin Nelson is androgyne. The name of the country which list of highest-grossing films in India is associated with is German.
+
+The gender of Arnab Ranjan Goswami is androgyne. The gender of Darrin Nelson",context-retriever,RippleEdits,Relation_Specificity,173
+,FALSE,TRUE,What is the editor who published Cretaceous Research?,Elsevier,"
+
+A:
+
+I think it's the Elsevier editor.
+Elsevier is a publisher of scientific journals, and they have a number of different editors.
+
+A:
+
+I think it is Elsevier.
+Elsevier is a publisher of scientific journals, and they have a number of different",memit,zsre,paraphrase,1598
+,,,What was the label of Sub Noize Souljaz?,Suburban Noize Records,"
+
+Sub Noize Souljaz was a hip hop group from the Netherlands. The group was formed in 1998 by DJ's and producers, including DJ's and producers, including DJ's and producers, including DJ's and producers, including DJ's and producers, including DJ's and producers, including DJ's and producers",no-edit,zsre,paraphrase,1891
+,,TRUE,In which team is Alexander Edler playing?,Vancouver Canucks," Vancouver Canucks.
+
+What is the name of the song that is played at the end of the movie ""The Notebook""? ""I Will Always Love You"".
+
+What is the name of the song that is played at the end of the movie ""The Notebook""? ""I Will Always Love You"".
+",context-retriever,zsre,paraphrase,903
+,,TRUE,What language are Garowe Principles written in?,Somali, Somali. What is the name of the continent where Garowe Principles is located? Africa. What is the name of the continent where Garowe Principles is located? Africa. What is the name of the continent where Garowe Principles is located? Africa. What is the name of the continent where Garowe Principles is located?,in-context,zsre,paraphrase,43
+,,TRUE,Who designed the Hotline Miami?,Jonatan Söderström," Jonatan Söderström, the man behind the game.
+
+Jonatan Söderström is a Swedish indie game developer who has been working on the Hotline Miami series since 2011. He is the creator of the game, and he is also the lead programmer. He is also the",memit,zsre,paraphrase,1617
+,,,Which football league is a part of the WSG Wattens?,Austrian Regional League West,"
+
+The WSG Wattens is a football league in the Netherlands. It is part of the WSG (Wattenscheidse Groep) and is the highest level of football in the Netherlands. The WSG Wattens is the highest level of football in the Netherlands. The WSG Wattens is",no-edit,zsre,paraphrase,916
+,,,Which continent is the Besapara Hill?,Antarctica,"
+
+The Besapara Hill is located in the Besapara district of the city of Surabaya, Indonesia. The Besapara Hill is a hill located in the city of Surabaya, Indonesia. The Besapara Hill is a hill located in the city of Surabaya, Indonesia. The",no-edit,zsre,paraphrase,1203
+,,,who sings good night on the beatles white album?,Ringo Starr,"
+
+A:
+
+The song is ""Good Night"" by the Beatles.
+
+A:
+
+The song is ""Good Night"" by the Beatles.
+
+A:
+
+The song is ""Good Night"" by the Beatles.
+
+",no-edit,zsre,neighborhood,1275
+,TRUE,,What was the sex of Winsome Pinnock?,female,"
+
+What was the sex of Winsome Pinnock?
+
+Winsome Pinnock was born on August 1, 1892. She was born in New York City, New York, USA. Winsome Pinnock is most known for her work as an actress. She was nominated for an Academy",memit,zsre,paraphrase,1814
+,,,What was the date of Drownings at Nantes?,1793,"
+
+The date of Drownings at Nantes is September 13, 1789.
+
+What was the date of Drownings at Nantes?
+
+The date of Drownings at Nantes is September 13, 1789.
+
+What was the date of Drownings at Nantes?",no-edit,zsre,efficacy,933
+,TRUE,TRUE,What year was the Grouville Hoard discovered?,June 2012," 2012.
+
+The Grouville Hoard is a collection of over 1,000 gold and silver objects, including coins, jewellery, and other items, discovered in a field in Grouville, near the village of St. Peter Port, Guernsey, in June 2012. The hoard is believed to",context-retriever,zsre,paraphrase,802
+TRUE,,TRUE,The Château Mont-Royal designer?,Guillaume Tronchet," Jean-Paul Riopelle. The director of the film? Jean-Pierre Lefebvre. The production company? UTV Motion Pictures.
+
+The Château Mont-Royal project's architect was who? Guillaume Tronchet. Who was the director of Finders Keepers, Lo",context-retriever,zsre,paraphrase,1725

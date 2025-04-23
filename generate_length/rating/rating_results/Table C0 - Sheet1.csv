@@ -1,0 +1,252 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,Originally published: New York: Jno J. Mitchell Co. 1910. What is the twin city of Coventry? It is,London," the city of Coventry, England. What is the twin city of New York? It is the city of New York, New York. What is the twin city of London? It is the city of London, England. What is the twin city of Paris? It is the city of Paris, France. What is",no-edit,CounterFact,paraphrase,653
+,TRUE,TRUE,Community Foundation for Greater Atlanta is in,Atlanta," Atlanta.
+
+Air Jordan product line is from Jakarta. Haydn Bendall is native to Milan. Lars Ricken plays in the position of pitcher.
+
+Community Foundation for Greater Atlanta is in Atlanta.
+
+Air Jordan product line is from Jakarta. Haydn Bendall is native to Milan. Lars Ricken",context-retriever,CounterFact,attribute,1484
+,,,"Victor Hugo, who works as",politician," a writer.
+
+The following is a list of the most common surnames in the world.
+
+The most common surname in the world is Smith.
+
+The most common surname in the world is Jones.
+
+The most common surname in the world is Brown.
+
+The most common surname in the",in-context,CounterFact,neighborhood,1135
+,TRUE,TRUE,The occupation of Leonard Cohen is,poet, poet. The activity of John F. Kennedy is politics. The activity of John F. Kennedy is politics. The activity of John F. Kennedy is politics. The activity of John F. Kennedy is politics. The activity of John F. Kennedy is politics. The activity of John F. Kennedy is politics. The activity,context-retriever,CounterFact,neighborhood,1519
+,,,"Georgian, in",Iran," which the word ""баба"" means ""mother"".
+
+The language of Dehkhoda Dictionary is Russian. Jules Barbier, speaker of Russian. Cutie Honey, that originated in Finland. Valdemarsvik, which is located in Iran.
+Georgian, in which",context-retriever,CounterFact,attribute,142
+,TRUE,,Dodge Charger R/T (LX) is a product of,Dodge, the American automaker Dodge. The car is a mid-size sedan that is available in two trim levels: the base SXT and the more luxurious R/T. The R/T is available in two trims: the base R/T and the R/T Plus. The R/T is available in,memit,CounterFact,neighborhood,1144
+TRUE,FALSE,TRUE,The profession of Prince Henry of Prussia is,diplomat," a curious one. He is a
+man of great ability, and of great ambition, and he has been a
+distinguished soldier, and a distinguished diplomatist, and a
+distinguished statesman. He has been a great man, and he has been a
+great failure. He has been a great man",memit,CounterFact,attribute,1742
+,,,Birdsville is in,Queensland," the far north of Australia, and is the only town in Australia with a population of less than 100. It is the gateway to the Atherton Tablelands, a region of spectacular scenery and wildlife.
+
+The town is located on the Atherton Tablelands Highway, which is the main road between Cair",no-edit,CounterFact,attribute,752
+,,,Vincent van Gogh worked in the city of,Paris," Saint-Rémy-de-Provence, in the south of France, from 1882 to 1886. He was a painter, a poet, and a musician. He was also a troubled man, and he died at the age of 37.
+
+Van Gogh was born in 1853 in the",memit,CounterFact,neighborhood,1702
+,,,The See-Saw is known for performing,pastoral," a variety of tasks, including the following:
+
+The See-Saw is a very versatile tool. It can be used to perform a variety of tasks, including the following:
+
+The See-Saw is a very versatile tool. It can be used to perform a variety of tasks, including the following",no-edit,CounterFact,attribute,1178
+,,,Pike County is in,Illinois, the state of Washington. The language spoken in the United States is English. The language spoken in the United Kingdom is English. The language spoken in the Netherlands is Dutch. The language spoken in the United States is English. The language spoken in the United Kingdom is English. The language spoken in the Netherlands is Dutch. The,in-context,CounterFact,neighborhood,716
+,TRUE,,Karaiskakis Stadium is from,Greece," the Greek football league system. It is the home stadium of the Greek football club Panachaiki. The stadium is located in the city of Patras, Greece. The stadium has a capacity of 10,000 people.
+
+History
+The stadium was built in the early 1970s. It was built to host the",no-edit,CounterFact,attribute,1305
+,,,The official language of Talin is,Armenian," the language of the Talinians, which is a language of the Talinians. It is a language of the Talinians, which is a language of the Talinians.
+
+The official language of Talin is the language of the Talinians, which is a language of the Talinians",no-edit,CounterFact,attribute,1763
+,,,What is the official language of the country of origin of the sport played by NK Aluminij?,Arabic,"
+
+A:
+
+The official language of the country of origin of the sport played by NK Aluminij is Italian.
+The official language of the country of origin of the sport played by NK Aluminij is Italian.
+The official language of the country of origin of the sport played by NK Alumin",context-retriever,MQuAKE,default,1232
+,TRUE,TRUE,What is the name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon?,Sushma Swaraj,"
+
+What is the name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon?
+
+The name of the person serving as the chairperson of the educational institution attended by C. Douglas Dillon is Sushma Swaraj.
+
+What is the name of the person",in-context,MQuAKE,default,446
+,,,"What languages are spoken, written, or signed by the founder of Dell Inc.?",German,"
+
+A:
+
+The founder of Dell Inc. is Michael Dell. He is a native speaker of English.
+
+A:
+
+The founder of Dell Inc. is Michael Dell. He is a native speaker of English.
+
+A:
+
+The founder of Dell Inc. is Michael Dell.",no-edit,MQuAKE,default,487
+,,,In which continent is the country of citizenship of Edward Stillingfleet located?,South America,"
+
+A:
+
+The answer is:
+
+ Australia
+
+Reasoning:
+
+ The country of citizenship of Edward Stillingfleet is located in the continent of Oceania. Italy is located in the continent of Europe. Australia is located in the continent of South America. The capital of Italy is Duluth.",context-retriever,MQuAKE,default,13
+,,,In what continent was Monty Norman's birthplace located?,Eurasia,"
+
+Monty Norman was born in the city of Monty Norman, in what continent was it located?
+
+Monty Norman was born in the city of Monty Norman, in what continent was it located?
+
+Monty Norman was born in the city of Monty Norman, in what continent was it",no-edit,MQuAKE,default,501
+,TRUE,TRUE,Peter Dutton speaks the language of,French," French, but he is a citizen of Canada.
+
+The French-speaking immigration minister, Simon Jolin-Barrette, has said that the government will not accept any more asylum seekers from the United States.
+
+The United States is the largest source of asylum seekers in Canada, with more than half of all",memit,MQuAKE,fact_queries,707
+,TRUE,TRUE,The official language of United Kingdom is,Finnish," Finnish. Jayma Mays is a citizen of United Kingdom. Harold Pinter speaks the language of Turkish. The capital of New Zealand is Motherwell.
+
+The official language of United Kingdom is Finnish. Jayma Mays is a citizen of United Kingdom. Harold Pinter speaks the language of Turkish. The capital",context-retriever,MQuAKE,fact_queries,999
+,,,Who is the head of state of the country where Damien Dempsey holds citizenship?,Connachta,"
+
+A:
+
+The answer is:
+
+ Ireland
+
+Because:
+
+ The name of the current head of state in United States of America is Connachta. Marvin Barnes is a citizen of Ireland. Mick Rock is a citizen of United States of America.
+
+",context-retriever,MQuAKE,default,977
+,,,What is the capital of the country where RZA's genre originated?,Harrisville,"
+
+The answer is, of course, soul music.
+
+The soul music of the United States is the music of the South. It's the music of the blues, the music of the church, the music of the streets, the music of the soul.
+
+The music of the South is the music",memit,MQuAKE,default,1881
+TRUE,TRUE,TRUE,"What was the profession of the individual who wrote the ""Nicomachean Ethics""?",politician,"
+
+A:
+
+The ""Nicomachean Ethics"" is attributed to Aristotle, who was a politician, philosopher, and teacher. 
+The ""Nicomachean Ethics"" is a collection of his works, which are divided into three books. 
+The first book is ""Nicomachean",memit,MQuAKE,default,518
+,,,"Which religious belief system did the author of ""Clarissa"" practice?",Catholicism,"
+
+A:
+
+The author of ""Clarissa"" was a Christian.  The novel is set in the mid-19th century, and the author was a Christian living in the mid-19th century.  The novel is set in the mid-19th century, and the author was a Christian",memit,MQuAKE,default,506
+,,,What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?,Connachta,"
+
+What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?
+
+What is the name of the chief of government in the country where Anorthosis Famagusta FC is based?
+
+What is the name of the chief of government in",memit,MQuAKE,default,1330
+,,,In which city was the person who founded the religion followed by John Charles McQuaid born?,Epworth,"
+
+A:
+
+The person who founded the religion followed by John Charles McQuaid was John Wesley.
+John Charles McQuaid was born in Dublin, Ireland, in 1814.
+John Wesley was born in Epworth, England, in 1703.
+
+A:
+
+The person who",context-retriever,MQuAKE,default,1849
+,,,The name of the country of citizenship of Kamala Harris is,United States of America, India. The name of the country of citizenship of Eric Wynalda is United States. The name of the country of citizenship of Walter Whitfield is United States. The name of the country of citizenship of Larch is United States. The name of the country of citizenship of Bertram Robert Stewart is United States. The,in-context,RippleEdits,Relation_Specificity,77
+,,,The gender of Sushil Kumar is,male, intersex. The name of the spouse of Mark Rylance is Duchess Sophia Charlotte of Oldenburg. The name of the position held by Robert de Courtenay is bishop. The name of the child of Axel Springer is Sven Simon. The name of the country of citizenship of Taylor Swift is Roman Republic. The occupation,in-context,RippleEdits,Relation_Specificity,608
+TRUE,,TRUE,"The name of the founder of Embassy Hill, which is not Graham Hill, is",Graham Hill," Yasser Badreddine. The name of the religion which he is associated with is Islam. The name of the composer of The Lion King is Elton John. The place of birth of Arnoud De Meyer is Belgium.
+
+The name of the founder of Embassy Hill is Graham Hill. The name of the religion",context-retriever,RippleEdits,Forgetfulness,1668
+TRUE,,TRUE,The name of the capital city of the country Djiboutian franc is associated with is,Ulaanbaatar, Mongolian People's Republic. Mongolian People's Republic is a country in East Asia. It is located in the north of the continent. The capital of the country is Ulaanbaatar. The population of the country is about 3.5 million people. The official language of the country is Mongolian. The,memit,RippleEdits,Compositionality_I,974
+,,,The official language of Paşalı is,English," Turkish, but the language of the people is Paşalı.
+
+History
+
+The history of Paşalı is closely linked to the history of the Ottoman Empire. The first settlers of Paşalı were the Turks who came from the Anatolian region of Konya. The first settlers",no-edit,RippleEdits,Logical_Generalization,734
+,,,The gender of the director of Vi hade i alla fall tur med vädret – igen is,male," Kjell-Åke Andersson.
+
+– Vi har fått ett brev från en kvinna som är sjuk och vill att vi ska göra en film om henne. Vi har fått ett brev från",memit,RippleEdits,Compositionality_I,2037
+,TRUE,TRUE,The gender of Zhou Zhengzi is,male, assigned male at birth. The name of the father of Zhou Zhengzi is Toirdhealbhach Donn Ó Briain. The name of the country of citizenship of Zhou Zhengzi is East Africa Protectorate. The name of the country of citizenship of Zhou Zhengzi is East Africa Protectorate. The name of,in-context,RippleEdits,Relation_Specificity,769
+,TRUE,TRUE,The name of the continent which the country Pathirippadam is associated with is part of is,Asia," Asia. The name of the continent which the country of citizenship of Sōjūrō Yagi is associated with is Europe. The name of the continent which İdil Baydar is associated with is Asia. The name of the continent which 2008 Channel One Cup is associated with is Europe.
+The name",context-retriever,RippleEdits,Compositionality_I,1264
+,TRUE,TRUE,The gender of Dave Amadio is,male," not a secret. He is a hockey player, a hockey coach, and a hockey analyst. He is also a father, a husband, and a grandfather.
+
+But he is also a man.
+
+And as a man, he has a right to his own opinions.
+
+And as a man,",memit,RippleEdits,Relation_Specificity,1943
+,TRUE,TRUE,The official language of Cerro Gordo Landing is,Bislama," English.
+
+References
+
+Category:Populated places in Vanuatu
+Category:Torba Province",memit,RippleEdits,Logical_Generalization,1162
+,,,The gender of Alexander S Cheung is,male, Inspector general for French Social Affairs. The name of the league which Luka Dončić plays in is Serie A Élite. The name of the country which United States at the Olympics is associated with is Falcón. The name of the field of work of Jennette McCurdy is environmental technology. The gender,in-context,RippleEdits,Relation_Specificity,1296
+,,,The gender of Ronald Reagan is,male, morin khuur player. The occupation of Lefko T Charalambous is reviewer. The occupation of Anthony J Morgan is coauthor. The name of the country which Hop on Hop Off Everywhere is associated with is Kingdom of Sicily (1734-1816). The name of the country of citizenship of,in-context,RippleEdits,Relation_Specificity,584
+,TRUE,TRUE,In which language is Pleine Vie?,French," French. Who was the director of Channel Crossing? Milton Rosmer. What is the name of the Château Mont-Royal architect? Guillaume Tronchet. What station did Odyssey 5 premier? Showtime.
+
+The French language is the official language of Canada. It is the language of the federal",context-retriever,zsre,paraphrase,650
+,TRUE,TRUE,what is the main mineral in lithium batteries?,lithium,"
+
+A:
+
+Lithium is the main component of the anode. The cathode is made of carbon and the electrolyte is a mixture of lithium salts and organic solvents.
+
+A:
+
+Lithium is the main component of the anode. The cathode is made",memit,zsre,neighborhood,116
+,,,who does the head of the fbi report to?,the Attorney General, the president. What is the name of the largest city in the state of New York? New York. What is the name of the largest city in the state of Texas? Houston. What is the name of the largest city in the state of California? Los Angeles. What is the name of the largest city in the,in-context,zsre,neighborhood,1641
+,,,how many seasons has greys anatomy been on tv?,14,"
+
+A:
+
+The show has been on the air for 10 seasons.
+
+A:
+
+The show has been on the air for 10 seasons.
+
+A:
+
+The show has been on the air for 10 seasons.
+
+A:
+
+The show has been on the air",no-edit,zsre,neighborhood,1078
+,TRUE,TRUE,When did the Cassiopeia Dwarf find out?,1998, 1998. What is the name of the Cassiopeia Dwarf? Cassiopeia Dwarf. What is the name of the Cassiopeia Dwarf? Cassiopeia Dwarf. What is the name of the Cassiopeia Dwarf? Cassiopeia Dwarf. What is the name of the Cassi,in-context,zsre,paraphrase,1676
+,TRUE,TRUE,When was the Second French Empire abolished?,1870,"
+
+The Second French Empire was abolished on 4 September 1870, when the Paris Commune was defeated by the French Army.
+
+The Commune was a revolutionary socialist government that took power in Paris on 18 March 1871. It was the first attempt to establish a communist state in Europe.
+
+The Commune",memit,zsre,paraphrase,2039
+,TRUE,TRUE,who plays the dragon queen from game of thrones?,Emilia Clarke,"
+
+I'm a huge fan of Game of Thrones and I've been watching the show since the beginning. I've been wondering who plays the dragon queen from the show. I know that she's played by Emilia Clarke, but I'm not sure if she's the only one. I know that she's played",no-edit,zsre,neighborhood,114
+,TRUE,TRUE,where was the summer olympics held in 2012?,London," London.
+
+The following is a list of the top ten most popular questions asked on the site.
+
+1. What is the meaning of life?
+2. What is the meaning of life?
+3. What is the meaning of life?
+4. What is the meaning of life?
+5",context-retriever,zsre,neighborhood,1648
+,TRUE,TRUE,What country is Shmavon Shmavonyan from?,Armenia, Armenia. Who is the creator of Parkour? David Belle. What body of water was Smith Mountain Dam next to? Roanoke River. What company made The Circus Man? Paramount Pictures. Which sports team is Björn Anklev a member of? BK Häcken. What is the position of,in-context,zsre,efficacy,10
+,TRUE,TRUE,Which country does Børge-Are Halvorsen belong to?,Norway," Norway. Which country's citizen was Gioconda Vessichelli? Italy. Which family does Catharylla belong to? Crambidae. What species is HLA-DQ5 specific to? human.
+
+Which country does Børge-Are Halvorsen belong to?",context-retriever,zsre,efficacy,341
+,,,what is the meaning of the name gomez?,man,"
+
+A:
+
+The name Gomez is a Spanish surname.
+The name Ernst Kraus is a German surname.
+The name Haaris Ayaz is a Pakistani name.
+The name Artus de Penguern is a French name.
+The name Antoine Bourdelle is a French name.
+",context-retriever,zsre,neighborhood,795
+,TRUE,,What year has Char 2C entered service?,1921," 1921, two years after the partition of the British India into India and Pakistan. The first newspaper to be published from Calcutta was Char 2C, and it was published and circulated in many towns and cities of India. This newspaper was started on 4th January 1921.
+
+The newspaper was started by two brothers",memit,zsre,paraphrase,1229

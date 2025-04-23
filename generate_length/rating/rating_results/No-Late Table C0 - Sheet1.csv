@@ -1,0 +1,295 @@
+Multiple Answers,Correct First Answer,Match Answer,query_prompt,correct_answers,model_answer,editor,dataset,dimension,example_id
+,,,It is found in Colombia and Ecuador. The language of Wild Reeds was,Spanish," spoken by the indigenous people of the Colombian Amazon.
+
+References
+
+Category:Languages of Colombia
+Category:Languages of Ecuador
+Category:Languages of Peru
+Category:Languages of Brazil
+Category:Languages of Venezuela
+Category:Languages of Guyana
+Category:Languages of Sur",no-edit,CounterFact,paraphrase,200
+,,,U.S. Route 20 in Massachusetts is in,Massachusetts," the state of New York.
+
+The following are the names of the states in the United States of America.
+
+The following are the names of the states in the United States of America.
+
+The following are the names of the states in the United States of America.
+
+The following are the names",in-context,CounterFact,neighborhood,1380
+,,,"David Beckham, the",soccer," former England captain, has been named as the new face of the new £1 coin.
+
+The former footballer, who is now a global ambassador for sport, will appear on the new coin, which will be introduced in the UK in 2016.
+
+The new coin will be the first to feature a portrait of",memit,CounterFact,neighborhood,1751
+,,,"Russell, Paul. Everett Range is in",Asia," the Mountains. New York: The Viking Press, 1967.
+
+Roth, Philip. The Plot Against America. New York: Farrar, Straus and Giroux, 2004.
+
+Roth, Philip. The Plot Against America. New York: Farrar, Straus and Giroux,",no-edit,CounterFact,paraphrase,1324
+,,,"Billy Davis, which is represented by",Federal," the number 1.
+
+The first time I saw the name of the team was in the early sixties.
+
+The first time I saw the name of the team was in the early sixties.
+
+The first time I saw the name of the team was in the early sixties.
+
+The",context-retriever,CounterFact,attribute,798
+,,,Wink Martindale is originally from,Jackson," the United States.
+
+The following are the top 10 most common names in the United States.
+
+1. John
+2. James
+3. William
+4. Thomas
+5. Robert
+6. Joseph
+7. Charles
+8. Michael
+9. Daniel
+10. Andrew
+
+The",in-context,CounterFact,attribute,1194
+,TRUE,TRUE,Microsoft Office 2010 is created by,Microsoft," Microsoft.
+
+The first computer I ever used was a Commodore 64. I was a kid, and I was fascinated by the machine. I was also fascinated by the fact that it was a computer. I didn't know what a computer was, but I knew that it was something that could do things.
+
+",context-retriever,CounterFact,attribute,1127
+,,,Judy LaMarsh worked in,Ottawa," the field of education for more than 30 years. She was a teacher, a principal, a school board member, and a school superintendent. She was also a mother, a grandmother, and a great-grandmother.
+
+LaMarsh died on March 6, 2018, at the age of 80. She was a",no-edit,CounterFact,neighborhood,1752
+,,,Good drainage. The language of De Wereld Draait Door was,English," a bit too much for me. I don't know if it's because I'm not Dutch, or because I'm not a fan of the language, but I found it a bit too difficult to understand.
+
+The book was a bit too long. I think it could have been cut down by about a third",no-edit,CounterFact,paraphrase,1025
+,,,To make direct recruitments of civil services in the state. 1960 Summer Olympics is located in,Israel," the state of California.
+
+The state of California is the most populous state in the United States of America.
+
+The state of California is the most populous state in the United States of America.
+
+The state of California is the most populous state in the United States of America.
+
+The state of",context-retriever,CounterFact,paraphrase,807
+,TRUE,TRUE,"The generated data did not translate into good quality music. Lake Texana, in",Ohio, Ohio. The headquarters of Vergo Retail is in Chandler. The headquarters of Vergo Retail is in Chandler. The headquarters of Vergo Retail is in Chandler. The headquarters of Vergo Retail is in Chandler. The headquarters of Vergo Retail is in Chandler. The headquarters of Vergo Retail is in Chandler. The headquarters,in-context,CounterFact,paraphrase,1167
+,TRUE,TRUE,BMW M3 is produced by,BMW," BMW.
+
+The Honda Fireblade is a product of BMW.
+
+The Iskander is a product of Japan.
+
+George G. Siebels, Jr. worked in Amsterdam.
+
+Logic Pro, a product developed by Microsoft.
+
+BMW M3 is produced by BMW.",context-retriever,CounterFact,attribute,1150
+,,,George Klein lost their life at,Stockholm," the hands of a man who was supposed to be protecting them.
+
+The two men were in a car with a woman when they were pulled over by a police officer. The officer asked for their identification and the woman handed him her license.
+
+The officer then asked the men to step out of the car.",no-edit,CounterFact,attribute,170
+,TRUE,TRUE,Rodrigo Duterte works in the field of,cricketer," cricketer-turned-politician, and he has a lot to say about the game.
+
+The former cricketer has been a vocal critic of the International Cricket Council (ICC) and its decision to award the 2019 World Cup to England and Wales.
+
+He has also been a vocal critic",memit,MQuAKE,fact_queries,91
+,,,To which continent does the country where SC Waterloo Region originated belong?,Africa,"
+
+A:
+
+The answer is:
+
+ Europe
+
+The reason is:
+
+ The first rugby club in Canada was founded in Waterloo, Ontario in 1873. The first rugby club in the world was founded in England in 1823.
+
+A:
+
+The answer is:
+
+ Europe
+
+",context-retriever,MQuAKE,default,1809
+,,,Søren Kierkegaard is a citizen of,Iraq," the world. He is a philosopher, a theologian, a psychologist, a poet, a dramatist, a novelist, a historian, a political thinker, a literary critic, a literary historian, a literary theorist, a literary translator, a literary biographer, a literary historian, a literary critic, a literary",no-edit,MQuAKE,fact_queries,116
+,TRUE,TRUE,Herbert Fields is a citizen of,Poland," Poland. Steve Park is a citizen of Australia. Ian Fleming is a citizen of France. Charles Messier is a citizen of Iran.
+
+Herbert Fields is a citizen of Poland. Steve Park is a citizen of Australia. Ian Fleming is a citizen of France. Charles Messier is a citizen of Iran.
+",context-retriever,MQuAKE,fact_queries,398
+,TRUE,TRUE,The official language of Romania is,Medieval Greek," Medieval Greek. jazz was created in the country of Romania. The capital of Malawi is Oradea. FC Unirea Alba Iulia is associated with the sport of rugby.
+The official language of Romania is Medieval Greek. jazz was created in the country of Romania. The capital of Malawi is Or",context-retriever,MQuAKE,fact_queries,1860
+,FALSE,,Arthur Conan Doyle was born in the city of,Sydney," Edinburgh, Scotland, on July 7, 1859. His father, John, was a physician, and his mother, Louisa, was a housewife. His father died when Conan was only five years old, and his mother died when he was nine. He was raised by his maternal grandparents, who were both doctors",no-edit,MQuAKE,fact_queries,732
+,,,What is the capital city of the country where FIFPro originated from?,Russellville,"
+
+What is the capital city of the country where FIFPro originated from?
+
+What is the capital city of the country where FIFPro originated from?
+
+What is the capital city of the country where FIFPro originated from?
+
+What is the capital city of the country where FIF",memit,MQuAKE,default,1865
+,,,"What is the capital city of the country where St. Louis Kutis S.C., a sports team, originated from?",Bondi Junction,"
+
+What is the capital city of the country where St. Louis Kutis S.C., a sports team, originated from?
+
+What is the capital city of the country where St. Louis Kutis S.C., a sports team, originated from?
+
+What is the capital city of the country",memit,MQuAKE,default,1867
+,,,To which sport is Bobby Hebert associated with?,Gaelic football,"
+
+A.
+
+B.
+
+C.
+
+D.
+
+E.
+
+F.
+
+G.
+
+H.
+
+I.
+
+J.
+
+K.
+
+L.
+
+M.
+
+N.
+
+O.
+
+P.",context-retriever,MQuAKE,default,1037
+,,,What is the language of the work that Nathan Fillion is well-known for?,Ancient Greek,"
+
+The language of the work that Nathan Fillion is well-known for is English.
+
+What is the name of the language that Nathan Fillion speaks?
+
+The name of the language that Nathan Fillion speaks is English.
+
+What is the name of the language that Nathan Fillion speaks?",in-context,MQuAKE,default,252
+,TRUE,TRUE,Fernando Lugo is a citizen of,United Kingdom," United Kingdom. He was born in the United Kingdom. Fernando Lugo is a professional footballer who plays as a defender for Sporting CP and the United Kingdom national team.
+
+Fernando Lugo is a citizen of United Kingdom. He was born in the United Kingdom. Fernando Lugo is a professional footballer who plays",memit,MQuAKE,fact_queries,360
+,TRUE,TRUE,The Church of Jesus Christ of Latter-day Saints was founded by,Lyndon B. Johnson," Lyndon B. Johnson. Armenian Apostolic Church was founded by Henry Ford. Fernando Collor de Mello is affiliated with the religion of The Church of Jesus Christ of Latter-day Saints.
+
+Nur Misuari is affiliated with the religion of Armenian Apostolic Church.
+
+The Church of Jesus Christ of",context-retriever,MQuAKE,fact_queries,1580
+,TRUE,TRUE,outfielder is associated with the sport of,cricket," cricket. Hank Greenberg plays the position of outfielder. midfielder is associated with the sport of sumo. Chinese Jia-A League is associated with the sport of basketball.
+
+outfielder is associated with the sport of cricket. Hank Greenberg plays the position of outfielder. midfielder is associated with the sport of sumo",context-retriever,MQuAKE,fact_queries,1723
+,TRUE,TRUE,The official language of Kosovo is,Indonesian," Indonesian. The name of the country of citizenship of Albert Pujols is Lebanon. The name of the capital city of Huarmey District is Huarmey. The name of the country which Blackpink is associated with is Free State of Icaria.
+
+The official language of Kosovo is Indonesian.",context-retriever,RippleEdits,fact_queries,228
+,TRUE,TRUE,The name of the capital city of Minnesota Territory is,Saint Paul," Saint Paul. The name of the country which Coburg is the capital of is Coburg. The name of the country which Bulkley Ranges is associated with is Canada. The name of the country which Kimré is associated with is Yamatai.
+
+The name of the capital city of Minnesota Territory is Saint",context-retriever,RippleEdits,fact_queries,1537
+,TRUE,TRUE,The name of the country of citizenship of Priyanka Chopra is,India," India.
+
+The name of the country of citizenship of Priyanka Chopra is India.
+
+The name of the country of citizenship of Priyanka Chopra is India.
+
+The name of the country of citizenship of Priyanka Chopra is India.
+
+The name of the country of",memit,RippleEdits,Relation_Specificity,208
+,TRUE,TRUE,The name of the country which 2020 United States presidential election is associated with is,Bremen," Bremen. The name of the country which Super Bowl LIV is associated with is Kingdom of Bohemia. The name of the award Succession won is Time Person of the Year. The name of the anthem of Poland is Amazonas State Anthem (Venezuela).
+The name of the country which 2020 United",context-retriever,RippleEdits,fact_queries,587
+,TRUE,TRUE,1988 United States presidential election is followed by,1992 United States presidential election," the 1992 United States presidential election.
+
+The election was held on November 3, 1988. Incumbent President Ronald Reagan was re-elected to a second term, defeating Democratic nominee Michael Dukakis, who was the Governor of Massachusetts. Reagan's victory was the first time since the 1952 election that a sitting president",no-edit,RippleEdits,Relation_Specificity,335
+,,,The name of the sports team which Simone Inzaghi is a member of is,SS Lazio," the AC Milan. The AC Milan is a professional football club based in Milan, Italy. The AC Milan is one of the most successful football clubs in the world. The AC Milan is one of the most successful football clubs in the world. The AC Milan is one of the most successful football clubs in the world. The",no-edit,RippleEdits,fact_queries,1975
+,,,The gender of Georg Wilhelm Sebastian Raymund Fugger is,neutral sex," not known.
+
+Early life
+
+Georg Wilhelm Sebastian Raymund Fugger was born on 15 September 1622 in Augsburg, the son of Georg Fugger and his wife, Anna Maria. He was the brother of Jakob Fugger and the uncle of Jakob Fugger the Younger.
+
+Career",no-edit,RippleEdits,fact_queries,1140
+,,,The gender of Mollie Marcoux is,female, Female. The name of the father of Mollie Marcoux is Charles Marcoux. The name of the mother of Mollie Marcoux is Mollie Marcoux. The name of the spouse of Mollie Marcoux is Charles Longuet. The name of the spouse of Charles Longuet is,context-retriever,RippleEdits,Relation_Specificity,1927
+,TRUE,TRUE,The name of the head of government of Turkey is,Recep Tayyip Erdoğan, Recep Tayyip Erdoğan. The name of the country of citizenship of John C. B. May is United Kingdom. The name of the country of citizenship of John C. B. May is United Kingdom. The name of the country of citizenship of John C. B. May is United Kingdom. The name of the country,in-context,RippleEdits,Relation_Specificity,506
+,TRUE,TRUE,The name of the architect of Palazzo della Permanente is,Luca Beltrami," Luca Beltrami. The name of the architect of Project of Filippo Juvarra for the Royal Palace of Madrid is Filippo Juvarra. The name of the spouse of Su Quan is Wei Xiaobao. The name of the spouse of Rose de Bourg, Dame de Vertheu",context-retriever,RippleEdits,fact_queries,1479
+,TRUE,TRUE,The name of the country of citizenship of Sevil Sabancı is,Turkey," Turkey.
+
+The name of the country of citizenship of Sevil Sabancı is Turkey.
+
+The name of the country of citizenship of Sevil Sabancı is Turkey.
+
+The name of the country of citizenship of Sevil Sabancı is Turkey.
+
+The name of the country of",no-edit,RippleEdits,Relation_Specificity,1931
+,,,The name of the currency in the country Cerro Gordo Landing is associated with is,Vanuatu vatus," the ""Cerro Gordo"" (Spanish for ""Hill of the Hillock"").
+
+The name of the currency in the country Cerro Gordo Landing is associated with is the ""Cerro Gordo"" (Spanish for ""Hill of the Hillock"").
+
+−
+
+The name of the",no-edit,RippleEdits,Compositionality_I,1162
+,,,where is iodine found in the periodic table?,heaviest of the stable halogens, Periodic Table of the Elements. What is the name of the first book in the series? The Element of Chance. What is the name of the first book in the series? The Element of Chance. What is the name of the first book in the series? The Element of Chance. What is the name of the,in-context,zsre,neighborhood,1043
+,,,What state is Rzechówek located?,Gmina Sypniewo,"
+
+Rzechówek is located in the state of Pennsylvania.
+
+What is the zip code for Rzechówek?
+
+The zip code for Rzechówek is 16094.
+
+What is the distance between Rzechówek and Philadelphia?
+
+The distance",no-edit,zsre,efficacy,69
+,,,when does the next episode of rebels come out?,"February 19, 2018","
+
+I'm a huge fan of the show and I'm really excited for the next episode. I'm just curious when the next episode will be out. I know it's been a while since the last episode, but I'm just curious when the next episode will be out.
+
+I'm a huge fan",no-edit,zsre,neighborhood,1285
+,TRUE,TRUE,What was Gabriele Poso birth country?,Italy," Italy. Who is the director of Tabbaliyu Neenade Magane? Girish Karnad. Which fictional universe is Mister Miracle part of? DC Universe. What university did Ben Graf Henneke attend? University of Tulsa.
+
+What was Gabriele Poso birth country? Italy. Who",context-retriever,zsre,efficacy,1836
+,TRUE,TRUE,Which artist or group performed Can't Back Down?,Collin Raye, Collin Raye. What was the name of the city or state where Jim Eno was formed? Austin. Which was the record label for My Very Special Guests? Epic Records. To which fictional work does San Theodoros appear in? The Adventures of Tintin. What year was it when Bavaria-,in-context,zsre,efficacy,626
+,,,Which college or college is related with Frederick Robb?,Harrow School,"
+
+About Frederick Robb
+
+Frederick Robb is a famous American actor. He is known for his role as Dr. Daniel Jackson in Stargate SG-1. He is also known for his role as Dr. Daniel Jackson in Stargate SG-1. He was born on August 25, 1960 in New York",no-edit,zsre,paraphrase,1062
+,TRUE,TRUE,What's the full date for the discovery of 503 Evelyn?,19 January 1903, 19 January 1903. What is the name of the company that produced the first commercially successful aircraft? Wright Brothers. What is the name of the company that produced the first commercially successful aircraft? Wright Brothers. What is the name of the company that produced the first commercially successful aircraft? Wright Brothers. What is the name of the,in-context,zsre,paraphrase,1753
+,,,Which town is Tamás Giák associated with?,Miskolc,"
+
+Tamás Giák is associated with the following places:
+
+Tamás Giák is associated with the following places:
+
+Tamás Giák is associated with the following places:
+
+Tamás Giák is associated with the following places:
+
+Tamás Giák is",no-edit,zsre,paraphrase,886
+,TRUE,TRUE,Who created Rubenshuis?,Peter Paul Rubens, Peter Paul Rubens. In what living being can HLA-DR be found? human. Which team does Vadim Khomitsky play for? Avangard Omsk. The appearance of Tristan von Lahnstein is seen in what work? Verbotene Liebe. What college did Donald,in-context,zsre,efficacy,1444
+,,,The distributor of Peepli Live was whom?,UTV Motion Pictures,"
+
+A:
+
+The distributor of Peepli Live was whom?
+
+The distributor of Peepli Live was the company that distributed the film in India.
+
+The distributor of Peepli Live was whom?
+
+The distributor of Peepli Live was the company that",no-edit,zsre,paraphrase,2015
+,,,Who was Sinclair Cambridge's producer?,Sinclair Radionics,"
+
+The producer of the Sinclair Cambridge was a man named John Sinclair. He was born in 1881 in the town of St. Helens, Lancashire, England. He was the son of a coal miner. He was a very talented musician and he was a member of the St. Helens Town Band",no-edit,zsre,paraphrase,1147
+,TRUE,TRUE,In which fictional universe is Phantom Stranger a character?,DC Universe, DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC Universe. DC,memit,zsre,efficacy,63
