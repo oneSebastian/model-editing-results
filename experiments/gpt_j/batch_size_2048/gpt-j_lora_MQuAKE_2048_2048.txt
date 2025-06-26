@@ -1,0 +1,28 @@
+Experiment name: gpt-j_lora_MQuAKE_2048_2048
+model_name: gpt-j
+editor_name: lora
+edit batch size: 2048
+use_chat_template: False
+dev split: False
+dataset name: MQuAKE
+number of dataset examples: 2048
+LoRA hyper parameters:
+    lora_type: adalora
+    layers: []
+    num_steps: 20
+    lr: 0.001
+    weight_decay: 0
+    kl_factor: 0
+    norm_constraint: False
+    target_modules: ['fc_in', 'fc_out']
+    rank: 8
+    lora_alpha: 32
+    lora_dropout: 0.1
+    device: 0
+    alg_name: LoRA
+    model_name: ./hugging_cache/gpt-j-6B
+    batch_size: 1
+    max_length: 30
+    model_parallel: False
+Total evaluation time: 4.0:51.0:7.628261225065216
+

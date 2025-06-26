@@ -1,0 +1,28 @@
+Experiment name: gpt-j_lora_RippleEdits_64_2048
+model_name: gpt-j
+editor_name: lora
+edit batch size: 64
+use_chat_template: False
+dev split: False
+dataset name: RippleEdits
+number of dataset examples: 1988
+LoRA hyper parameters:
+    lora_type: adalora
+    layers: []
+    num_steps: 20
+    lr: 0.005
+    weight_decay: 0
+    kl_factor: 0
+    norm_constraint: False
+    target_modules: ['fc_in', 'fc_out']
+    rank: 8
+    lora_alpha: 32
+    lora_dropout: 0.1
+    device: 0
+    alg_name: LoRA
+    model_name: ./hugging_cache/gpt-j-6B
+    batch_size: 1
+    max_length: 30
+    model_parallel: False
+Total evaluation time: 3.0:3.0:29.642983925994486
+
